@@ -1,0 +1,6413 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="BahanBtNumBahan">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Jenis" type="xs:string" minOccurs="0" />
+                <xs:element name="BatchNum" type="xs:string" minOccurs="0" />
+                <xs:element name="BBID" type="xs:string" minOccurs="0" />
+                <xs:element name="Nama" type="xs:string" minOccurs="0" />
+                <xs:element name="Sat" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <BahanBtNumBahan>
+    <Jenis>(BT)</Jenis>
+    <BatchNum>OSP-2501-00129</BatchNum>
+    <BBID>(BT)000031</BBID>
+    <Nama>(BT) HANG TAG BATA 16 X 4.5 CM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(BT)</Jenis>
+    <BatchNum>25A000720</BatchNum>
+    <BBID>(BT)000030</BBID>
+    <Nama>(BT) INNER BOX BATA WEINBRENNER 335X210X125X35 MM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(BT)</Jenis>
+    <BatchNum>21122024</BatchNum>
+    <BBID>(BT)000002</BBID>
+    <Nama>(BT) KAIN MESH DALL BT-17(2024/8/31#5) GREEN</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(BT)</Jenis>
+    <BatchNum>21122024</BatchNum>
+    <BBID>(BT)000007</BBID>
+    <Nama>(BT) KAIN MESH SANDWICH DIAMOND GREEN</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(BT)</Jenis>
+    <BatchNum>21122024</BatchNum>
+    <BBID>(BT)000001</BBID>
+    <Nama>(BT) KAIN MESH SANDWICH DIAMOND(2024/9/16#2) GREY</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(BT)</Jenis>
+    <BatchNum>PJ/24/12/00019</BatchNum>
+    <BBID>(BT)000028</BBID>
+    <Nama>(BT) OUTER BOX SOLID BATA UK. 658X620X345 MM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(BT)</Jenis>
+    <BatchNum>07012025</BatchNum>
+    <BBID>(BT)000012</BBID>
+    <Nama>(BT) OUTSOLE ZC 19087 BEIGE/BLACK SIZE 40</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(BT)</Jenis>
+    <BatchNum>07012025</BatchNum>
+    <BBID>(BT)000014</BBID>
+    <Nama>(BT) OUTSOLE ZC 19087 BEIGE/BLACK SIZE 42</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(BT)</Jenis>
+    <BatchNum>21122024</BatchNum>
+    <BBID>(BT)000004</BBID>
+    <Nama>(BT) PU MOTIF KIKIR BT-02 1.2 MM GREEN</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(BT)</Jenis>
+    <BatchNum>21122024</BatchNum>
+    <BBID>(BT)000003</BBID>
+    <Nama>(BT) PU NUBUCK BT 04(2024/8/1#2) 1.4 MM BEIGE</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(BT)</Jenis>
+    <BatchNum>21122024</BatchNum>
+    <BBID>(BT)000026</BBID>
+    <Nama>(BT) TR COUNTER BT-21 SIZE 39-42</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(BT)</Jenis>
+    <BatchNum>21122024</BatchNum>
+    <BBID>(BT)000027</BBID>
+    <Nama>(BT) TR COUNTER BT-21 SIZE 43-46</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(BT)</Jenis>
+    <BatchNum>SQ2/PUS-211124-0012</BatchNum>
+    <BBID>(BT)000009</BBID>
+    <Nama>(BT) WEBBING POLY KOMB 232(Y545) 12 MM BEIGE(P-4975 A/ARMY(P-4974 A)</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(CMPS)</Jenis>
+    <BatchNum>S1124-7335</BatchNum>
+    <BBID>CMPS01000041</BBID>
+    <Nama>(CMPS) BUSA 10 MM SH 18 WHITE</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(CMPS)</Jenis>
+    <BatchNum>0384</BatchNum>
+    <BBID>CMPS01000099</BBID>
+    <Nama>(CMPS) BUSA WA 640 3 MM WHITE</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(CMPS)</Jenis>
+    <BatchNum>0399</BatchNum>
+    <BBID>CMPS01000017</BBID>
+    <Nama>(CMPS) BUSA WA 640 5 MM WHITE</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(CMPS)</Jenis>
+    <BatchNum>20818</BatchNum>
+    <BBID>CMPS01000201</BBID>
+    <Nama>(CMPS) CANVAS HERRINGBONE BLACK</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(CMPS)</Jenis>
+    <BatchNum>20561</BatchNum>
+    <BBID>CMPS01000005</BBID>
+    <Nama>(CMPS) CANVAS MARSOTO CREAM + CANVAS 6 OZ NATURAL</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(CMPS)</Jenis>
+    <BatchNum>20818</BatchNum>
+    <BBID>CMPS01000006</BBID>
+    <Nama>(CMPS) CANVAS MARSOTO WHITE + CANVAS 6 OZ NATURAL </Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(CMPS)</Jenis>
+    <BatchNum>20814151617</BatchNum>
+    <BBID>CMPS01000197</BBID>
+    <Nama>(CMPS) CARE TAG WHITE/BLACK GLOSSY FINISH UK.6.5 X 4 CM</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(CMPS)</Jenis>
+    <BatchNum>6000002590</BatchNum>
+    <BBID>CMPS01000069</BBID>
+    <Nama>(CMPS) JONES FOAM 5 MM 085 25C+/- 4D0,11 +/- 0,01 YELLOW +LAMINATION+ TEXTILE TS-201 COL. BLANC DE BLANC UK 110 X 200CM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(CMPS)</Jenis>
+    <BatchNum>13/12/2024</BatchNum>
+    <BBID>CMPS01000069</BBID>
+    <Nama>(CMPS) JONES FOAM 5 MM 085 25C+/- 4D0,11 +/- 0,01 YELLOW +LAMINATION+ TEXTILE TS-201 COL. BLANC DE BLANC UK 110 X 200CM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(CMPS)</Jenis>
+    <BatchNum>20814151617</BatchNum>
+    <BBID>CMPS01000172</BBID>
+    <Nama>(CMPS) STICKER INNER RETROGRADE HI DECON BLACK WHITE SIZE 35</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(CMPS)</Jenis>
+    <BatchNum>20814151617</BatchNum>
+    <BBID>CMPS01000174</BBID>
+    <Nama>(CMPS) STICKER INNER RETROGRADE HI DECON BLACK WHITE SIZE 37</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(CMPS)</Jenis>
+    <BatchNum>20814151617</BatchNum>
+    <BBID>CMPS01000175</BBID>
+    <Nama>(CMPS) STICKER INNER RETROGRADE HI DECON BLACK WHITE SIZE 38</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(CMPS)</Jenis>
+    <BatchNum>20814151617</BatchNum>
+    <BBID>CMPS01000176</BBID>
+    <Nama>(CMPS) STICKER INNER RETROGRADE HI DECON BLACK WHITE SIZE 39</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(CMPS)</Jenis>
+    <BatchNum>20814151617</BatchNum>
+    <BBID>CMPS01000177</BBID>
+    <Nama>(CMPS) STICKER INNER RETROGRADE HI DECON BLACK WHITE SIZE 40</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(CMPS)</Jenis>
+    <BatchNum>20814151617</BatchNum>
+    <BBID>CMPS01000178</BBID>
+    <Nama>(CMPS) STICKER INNER RETROGRADE HI DECON BLACK WHITE SIZE 41</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(CMPS)</Jenis>
+    <BatchNum>20814151617</BatchNum>
+    <BBID>CMPS01000213</BBID>
+    <Nama>(CMPS) STICKER INNER RETROGRADE HI TRIPLE BLACK SIZE 36</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(CMPS)</Jenis>
+    <BatchNum>20814151617</BatchNum>
+    <BBID>CMPS01000214</BBID>
+    <Nama>(CMPS) STICKER INNER RETROGRADE HI TRIPLE BLACK SIZE 37</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(CMPS)</Jenis>
+    <BatchNum>20814151617</BatchNum>
+    <BBID>CMPS01000215</BBID>
+    <Nama>(CMPS) STICKER INNER RETROGRADE HI TRIPLE BLACK SIZE 38</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(CMPS)</Jenis>
+    <BatchNum>20814151617</BatchNum>
+    <BBID>CMPS01000181</BBID>
+    <Nama>(CMPS) STICKER INNER RETROGRADE HI TRIPLE BLACK SIZE 39</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(CMPS)</Jenis>
+    <BatchNum>20814151617</BatchNum>
+    <BBID>CMPS01000182</BBID>
+    <Nama>(CMPS) STICKER INNER RETROGRADE HI TRIPLE BLACK SIZE 40</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(CMPS)</Jenis>
+    <BatchNum>20814151617</BatchNum>
+    <BBID>CMPS01000183</BBID>
+    <Nama>(CMPS) STICKER INNER RETROGRADE HI TRIPLE BLACK SIZE 41</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(CMPS)</Jenis>
+    <BatchNum>20814151617</BatchNum>
+    <BBID>CMPS01000220</BBID>
+    <Nama>(CMPS) STICKER INNER RETROGRADE LOW BLACK WHITE SIZE 37</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(CMPS)</Jenis>
+    <BatchNum>20814151617</BatchNum>
+    <BBID>CMPS01000140</BBID>
+    <Nama>(CMPS) STICKER INNER RETROGRADE LOW BLACK WHITE SIZE 38</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(CMPS)</Jenis>
+    <BatchNum>20814151617</BatchNum>
+    <BBID>CMPS01000141</BBID>
+    <Nama>(CMPS) STICKER INNER RETROGRADE LOW BLACK WHITE SIZE 39</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(CMPS)</Jenis>
+    <BatchNum>20814151617</BatchNum>
+    <BBID>CMPS01000142</BBID>
+    <Nama>(CMPS) STICKER INNER RETROGRADE LOW BLACK WHITE SIZE 40</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(CMPS)</Jenis>
+    <BatchNum>20814151617</BatchNum>
+    <BBID>CMPS01000143</BBID>
+    <Nama>(CMPS) STICKER INNER RETROGRADE LOW BLACK WHITE SIZE 41</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(CMPS)</Jenis>
+    <BatchNum>20814151617</BatchNum>
+    <BBID>CMPS01000144</BBID>
+    <Nama>(CMPS) STICKER INNER RETROGRADE LOW BLACK WHITE SIZE 42</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(CMPS)</Jenis>
+    <BatchNum>20814151617</BatchNum>
+    <BBID>CMPS01000158</BBID>
+    <Nama>(CMPS) STICKER INNER RETROGRADE LOW CREAM SIZE 35</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(CMPS)</Jenis>
+    <BatchNum>20814151617</BatchNum>
+    <BBID>CMPS01000159</BBID>
+    <Nama>(CMPS) STICKER INNER RETROGRADE LOW CREAM SIZE 36</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(CMPS)</Jenis>
+    <BatchNum>20814151617</BatchNum>
+    <BBID>CMPS01000160</BBID>
+    <Nama>(CMPS) STICKER INNER RETROGRADE LOW CREAM SIZE 37</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(CMPS)</Jenis>
+    <BatchNum>20814151617</BatchNum>
+    <BBID>CMPS01000161</BBID>
+    <Nama>(CMPS) STICKER INNER RETROGRADE LOW CREAM SIZE 38</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(CMPS)</Jenis>
+    <BatchNum>20814151617</BatchNum>
+    <BBID>CMPS01000162</BBID>
+    <Nama>(CMPS) STICKER INNER RETROGRADE LOW CREAM SIZE 39</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(CMPS)</Jenis>
+    <BatchNum>20814151617</BatchNum>
+    <BBID>CMPS01000163</BBID>
+    <Nama>(CMPS) STICKER INNER RETROGRADE LOW CREAM SIZE 40</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(CMPS)</Jenis>
+    <BatchNum>20814151617</BatchNum>
+    <BBID>CMPS01000165</BBID>
+    <Nama>(CMPS) STICKER INNER RETROGRADE LOW CREAM SIZE 41</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(CMPS)</Jenis>
+    <BatchNum>20814151617</BatchNum>
+    <BBID>CMPS01000164</BBID>
+    <Nama>(CMPS) STICKER INNER RETROGRADE LOW CREAM SIZE 42</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(CMPS)</Jenis>
+    <BatchNum>20814151617</BatchNum>
+    <BBID>CMPS01000167</BBID>
+    <Nama>(CMPS) STICKER INNER RETROGRADE LOW TRIPLE BLACK SIZE 35</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(CMPS)</Jenis>
+    <BatchNum>20814151617</BatchNum>
+    <BBID>CMPS01000168</BBID>
+    <Nama>(CMPS) STICKER INNER RETROGRADE LOW TRIPLE BLACK SIZE 36</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(CMPS)</Jenis>
+    <BatchNum>20814151617</BatchNum>
+    <BBID>CMPS01000224</BBID>
+    <Nama>(CMPS) STICKER INNER RETROGRADE LOW TRIPLE BLACK SIZE 37</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(CMPS)</Jenis>
+    <BatchNum>20814151617</BatchNum>
+    <BBID>CMPS01000169</BBID>
+    <Nama>(CMPS) STICKER INNER RETROGRADE LOW TRIPLE BLACK SIZE 40</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(CMPS)</Jenis>
+    <BatchNum>20814151617</BatchNum>
+    <BBID>CMPS01000227</BBID>
+    <Nama>(CMPS) STICKER INNER RETROGRADE LOW TRIPLE BLACK SIZE 41</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(CMPS)</Jenis>
+    <BatchNum>20814151617</BatchNum>
+    <BBID>CMPS01000147</BBID>
+    <Nama>(CMPS) STICKER INNER RETROGRADE LOW WHITE BLUE SIZE 36</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(CMPS)</Jenis>
+    <BatchNum>20814151617</BatchNum>
+    <BBID>CMPS01000149</BBID>
+    <Nama>(CMPS) STICKER INNER RETROGRADE LOW WHITE BLUE SIZE 37</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(CMPS)</Jenis>
+    <BatchNum>20814151617</BatchNum>
+    <BBID>CMPS01000150</BBID>
+    <Nama>(CMPS) STICKER INNER RETROGRADE LOW WHITE BLUE SIZE 38</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(CMPS)</Jenis>
+    <BatchNum>20814151617</BatchNum>
+    <BBID>CMPS01000151</BBID>
+    <Nama>(CMPS) STICKER INNER RETROGRADE LOW WHITE BLUE SIZE 39</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(CMPS)</Jenis>
+    <BatchNum>20814151617</BatchNum>
+    <BBID>CMPS01000152</BBID>
+    <Nama>(CMPS) STICKER INNER RETROGRADE LOW WHITE BLUE SIZE 40</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(CMPS)</Jenis>
+    <BatchNum>20814151617</BatchNum>
+    <BBID>CMPS01000153</BBID>
+    <Nama>(CMPS) STICKER INNER RETROGRADE LOW WHITE BLUE SIZE 41</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(CMPS)</Jenis>
+    <BatchNum>20814151617</BatchNum>
+    <BBID>CMPS01000154</BBID>
+    <Nama>(CMPS) STICKER INNER RETROGRADE LOW WHITE BLUE SIZE 42</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(CMPS)</Jenis>
+    <BatchNum>20814151617</BatchNum>
+    <BBID>CMPS01000200</BBID>
+    <Nama>(CMPS) STIKER HARGA</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(CMPS)</Jenis>
+    <BatchNum>1080/XI/24</BatchNum>
+    <BBID>CMPS01000096</BBID>
+    <Nama>(CMPS) TPU FOR LABEL L. 3.5 CM</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(CRL)</Jenis>
+    <BatchNum>0000022</BatchNum>
+    <BBID>CRL000089</BBID>
+    <Nama>(CRL) KARET COMPOUND SETENGAH MATANG WHITE 03</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(CRL)</Jenis>
+    <BatchNum>0001535</BatchNum>
+    <BBID>CRL000089</BBID>
+    <Nama>(CRL) KARET COMPOUND SETENGAH MATANG WHITE 03</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(CRL)</Jenis>
+    <BatchNum>0000773</BatchNum>
+    <BBID>CRL000010</BBID>
+    <Nama>(CRL) OUTSOLE RUBBER CHARLY BROWN WITH LOGO OFF WHITE HD 70-75 SIZE 38</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(DLS)</Jenis>
+    <BatchNum>25/SJ/AKF/II/152</BatchNum>
+    <BBID>DLS000008</BBID>
+    <Nama>(DLS) MATA AYAM BESI (TANPA WASHER) SILVER UK. 10 MM</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(DLS)</Jenis>
+    <BatchNum>0001397</BatchNum>
+    <BBID>DLS000026</BBID>
+    <Nama>(DLS) OUTSOLE RUBBER MR 01 (VTL) BLACK SIZE 38</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(DLS)</Jenis>
+    <BatchNum>0001410</BatchNum>
+    <BBID>DLS000027</BBID>
+    <Nama>(DLS) OUTSOLE RUBBER MR 01 (VTL) BLACK SIZE 39</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(DLS)</Jenis>
+    <BatchNum>0001403</BatchNum>
+    <BBID>DLS000027</BBID>
+    <Nama>(DLS) OUTSOLE RUBBER MR 01 (VTL) BLACK SIZE 39</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(DLS)</Jenis>
+    <BatchNum>0001394</BatchNum>
+    <BBID>DLS000028</BBID>
+    <Nama>(DLS) OUTSOLE RUBBER MR 01 (VTL) BLACK SIZE 40</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(DLS)</Jenis>
+    <BatchNum>0001410</BatchNum>
+    <BBID>DLS000028</BBID>
+    <Nama>(DLS) OUTSOLE RUBBER MR 01 (VTL) BLACK SIZE 40</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(DLS)</Jenis>
+    <BatchNum>0001410</BatchNum>
+    <BBID>DLS000029</BBID>
+    <Nama>(DLS) OUTSOLE RUBBER MR 01 (VTL) BLACK SIZE 41</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(DLS)</Jenis>
+    <BatchNum>0001403</BatchNum>
+    <BBID>DLS000029</BBID>
+    <Nama>(DLS) OUTSOLE RUBBER MR 01 (VTL) BLACK SIZE 41</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(DLS)</Jenis>
+    <BatchNum>0001398</BatchNum>
+    <BBID>DLS000029</BBID>
+    <Nama>(DLS) OUTSOLE RUBBER MR 01 (VTL) BLACK SIZE 41</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(DLS)</Jenis>
+    <BatchNum>0001382</BatchNum>
+    <BBID>DLS000030</BBID>
+    <Nama>(DLS) OUTSOLE RUBBER MR 01 (VTL) BLACK SIZE 42</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(DLS)</Jenis>
+    <BatchNum>0001398</BatchNum>
+    <BBID>DLS000030</BBID>
+    <Nama>(DLS) OUTSOLE RUBBER MR 01 (VTL) BLACK SIZE 42</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(DLS)</Jenis>
+    <BatchNum>0001409</BatchNum>
+    <BBID>DLS000031</BBID>
+    <Nama>(DLS) OUTSOLE RUBBER MR 01 (VTL) BLACK SIZE 43</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(DLS)</Jenis>
+    <BatchNum>RCS0014/03/25</BatchNum>
+    <BBID>DLS000009</BBID>
+    <Nama>(DLS) TALI SEPATU (Y280) 9.0 MM WHITE UK. 80 CM</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 13</BatchNum>
+    <BBID>SN1000136</BBID>
+    <Nama>(SINO) EYESTAY MICRO MOLD</Nama>
+    <Sat>PRS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 13</BatchNum>
+    <BBID>SN1000142</BBID>
+    <Nama>(SINO) OUTSOLE TPR OUTSOLE + FLOCKING SIZE 10</Nama>
+    <Sat>PRS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 13</BatchNum>
+    <BBID>SN1000137</BBID>
+    <Nama>(SINO) OUTSOLE TPR OUTSOLE + FLOCKING SIZE 5</Nama>
+    <Sat>PRS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 13</BatchNum>
+    <BBID>SN1000138</BBID>
+    <Nama>(SINO) OUTSOLE TPR OUTSOLE + FLOCKING SIZE 6</Nama>
+    <Sat>PRS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 13</BatchNum>
+    <BBID>SN1000140</BBID>
+    <Nama>(SINO) OUTSOLE TPR OUTSOLE + FLOCKING SIZE 8</Nama>
+    <Sat>PRS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 13</BatchNum>
+    <BBID>SN1000141</BBID>
+    <Nama>(SINO) OUTSOLE TPR OUTSOLE + FLOCKING SIZE 9</Nama>
+    <Sat>PRS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 13</BatchNum>
+    <BBID>SN1000132</BBID>
+    <Nama>(SINO) TOE/COUNTER STIFFENER 0.8 MM HOTMELT GLUE</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 13</BatchNum>
+    <BBID>SN1000150</BBID>
+    <Nama>(SINO) WARNING HANGTAG UK. 8.2X3.8 CM</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 11</BatchNum>
+    <BBID>SN1000075</BBID>
+    <Nama>(SINOSUN) 6 N CANVAS + GEL PRINT AS CAD</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 11</BatchNum>
+    <BBID>SN1000079</BBID>
+    <Nama>(SINOSUN) 6 N CANVAS WHITE</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 9</BatchNum>
+    <BBID>SN1000079</BBID>
+    <Nama>(SINOSUN) 6 N CANVAS WHITE</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 9</BatchNum>
+    <BBID>SN1000090</BBID>
+    <Nama>(SINOSUN) A24M003S TPR OUTSOLE + 85 MM LIGHTS SIZE 1795C RED</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 9</BatchNum>
+    <BBID>SN1000089</BBID>
+    <Nama>(SINOSUN) A24M003S TPR OUTSOLE + 85 MM LIGHTS SIZE 362C GREEN</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 9</BatchNum>
+    <BBID>SN1000053</BBID>
+    <Nama>(SINOSUN) BACK COUNTER PU GREEN</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 9</BatchNum>
+    <BBID>SN1000054</BBID>
+    <Nama>(SINOSUN) BACK COUNTER PU RED</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 13</BatchNum>
+    <BBID>SN1000122</BBID>
+    <Nama>(SINOSUN) BACK STRAP WEBBING 12 MM ORANGE/BLUE</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 9</BatchNum>
+    <BBID>SN1000066</BBID>
+    <Nama>(SINOSUN) BACK WEBBING 12 MM</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 13</BatchNum>
+    <BBID>SN1000123</BBID>
+    <Nama>(SINOSUN) ELASTIC 15 MM WHITE</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 9</BatchNum>
+    <BBID>SN1000069</BBID>
+    <Nama>(SINOSUN) ELASTIC 9 MM GREEN</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 9</BatchNum>
+    <BBID>SN1000068</BBID>
+    <Nama>(SINOSUN) ELASTIC 9 MM RED</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 9</BatchNum>
+    <BBID>SN1000084</BBID>
+    <Nama>(SINOSUN) EYELET 10X5 MM (WASHER)</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 9</BatchNum>
+    <BBID>SN1000082</BBID>
+    <Nama>(SINOSUN) EYELET 10X5 MM BLUE 297C</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 9</BatchNum>
+    <BBID>SN1000083</BBID>
+    <Nama>(SINOSUN) EYELET 10X5 MM GREEN 362C</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 9</BatchNum>
+    <BBID>SN1000081</BBID>
+    <Nama>(SINOSUN) EYELET 10X5 MM ORANGE 144C</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 9</BatchNum>
+    <BBID>SN1000080</BBID>
+    <Nama>(SINOSUN) EYELET 10X5 MM YELLOW 108C</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 9</BatchNum>
+    <BBID>SN1000056</BBID>
+    <Nama>(SINOSUN) EYESTAY SAMPING/COLLAR DEPAN GLITTER PU (SILVER)</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 11</BatchNum>
+    <BBID>SN1000077</BBID>
+    <Nama>(SINOSUN) INSOCK CANVAS YELLOW</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 11</BatchNum>
+    <BBID>SN1000063</BBID>
+    <Nama>(SINOSUN) INSOCK MESH RED</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 13</BatchNum>
+    <BBID>SN1000128</BBID>
+    <Nama>(SINOSUN) INSOLE BOARD 1.25 MM PINK</Nama>
+    <Sat>SHEET</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 9</BatchNum>
+    <BBID>SN1000065</BBID>
+    <Nama>(SINOSUN) LACE ELASTIC 3 MM RED</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 9</BatchNum>
+    <BBID>SN1000012</BBID>
+    <Nama>(SINOSUN) LINING COLLAR 24 TRICOT BLACK</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 9</BatchNum>
+    <BBID>SN1000062</BBID>
+    <Nama>(SINOSUN) LINING COLLAR MESH RED</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 9</BatchNum>
+    <BBID>SN1000003</BBID>
+    <Nama>(SINOSUN) LINING POLY TC TC FABRIC ATTACH GLUE WHITE</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 11</BatchNum>
+    <BBID>SN1000076</BBID>
+    <Nama>(SINOSUN) LINING VAMP 6 N CANVAS + GLUE WHITE</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 9</BatchNum>
+    <BBID>SN1000010</BBID>
+    <Nama>(SINOSUN) LINING VAMP STITCH BONDED NON WOVEN FABRIC ATTACHED WHITE</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 9</BatchNum>
+    <BBID>SN1000112</BBID>
+    <Nama>(SINOSUN) OUTSOLE A24M003S + TRANSPARANT PVC + 85 MM WHITE/ RED SIZE 7</Nama>
+    <Sat>PRS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 9</BatchNum>
+    <BBID>SN1000109</BBID>
+    <Nama>(SINOSUN) OUTSOLE A24M003S + TRANSPARANT PVC + 85 MM WHITE/RED SIZE 5</Nama>
+    <Sat>PRS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 9</BatchNum>
+    <BBID>SN1000110</BBID>
+    <Nama>(SINOSUN) OUTSOLE A24M003S + TRANSPARANT PVC + 85 MM WHITE/RED SIZE 6</Nama>
+    <Sat>PRS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 9</BatchNum>
+    <BBID>SN1000088</BBID>
+    <Nama>(SINOSUN) QUARTER LIGHT 100 MM UPPER LIGHT (SOCKET)</Nama>
+    <Sat>PRS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 13</BatchNum>
+    <BBID>SN1000125</BBID>
+    <Nama>(SINOSUN) QUARTER LINING ATTACH GLUE ON STITCH BONDED NON WOVEN FABRIC WHITE</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 9</BatchNum>
+    <BBID>SN1000102</BBID>
+    <Nama>(SINOSUN) SEMI-TRANSPARANT PVC SIZE TPR GREEN SIZE 13</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 11</BatchNum>
+    <BBID>SN1000025</BBID>
+    <Nama>(SINOSUN) SOFT VELCRO GREEN</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 10</BatchNum>
+    <BBID>SN1000025</BBID>
+    <Nama>(SINOSUN) SOFT VELCRO GREEN</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 10</BatchNum>
+    <BBID>SN1000023</BBID>
+    <Nama>(SINOSUN) SOFT VELCRO RED</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 11</BatchNum>
+    <BBID>SN1000023</BBID>
+    <Nama>(SINOSUN) SOFT VELCRO RED</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 9</BatchNum>
+    <BBID>SN1000014</BBID>
+    <Nama>(SINOSUN) STIFFENER 0.8 MM HOT MEAL GLUE WHITE</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>499/VII</BatchNum>
+    <BBID>SN1000001</BBID>
+    <Nama>(SINOSUN) STITCH BONDED NON WOVEN FABRIC ATTACHED GLUE + STICKER</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 13</BatchNum>
+    <BBID>SN1000129</BBID>
+    <Nama>(SINOSUN) TOE REINFORCEMENT TC FABRIC ATTACH GLUE TC</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 13</BatchNum>
+    <BBID>SN1000131</BBID>
+    <Nama>(SINOSUN) TOE/COUNTER STIFFENER 0.4 MM HOTMELT GLUE</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 9</BatchNum>
+    <BBID>SN1000051</BBID>
+    <Nama>(SINOSUN) TOECAP/EYESTAY IN/OUT SPACE PU RAW BLACK</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 13</BatchNum>
+    <BBID>SN1000124</BBID>
+    <Nama>(SINOSUN) TONGUE LINING/BACK TOP COUNTER LINING 24 TRICOT BLACK</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 11</BatchNum>
+    <BBID>SN1000064</BBID>
+    <Nama>(SINOSUN) TONGUE MESH BLACK</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 11</BatchNum>
+    <BBID>SN1000078</BBID>
+    <Nama>(SINOSUN) VAMP 6 N CANVAS BLACK</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 11</BatchNum>
+    <BBID>SN1000074</BBID>
+    <Nama>(SINOSUN) VAMP 8N CANVAS + PRINTING AS CAD BLACK</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 13</BatchNum>
+    <BBID>SN1000126</BBID>
+    <Nama>(SINOSUN) VELCRO SOFT BLUE</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 9</BatchNum>
+    <BBID>SN1000070</BBID>
+    <Nama>(SINOSUN) WEBBING 10 MM RED</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 9</BatchNum>
+    <BBID>SN1000071</BBID>
+    <Nama>(SINOSUN) WEBBING 10 MM WHITE/SILVER</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>(SINO)</Jenis>
+    <BatchNum>CONT 9</BatchNum>
+    <BBID>SN1000067</BBID>
+    <Nama>(SINOSUN) WEBBING EYESTAY 8 MM GREEN</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ACC</Jenis>
+    <BatchNum>CONT.1</BatchNum>
+    <BBID>AC000010</BBID>
+    <Nama>ACC -3MM BLACK WAX FEELING LACE+AS FALL 25 11/23 RESAMPLE BLACK SIZE 92 CM</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ACC</Jenis>
+    <BatchNum>CONT.1</BatchNum>
+    <BBID>AC000011</BBID>
+    <Nama>ACC -3MM BLACK WAX FEELING LACE+AS FALL 25 11/23 RESAMPLE BLACK SIZE 97 CM</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ACC</Jenis>
+    <BatchNum>CONT.1</BatchNum>
+    <BBID>AC000007</BBID>
+    <Nama>ACC BEADS FOR LACE CLEAR</Nama>
+    <Sat>SET</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ACC</Jenis>
+    <BatchNum>CONT.1</BatchNum>
+    <BBID>AC000009</BBID>
+    <Nama>ACC BEADS FOR LACE FUCHIA</Nama>
+    <Sat>SET</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ACC</Jenis>
+    <BatchNum>CONT.1</BatchNum>
+    <BBID>AC000008</BBID>
+    <Nama>ACC BEADS FOR LACE YELLOW</Nama>
+    <Sat>SET</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ACC</Jenis>
+    <BatchNum>CONT.1</BatchNum>
+    <BBID>AC000006</BBID>
+    <Nama>ACC METALIC RING 10X18 MM GOLD</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ACCESORRIES</Jenis>
+    <BatchNum>499/VII</BatchNum>
+    <BBID>ACC000022</BBID>
+    <Nama>ACCESORRIES EYESTAY SAMPING/COLLAR DEPAN GLITTER PU (SILVER) + TC FABRIC</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ACCESORRIES</Jenis>
+    <BatchNum>CONT.1</BatchNum>
+    <BBID>ACC000023</BBID>
+    <Nama>ACCESORRIES O-RING SILVER 15 MM</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ACCESORRIES</Jenis>
+    <BatchNum>CONT.1</BatchNum>
+    <BBID>ACC000024</BBID>
+    <Nama>ACCESORRIES O-RING SILVER 17 MM</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>91108</BatchNum>
+    <BBID>06000440</BBID>
+    <Nama>BENANG NYLON 66 BONDED BROWN M9H7219M20</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>82401</BatchNum>
+    <BBID>06000440</BBID>
+    <Nama>BENANG NYLON 66 BONDED BROWN M9H7219M20</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>32316</BatchNum>
+    <BBID>06000440</BBID>
+    <Nama>BENANG NYLON 66 BONDED BROWN M9H7219M20</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>10402</BatchNum>
+    <BBID>06000079</BBID>
+    <Nama>BENANG NYLON BLACK D2</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>91120</BatchNum>
+    <BBID>06000362</BBID>
+    <Nama>BENANG NYLON BLACK D4</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>100217</BatchNum>
+    <BBID>06000323</BBID>
+    <Nama>BENANG NYLON BLUE 0061351 D2</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>102113</BatchNum>
+    <BBID>06000324</BBID>
+    <Nama>BENANG NYLON BLUE 0061351 D3</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>Rekal</BatchNum>
+    <BBID>06000375</BBID>
+    <Nama>BENANG NYLON BROWN 0052992 D2</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>102113</BatchNum>
+    <BBID>06000317</BBID>
+    <Nama>BENANG NYLON BROWN 10081762 D2</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>13003</BatchNum>
+    <BBID>06000097</BBID>
+    <Nama>BENANG NYLON CREAM 0082261 D2</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>13003</BatchNum>
+    <BBID>06000291</BBID>
+    <Nama>BENANG NYLON CREAM 88001 D2</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>60226</BatchNum>
+    <BBID>06000416</BBID>
+    <Nama>BENANG NYLON DK. GREY 14061881 D2</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>72018</BatchNum>
+    <BBID>06000414</BBID>
+    <Nama>BENANG NYLON DK. GREY 14061881 D3</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>14/06/2024</BatchNum>
+    <BBID>06000414</BBID>
+    <Nama>BENANG NYLON DK. GREY 14061881 D3</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>102113</BatchNum>
+    <BBID>06000370</BBID>
+    <Nama>BENANG NYLON DK. YELLOW 72431 D2</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>102114</BatchNum>
+    <BBID>06000123</BBID>
+    <Nama>BENANG NYLON FUCHSIA 30911 D2</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>102114</BatchNum>
+    <BBID>06000124</BBID>
+    <Nama>BENANG NYLON FUCHSIA 30911 D3</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>110908</BatchNum>
+    <BBID>06000366</BBID>
+    <Nama>BENANG NYLON GREEN 00318 D3</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>71507</BatchNum>
+    <BBID>06000342</BBID>
+    <Nama>BENANG NYLON GREEN 14061141 D2</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>71507</BatchNum>
+    <BBID>06000341</BBID>
+    <Nama>BENANG NYLON GREEN 14061141 D3</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>62916</BatchNum>
+    <BBID>06000454</BBID>
+    <Nama>BENANG NYLON GREEN D2 (N416) 15091841</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>81218</BatchNum>
+    <BBID>06000454</BBID>
+    <Nama>BENANG NYLON GREEN D2 (N416) 15091841</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>81218</BatchNum>
+    <BBID>06000453</BBID>
+    <Nama>BENANG NYLON GREEN D3 (N416) 15091841</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>83111</BatchNum>
+    <BBID>06000453</BBID>
+    <Nama>BENANG NYLON GREEN D3 (N416) 15091841</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>62206</BatchNum>
+    <BBID>06000453</BBID>
+    <Nama>BENANG NYLON GREEN D3 (N416) 15091841</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>20412</BatchNum>
+    <BBID>06000432</BBID>
+    <Nama>BENANG NYLON GREEN STABILO 13021641 D2</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>12510</BatchNum>
+    <BBID>06000433</BBID>
+    <Nama>BENANG NYLON GREEN STABILO 13021641 D3</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>70111</BatchNum>
+    <BBID>06000138</BBID>
+    <Nama>BENANG NYLON GREY 893 D2</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>121120</BatchNum>
+    <BBID>06000467</BBID>
+    <Nama>BENANG NYLON GREY N 8140 0040981 D2</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>121120</BatchNum>
+    <BBID>06000468</BBID>
+    <Nama>BENANG NYLON GREY N 8140 0040981 D3</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>110908</BatchNum>
+    <BBID>06000337</BBID>
+    <Nama>BENANG NYLON LT. BLUE 817 D3</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>112116</BatchNum>
+    <BBID>06000266</BBID>
+    <Nama>BENANG NYLON MOSS GREEN 50441 D2</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>112116</BatchNum>
+    <BBID>06000267</BBID>
+    <Nama>BENANG NYLON MOSS GREEN 50441 D3</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>120106</BatchNum>
+    <BBID>06000306</BBID>
+    <Nama>BENANG NYLON NAVY 343 D2</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>SJKR-2401-0009</BatchNum>
+    <BBID>06000306</BBID>
+    <Nama>BENANG NYLON NAVY 343 D2</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>13003</BatchNum>
+    <BBID>06000471</BBID>
+    <Nama>BENANG NYLON NAVY 846 D2</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>111502</BatchNum>
+    <BBID>06000400</BBID>
+    <Nama>BENANG NYLON OLIVE 15030841 D2</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>120106</BatchNum>
+    <BBID>06000425</BBID>
+    <Nama>BENANG NYLON ORANGE 14092621 D3</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>13003</BatchNum>
+    <BBID>06000429</BBID>
+    <Nama>BENANG NYLON PINK 22211 D2</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>13003</BatchNum>
+    <BBID>06000328</BBID>
+    <Nama>BENANG NYLON PINK 22412 D2</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>70109</BatchNum>
+    <BBID>06000392</BBID>
+    <Nama>BENANG NYLON PURPLE 72071 D3</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>12511</BatchNum>
+    <BBID>06000193</BBID>
+    <Nama>BENANG NYLON PURPLE 9060171 D2</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>12511</BatchNum>
+    <BBID>06000194</BBID>
+    <Nama>BENANG NYLON PURPLE 9060171 D3</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>62206</BatchNum>
+    <BBID>06000198</BBID>
+    <Nama>BENANG NYLON RED 0080511 D2</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>81218</BatchNum>
+    <BBID>06000198</BBID>
+    <Nama>BENANG NYLON RED 0080511 D2</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>62916</BatchNum>
+    <BBID>06000198</BBID>
+    <Nama>BENANG NYLON RED 0080511 D2</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>71014</BatchNum>
+    <BBID>06000198</BBID>
+    <Nama>BENANG NYLON RED 0080511 D2</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>62916</BatchNum>
+    <BBID>06000199</BBID>
+    <Nama>BENANG NYLON RED 0080511 D3</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>62206</BatchNum>
+    <BBID>06000199</BBID>
+    <Nama>BENANG NYLON RED 0080511 D3</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>70111</BatchNum>
+    <BBID>06000431</BBID>
+    <Nama>BENANG NYLON ROYAL BLUE 22751 D2</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>70111</BatchNum>
+    <BBID>06000430</BBID>
+    <Nama>BENANG NYLON ROYAL BLUE 22751 D3</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>62917</BatchNum>
+    <BBID>06000455</BBID>
+    <Nama>BENANG NYLON SAGE D2 N 306 21010332</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>62917</BatchNum>
+    <BBID>06000456</BBID>
+    <Nama>BENANG NYLON SAGE D3 N 306 21010332</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>51118</BatchNum>
+    <BBID>06000451</BBID>
+    <Nama>BENANG NYLON SAGE GREEN D2 N440 14062341</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>13003</BatchNum>
+    <BBID>06000412</BBID>
+    <Nama>BENANG NYLON SILVER 4052851 D2</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>270122</BatchNum>
+    <BBID>06000367</BBID>
+    <Nama>BENANG NYLON TAPE WHITE (GATERING TAPE) 3 MM</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>240125</BatchNum>
+    <BBID>06000367</BBID>
+    <Nama>BENANG NYLON TAPE WHITE (GATERING TAPE) 3 MM</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>3032</BatchNum>
+    <BBID>06000367</BBID>
+    <Nama>BENANG NYLON TAPE WHITE (GATERING TAPE) 3 MM</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>10402</BatchNum>
+    <BBID>06000209</BBID>
+    <Nama>BENANG NYLON WHITE D2</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>10813</BatchNum>
+    <BBID>06000209</BBID>
+    <Nama>BENANG NYLON WHITE D2</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>122424</BatchNum>
+    <BBID>06000209</BBID>
+    <Nama>BENANG NYLON WHITE D2</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>10402</BatchNum>
+    <BBID>06000210</BBID>
+    <Nama>BENANG NYLON WHITE D3</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>10813</BatchNum>
+    <BBID>06000210</BBID>
+    <Nama>BENANG NYLON WHITE D3</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>71014</BatchNum>
+    <BBID>06000274</BBID>
+    <Nama>BENANG NYLON YELLOW 0000861 D2</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>62916</BatchNum>
+    <BBID>06000274</BBID>
+    <Nama>BENANG NYLON YELLOW 0000861 D2</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>81514</BatchNum>
+    <BBID>06000274</BBID>
+    <Nama>BENANG NYLON YELLOW 0000861 D2</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>62206</BatchNum>
+    <BBID>06000274</BBID>
+    <Nama>BENANG NYLON YELLOW 0000861 D2</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>81218</BatchNum>
+    <BBID>06000274</BBID>
+    <Nama>BENANG NYLON YELLOW 0000861 D2</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>62916</BatchNum>
+    <BBID>06000275</BBID>
+    <Nama>BENANG NYLON YELLOW 0000861 D3</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>62206</BatchNum>
+    <BBID>06000275</BBID>
+    <Nama>BENANG NYLON YELLOW 0000861 D3</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>20412</BatchNum>
+    <BBID>06000315</BBID>
+    <Nama>BENANG NYLON YELLOW 40931 D3</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>32011</BatchNum>
+    <BBID>06000439</BBID>
+    <Nama>BENANG POLYESTER BLACK P3</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>30105/DLS</BatchNum>
+    <BBID>06000439</BBID>
+    <Nama>BENANG POLYESTER BLACK P3</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>42327</BatchNum>
+    <BBID>06000443</BBID>
+    <Nama>BENANG POLYESTER RED P3</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>0084/SA/03/25</BatchNum>
+    <BBID>06000438</BBID>
+    <Nama>BENANG POLYESTER WHITE P3</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>30628</BatchNum>
+    <BBID>06000438</BBID>
+    <Nama>BENANG POLYESTER WHITE P3</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>0001/SA/03/25</BatchNum>
+    <BBID>06000438</BBID>
+    <Nama>BENANG POLYESTER WHITE P3</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BENANG</Jenis>
+    <BatchNum>101802</BatchNum>
+    <BBID>06000438</BBID>
+    <Nama>BENANG POLYESTER WHITE P3</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BONTEX</Jenis>
+    <BatchNum>SJKR-2308-0002</BatchNum>
+    <BBID>12000030</BBID>
+    <Nama>BONTEX WINTEX 1.0 MM RED UK. 103 X147 CM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BOX</Jenis>
+    <BatchNum>24060201</BatchNum>
+    <BBID>20000387</BBID>
+    <Nama>BOX INNER DALLAS CAMPUS UK. 305X145X114 MM</Nama>
+    <Sat>SET</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BOX</Jenis>
+    <BatchNum>24060188</BatchNum>
+    <BBID>20000387</BBID>
+    <Nama>BOX INNER DALLAS CAMPUS UK. 305X145X114 MM</Nama>
+    <Sat>SET</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BOX</Jenis>
+    <BatchNum>24070332</BatchNum>
+    <BBID>20000387</BBID>
+    <Nama>BOX INNER DALLAS CAMPUS UK. 305X145X114 MM</Nama>
+    <Sat>SET</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BOX</Jenis>
+    <BatchNum>24040028</BatchNum>
+    <BBID>20000387</BBID>
+    <Nama>BOX INNER DALLAS CAMPUS UK. 305X145X114 MM</Nama>
+    <Sat>SET</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BOX</Jenis>
+    <BatchNum>03052024</BatchNum>
+    <BBID>20000387</BBID>
+    <Nama>BOX INNER DALLAS CAMPUS UK. 305X145X114 MM</Nama>
+    <Sat>SET</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BOX</Jenis>
+    <BatchNum>23010060</BatchNum>
+    <BBID>20000387</BBID>
+    <Nama>BOX INNER DALLAS CAMPUS UK. 305X145X114 MM</Nama>
+    <Sat>SET</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BOX</Jenis>
+    <BatchNum>25030175</BatchNum>
+    <BBID>20000411</BBID>
+    <Nama>BOX INNER DALLAS CAMPUS+HANGTAG 255X125X100 MM</Nama>
+    <Sat>SET</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BOX</Jenis>
+    <BatchNum>24080520</BatchNum>
+    <BBID>20000411</BBID>
+    <Nama>BOX INNER DALLAS CAMPUS+HANGTAG 255X125X100 MM</Nama>
+    <Sat>SET</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BOX</Jenis>
+    <BatchNum>22090124</BatchNum>
+    <BBID>20000339</BBID>
+    <Nama>BOX INNER DALLAS CAMPUS+HANGTAG UK. 290X125X120 MM</Nama>
+    <Sat>SET</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BOX</Jenis>
+    <BatchNum>003821</BatchNum>
+    <BBID>20000353</BBID>
+    <Nama>BOX INNER DALLAS CAMPUS+HANGTAG UK. 295X115X100 MM</Nama>
+    <Sat>SET</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BOX</Jenis>
+    <BatchNum>24050264</BatchNum>
+    <BBID>20000353</BBID>
+    <Nama>BOX INNER DALLAS CAMPUS+HANGTAG UK. 295X115X100 MM</Nama>
+    <Sat>SET</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BOX</Jenis>
+    <BatchNum>24070332</BatchNum>
+    <BBID>20000353</BBID>
+    <Nama>BOX INNER DALLAS CAMPUS+HANGTAG UK. 295X115X100 MM</Nama>
+    <Sat>SET</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BOX</Jenis>
+    <BatchNum>24070330</BatchNum>
+    <BBID>20000353</BBID>
+    <Nama>BOX INNER DALLAS CAMPUS+HANGTAG UK. 295X115X100 MM</Nama>
+    <Sat>SET</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BOX</Jenis>
+    <BatchNum>24080314</BatchNum>
+    <BBID>20000353</BBID>
+    <Nama>BOX INNER DALLAS CAMPUS+HANGTAG UK. 295X115X100 MM</Nama>
+    <Sat>SET</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BOX</Jenis>
+    <BatchNum>24060193</BatchNum>
+    <BBID>20000353</BBID>
+    <Nama>BOX INNER DALLAS CAMPUS+HANGTAG UK. 295X115X100 MM</Nama>
+    <Sat>SET</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BOX</Jenis>
+    <BatchNum>003339</BatchNum>
+    <BBID>20000341</BBID>
+    <Nama>BOX INNER DALLAS NEW BASKET+ HANGTAG UK. 290X125X120 MM</Nama>
+    <Sat>SET</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BOX</Jenis>
+    <BatchNum>25030175</BatchNum>
+    <BBID>20000412</BBID>
+    <Nama>BOX INNER DALLAS NEW BASKET+HANGTAG 255X125X100 MM</Nama>
+    <Sat>SET</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BOX</Jenis>
+    <BatchNum>25030175</BatchNum>
+    <BBID>20000414</BBID>
+    <Nama>BOX INNER DALLAS NEW BASKET+HANGTAG 3323 UK.290X180X115 MM</Nama>
+    <Sat>SET</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BOX</Jenis>
+    <BatchNum>004090</BatchNum>
+    <BBID>20000356</BBID>
+    <Nama>BOX INNER DALLAS NEW BASKET+HANGTAG UK. 295X115X100 MM</Nama>
+    <Sat>SET</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BOX</Jenis>
+    <BatchNum>000197</BatchNum>
+    <BBID>20000389</BBID>
+    <Nama>BOX INNER DALLAS NEW BASKET+HANGTAG UK. 305X145X114 MM</Nama>
+    <Sat>SET</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BOX</Jenis>
+    <BatchNum>24090246</BatchNum>
+    <BBID>20000389</BBID>
+    <Nama>BOX INNER DALLAS NEW BASKET+HANGTAG UK. 305X145X114 MM</Nama>
+    <Sat>SET</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BOX</Jenis>
+    <BatchNum>23080187</BatchNum>
+    <BBID>20000210</BBID>
+    <Nama>BOX INNER WAKAI UK. 245X160X100 MM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BOX</Jenis>
+    <BatchNum>PJ/25/01/00031</BatchNum>
+    <BBID>20000415</BBID>
+    <Nama>BOX OUTER DALLAS NEW BASKET S.W UK. 560X477X297 MM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BOX</Jenis>
+    <BatchNum>PJ/24/07/00002</BatchNum>
+    <BBID>20000433</BBID>
+    <Nama>BOX OUTER MARIO 565 X 395 X 240</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BOX</Jenis>
+    <BatchNum>PJ/24/07/00003</BatchNum>
+    <BBID>20000433</BBID>
+    <Nama>BOX OUTER MARIO 565 X 395 X 240</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BOX</Jenis>
+    <BatchNum>PJ/24/07/00002</BatchNum>
+    <BBID>20000434</BBID>
+    <Nama>BOX OUTER MARIO 595 X 425 X 265</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BOX</Jenis>
+    <BatchNum>PJ/24/07/00003</BatchNum>
+    <BBID>20000434</BBID>
+    <Nama>BOX OUTER MARIO 595 X 425 X 265</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BOX</Jenis>
+    <BatchNum>PJ/24/07/00002</BatchNum>
+    <BBID>20000431</BBID>
+    <Nama>BOX OUTER MINNIE 505 X 355 X 205</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BOX</Jenis>
+    <BatchNum>PJ/24/07/00003</BatchNum>
+    <BBID>20000431</BBID>
+    <Nama>BOX OUTER MINNIE 505 X 355 X 205</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BOX</Jenis>
+    <BatchNum>PJ/24/07/00002</BatchNum>
+    <BBID>20000432</BBID>
+    <Nama>BOX OUTER MINNIE 535 X 375 X 245</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BOX</Jenis>
+    <BatchNum>PJ/24/07/00003</BatchNum>
+    <BBID>20000432</BBID>
+    <Nama>BOX OUTER MINNIE 535 X 375 X 245</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BOX</Jenis>
+    <BatchNum>PJ/24/07/00002</BatchNum>
+    <BBID>20000430</BBID>
+    <Nama>BOX OUTER POKEMON 565 X 335 X 240</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BOX</Jenis>
+    <BatchNum>PJ/24/07/00003</BatchNum>
+    <BBID>20000429</BBID>
+    <Nama>BOX OUTER POKEMON 595 X 345 X270</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BOX</Jenis>
+    <BatchNum>PJ/24/07/00002</BatchNum>
+    <BBID>20000429</BBID>
+    <Nama>BOX OUTER POKEMON 595 X 345 X270</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BOX</Jenis>
+    <BatchNum>PJ/25/01/00030</BatchNum>
+    <BBID>20000357</BBID>
+    <Nama>BOX OUTER S.W UK. 410X360X300 MM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BOX</Jenis>
+    <BatchNum>PJ/25/01/00030</BatchNum>
+    <BBID>20000413</BBID>
+    <Nama>BOX OUTER S.W UK. 417X395X262 MM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BOX</Jenis>
+    <BatchNum>PJ/25/01/00032</BatchNum>
+    <BBID>20000388</BBID>
+    <Nama>BOX OUTER S.W UK. 467X457X312 MM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BOX</Jenis>
+    <BatchNum>PJ/25/01/00032</BatchNum>
+    <BBID>20000343</BBID>
+    <Nama>BOX OUTER S.W UK. 500X390X300 MM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BUSA</Jenis>
+    <BatchNum>SJKR-2501-0014</BatchNum>
+    <BBID>69000154</BBID>
+    <Nama>BUSA K-758 12 MM GREY L. 56"</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BUSA</Jenis>
+    <BatchNum>CONT.1HANDCARRY</BatchNum>
+    <BBID>69000116</BBID>
+    <Nama>BUSA MEMORY FOAM 4.0 MM WHITE</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BUSA</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>69000116</BBID>
+    <Nama>BUSA MEMORY FOAM 4.0 MM WHITE</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BUSA</Jenis>
+    <BatchNum>P0150/01/25</BatchNum>
+    <BBID>69000137</BBID>
+    <Nama>BUSA P-83 10 MM WHITE 100 X 200 CM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BUSA</Jenis>
+    <BatchNum>P1737/07/24</BatchNum>
+    <BBID>69000138</BBID>
+    <Nama>BUSA P83 12 MM WHITE 100 X 200 CM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BUSA</Jenis>
+    <BatchNum>S0125-7196</BatchNum>
+    <BBID>69000152</BBID>
+    <Nama>BUSA SH-18 LB WHITE UK.5 MMX44"</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BUSA</Jenis>
+    <BatchNum>0193</BatchNum>
+    <BBID>69000130</BBID>
+    <Nama>BUSA WA 640 15 MM GREY UK. 100X200</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BUSA</Jenis>
+    <BatchNum>000547</BatchNum>
+    <BBID>69000086</BBID>
+    <Nama>BUSA WA 640 15 MM WHITE UK. 200X100</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BUSA</Jenis>
+    <BatchNum>000325</BatchNum>
+    <BBID>69000086</BBID>
+    <Nama>BUSA WA 640 15 MM WHITE UK. 200X100</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BUSA</Jenis>
+    <BatchNum>000734</BatchNum>
+    <BBID>69000139</BBID>
+    <Nama>BUSA WA 640 3.0 MM WHITE L.54</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BUSA</Jenis>
+    <BatchNum>000983</BatchNum>
+    <BBID>69000087</BBID>
+    <Nama>BUSA WA 640 4.0 MM WHITE L. 44"</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BUSA</Jenis>
+    <BatchNum>000729</BatchNum>
+    <BBID>69000087</BBID>
+    <Nama>BUSA WA 640 4.0 MM WHITE L. 44"</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BUSA</Jenis>
+    <BatchNum>000838</BatchNum>
+    <BBID>69000145</BBID>
+    <Nama>BUSA WA 640 5 MM GREY L.44"</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BUSA</Jenis>
+    <BatchNum>000474</BatchNum>
+    <BBID>69000096</BBID>
+    <Nama>BUSA WF 505 10 MM GREY UK. 200X100</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BUSA</Jenis>
+    <BatchNum>000375</BatchNum>
+    <BBID>69000096</BBID>
+    <Nama>BUSA WF 505 10 MM GREY UK. 200X100</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BUSA</Jenis>
+    <BatchNum>000366</BatchNum>
+    <BBID>69000096</BBID>
+    <Nama>BUSA WF 505 10 MM GREY UK. 200X100</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BUSA</Jenis>
+    <BatchNum>0126</BatchNum>
+    <BBID>69000097</BBID>
+    <Nama>BUSA WF 505 10 MM WHITE UK. 200X100</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BUSA</Jenis>
+    <BatchNum>0420</BatchNum>
+    <BBID>69000125</BBID>
+    <Nama>BUSA WF 505 3 MM GREY L. 56"</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BUSA</Jenis>
+    <BatchNum>0191</BatchNum>
+    <BBID>69000094</BBID>
+    <Nama>BUSA WF 505 4.0 MM GREY L. 44"</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>BUSA</Jenis>
+    <BatchNum>0001334</BatchNum>
+    <BBID>69000094</BBID>
+    <Nama>BUSA WF 505 4.0 MM GREY L. 44"</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>CANVAS</Jenis>
+    <BatchNum>09/01/2025</BatchNum>
+    <BBID>CNV000009</BBID>
+    <Nama>CANVAS 6 OZ SALUR WHITE/BLUE</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>CANVAS</Jenis>
+    <BatchNum>11/01/2025</BatchNum>
+    <BBID>CNV000009</BBID>
+    <Nama>CANVAS 6 OZ SALUR WHITE/BLUE</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>CANVAS</Jenis>
+    <BatchNum>17/01/2025</BatchNum>
+    <BBID>CNV000009</BBID>
+    <Nama>CANVAS 6 OZ SALUR WHITE/BLUE</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>CAT</Jenis>
+    <BatchNum>0091445</BatchNum>
+    <BBID>33000144</BBID>
+    <Nama>CAT 1400-B9000</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>CAT</Jenis>
+    <BatchNum>0087424</BatchNum>
+    <BBID>33000144</BBID>
+    <Nama>CAT 1400-B9000</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>CAT</Jenis>
+    <BatchNum>0089205</BatchNum>
+    <BBID>33000144</BBID>
+    <Nama>CAT 1400-B9000</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>CAT</Jenis>
+    <BatchNum>086931</BatchNum>
+    <BBID>33000145</BBID>
+    <Nama>CAT A3440</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>CAT</Jenis>
+    <BatchNum>0089243</BatchNum>
+    <BBID>33000145</BBID>
+    <Nama>CAT A3440</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>CAT</Jenis>
+    <BatchNum>46486795</BatchNum>
+    <BBID>33000001</BBID>
+    <Nama>CAT BLACK A01-5010 (PVC)</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>CAT</Jenis>
+    <BatchNum>46486477</BatchNum>
+    <BBID>33000001</BBID>
+    <Nama>CAT BLACK A01-5010 (PVC)</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>CAT</Jenis>
+    <BatchNum>99270519</BatchNum>
+    <BBID>33000001</BBID>
+    <Nama>CAT BLACK A01-5010 (PVC)</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>CAT</Jenis>
+    <BatchNum>58295158</BatchNum>
+    <BBID>33000133</BBID>
+    <Nama>CAT BLACK NSN-5010</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>CAT</Jenis>
+    <BatchNum>18072704</BatchNum>
+    <BBID>33000133</BBID>
+    <Nama>CAT BLACK NSN-5010</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>CAT</Jenis>
+    <BatchNum>88455026</BatchNum>
+    <BBID>33000171</BBID>
+    <Nama>CAT BLUE NSN-591</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>CAT</Jenis>
+    <BatchNum>SS-24020010</BatchNum>
+    <BBID>33000148</BBID>
+    <Nama>CAT EVA BLACK S05 - 922 OBL</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>CAT</Jenis>
+    <BatchNum>SS-24020010</BatchNum>
+    <BBID>33000147</BBID>
+    <Nama>CAT EVA GRAY S05 - 924 OG</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>CAT</Jenis>
+    <BatchNum>B2501006</BatchNum>
+    <BBID>33000177</BBID>
+    <Nama>CAT GREY A01-752</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>CAT</Jenis>
+    <BatchNum>SS-24080036</BatchNum>
+    <BBID>33000170</BBID>
+    <Nama>CAT HIJAU S03 - 244 PFH</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>CAT</Jenis>
+    <BatchNum>SHT01231200059</BatchNum>
+    <BBID>33000135</BBID>
+    <Nama>CAT IPC WHITE 61 RPI</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>CAT</Jenis>
+    <BatchNum>88455141</BatchNum>
+    <BBID>33000172</BBID>
+    <Nama>CAT NSN RED A3005</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>CAT</Jenis>
+    <BatchNum>SS-24040018</BatchNum>
+    <BBID>33000153</BBID>
+    <Nama>CAT PU BLUE / CYAN S03-295 OB</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>CAT</Jenis>
+    <BatchNum>SS-24050016</BatchNum>
+    <BBID>33000153</BBID>
+    <Nama>CAT PU BLUE / CYAN S03-295 OB</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>CAT</Jenis>
+    <BatchNum>SS-25010044</BatchNum>
+    <BBID>33000180</BBID>
+    <Nama>CAT PU BROWN S03-662 PBR</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>CAT</Jenis>
+    <BatchNum>SS-24020037</BatchNum>
+    <BBID>33000151</BBID>
+    <Nama>CAT PU FL. GREEN S03-931 OFH</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>CAT</Jenis>
+    <BatchNum>SS-24050016</BatchNum>
+    <BBID>33000151</BBID>
+    <Nama>CAT PU FL. GREEN S03-931 OFH</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>CAT</Jenis>
+    <BatchNum>SS-24040018</BatchNum>
+    <BBID>33000141</BBID>
+    <Nama>CAT PU FL. ORANGE S03-906 OFO</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>CAT</Jenis>
+    <BatchNum>SS-24040029</BatchNum>
+    <BBID>33000157</BBID>
+    <Nama>CAT PU GOLD S03-844 DE</Nama>
+    <Sat>KG </Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>CAT</Jenis>
+    <BatchNum>SS-25010044</BatchNum>
+    <BBID>33000178</BBID>
+    <Nama>CAT PU GRAY S03-660 PG</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>CAT</Jenis>
+    <BatchNum>SS-25010044</BatchNum>
+    <BBID>33000179</BBID>
+    <Nama>CAT PU GREEN S03-661 PHT</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>CAT</Jenis>
+    <BatchNum>SS-24020009</BatchNum>
+    <BBID>33000149</BBID>
+    <Nama>CAT PU GREEN SO3 - 904 OFH</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>CAT</Jenis>
+    <BatchNum>SS-24040029</BatchNum>
+    <BBID>33000156</BBID>
+    <Nama>CAT PU GREY S03-296 OG </Nama>
+    <Sat>KG </Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>CAT</Jenis>
+    <BatchNum>SS-24120043</BatchNum>
+    <BBID>33000173</BBID>
+    <Nama>CAT PU GREY S03-448 PG</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>CAT</Jenis>
+    <BatchNum>SS-24110040</BatchNum>
+    <BBID>33000173</BBID>
+    <Nama>CAT PU GREY S03-448 PG</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>CAT</Jenis>
+    <BatchNum>SS-25020015</BatchNum>
+    <BBID>33000181</BBID>
+    <Nama>CAT PU GREY S03-711 PG</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>CAT</Jenis>
+    <BatchNum>SS-25020041</BatchNum>
+    <BBID>33000182</BBID>
+    <Nama>CAT PU NAVY S03-751 PN</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>CAT</Jenis>
+    <BatchNum>SS-24020009</BatchNum>
+    <BBID>33000150</BBID>
+    <Nama>CAT PU ORANGE SO3 - 908 OFO</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>CAT</Jenis>
+    <BatchNum>SS-24020037</BatchNum>
+    <BBID>33000152</BBID>
+    <Nama>CAT PU VIOLET S03-934</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>CAT</Jenis>
+    <BatchNum>SS-24010066</BatchNum>
+    <BBID>33000078</BBID>
+    <Nama>CAT PU WHITE S03-12</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>CAT</Jenis>
+    <BatchNum>89752650</BatchNum>
+    <BBID>33000044</BBID>
+    <Nama>CAT PVC PURPLE C01-B9488</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>CAT</Jenis>
+    <BatchNum>SS-24120060</BatchNum>
+    <BBID>33000176</BBID>
+    <Nama>CAT SO3 600 PCK (PU BROWN)</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>CAT</Jenis>
+    <BatchNum>00000181/CH/III/24</BatchNum>
+    <BBID>33000154</BBID>
+    <Nama>CAT WATERSTAIN 19 BLACK</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>CAT</Jenis>
+    <BatchNum>88454785</BatchNum>
+    <BBID>33000063</BBID>
+    <Nama>CAT WHITE NSN-1030</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>CAT</Jenis>
+    <BatchNum>99272228</BatchNum>
+    <BBID>33000063</BBID>
+    <Nama>CAT WHITE NSN-1030</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>COMPOUND</Jenis>
+    <BatchNum>004767</BatchNum>
+    <BBID>CMPND000001</BBID>
+    <Nama>COMPOUND FILLER</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>COMPOUND</Jenis>
+    <BatchNum>004709</BatchNum>
+    <BBID>CMPND000001</BBID>
+    <Nama>COMPOUND FILLER</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ELASTIC</Jenis>
+    <BatchNum>CHANGYOU</BatchNum>
+    <BBID>99000325</BBID>
+    <Nama>ELASTIC - 10 MM WIDTH SATIN ELASTIC IN BLACK</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ELASTIC</Jenis>
+    <BatchNum>CONT.1</BatchNum>
+    <BBID>99000321</BBID>
+    <Nama>ELASTIC - 10 MM WIDTH SATIN ELASTIC IN PINK</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ELASTIC</Jenis>
+    <BatchNum>CHANGYOU</BatchNum>
+    <BBID>99000324</BBID>
+    <Nama>ELASTIC - 9 MM WIDTH SATIN ELASTIC IN BLACK</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ELASTIC</Jenis>
+    <BatchNum>CONT.1</BatchNum>
+    <BBID>99000317</BBID>
+    <Nama>ELASTIC - 9 MM WIDTH SATIN ELASTIC IN PINK</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ELASTIC</Jenis>
+    <BatchNum>CONT.1</BatchNum>
+    <BBID>99000320</BBID>
+    <Nama>ELASTIC - 9 MM WIDTH SATIN ELASTIC IN SILVER GREY</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ELASTIC</Jenis>
+    <BatchNum>BNB-2103-0001</BatchNum>
+    <BBID>99000002</BBID>
+    <Nama>ELASTIC 10 MM BLACK</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ELASTIC</Jenis>
+    <BatchNum>CONT.1HANDCARRY</BatchNum>
+    <BBID>99000318</BBID>
+    <Nama>ELASTIC 2 MM LACE ROUND ELASTIC IN PINK</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ELASTIC</Jenis>
+    <BatchNum>CONT.1</BatchNum>
+    <BBID>99000318</BBID>
+    <Nama>ELASTIC 2 MM LACE ROUND ELASTIC IN PINK</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ELASTIC</Jenis>
+    <BatchNum>CONT.1</BatchNum>
+    <BBID>99000319</BBID>
+    <Nama>ELASTIC 2 MM LACE ROUND ELASTIC IN SILVER</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ELASTIC</Jenis>
+    <BatchNum>00011</BatchNum>
+    <BBID>99000306</BBID>
+    <Nama>ELASTIC ORANGE 1375 C 40 MM</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ELASTIC</Jenis>
+    <BatchNum>BNB-2103-0001</BatchNum>
+    <BBID>99000226</BBID>
+    <Nama>ELASTIC ORANGE 8861 UK. 8 MM</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ELASTIC</Jenis>
+    <BatchNum>CONT.10</BatchNum>
+    <BBID>99000262</BBID>
+    <Nama>ELASTIC ORANGE#53 (KH 2020/4/13) UK. 40 MM</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ELASTIC</Jenis>
+    <BatchNum>BK2310230004</BatchNum>
+    <BBID>99000203</BBID>
+    <Nama>ELASTIC PINK 2102 UK. 40 MM</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ELASTIC</Jenis>
+    <BatchNum>BNB-2103-0001</BatchNum>
+    <BBID>99000232</BBID>
+    <Nama>ELASTIC POLY KT 20 (Y 601) 3.0 MM GREY 000824</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ELASTIC</Jenis>
+    <BatchNum>BNB-2103-0001</BatchNum>
+    <BBID>99000209</BBID>
+    <Nama>ELASTIC POLY KT 20 (Y 601) 3.0 MM NAVY 398</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ELASTIC</Jenis>
+    <BatchNum>BNB-2103-0001</BatchNum>
+    <BBID>99000208</BBID>
+    <Nama>ELASTIC POLY KT 20 (Y 601) 3.0 MM PINK 000426</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ELASTIC</Jenis>
+    <BatchNum>BNB-2103-0001</BatchNum>
+    <BBID>99000251</BBID>
+    <Nama>ELASTIC PURIST BLUE 5493C UK. 20 MM</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ELASTIC</Jenis>
+    <BatchNum>BNB-2103-0001</BatchNum>
+    <BBID>99000248</BBID>
+    <Nama>ELASTIC PURIST BLUE 5493C UK. 40 MM</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ELASTIC</Jenis>
+    <BatchNum>BNB-2103-0001</BatchNum>
+    <BBID>99000186</BBID>
+    <Nama>ELASTIC R. BLUE 679 UK. 35 MM</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ELASTIC</Jenis>
+    <BatchNum>BNB-2103-0001</BatchNum>
+    <BBID>99000188</BBID>
+    <Nama>ELASTIC RED 1171 UK. 35 MM</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ELASTIC</Jenis>
+    <BatchNum>BNB-2103-0001</BatchNum>
+    <BBID>99000145</BBID>
+    <Nama>ELASTIC RED 1171 UK. 6 MM</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ELASTIC</Jenis>
+    <BatchNum>CONT.9</BatchNum>
+    <BBID>99000277</BBID>
+    <Nama>ELASTIC ROUND   MAROON 29 NO.03 (KH 2021/1/8) 3 MM</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ELASTIC</Jenis>
+    <BatchNum>CONT.9</BatchNum>
+    <BBID>99000278</BBID>
+    <Nama>ELASTIC ROUND   NAVY 29 NO.7 (KH 2021/1/8) 3 MM</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ELASTIC</Jenis>
+    <BatchNum>BNB-2103-0001</BatchNum>
+    <BBID>99000265</BBID>
+    <Nama>ELASTIC UNGU TUA 011 UK. 40 MM</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ELASTIC</Jenis>
+    <BatchNum>DE-23080081</BatchNum>
+    <BBID>99000202</BBID>
+    <Nama>ELASTIC WHITE UK. 40 MM</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ELASTIC</Jenis>
+    <BatchNum>BNB-2103-0001</BatchNum>
+    <BBID>99000194</BBID>
+    <Nama>ELASTIC WHITE UK. 50 MM</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ELASTIC</Jenis>
+    <BatchNum>PR2404300005</BatchNum>
+    <BBID>99000309</BBID>
+    <Nama>ELASTIC WHITE UK. 60 MM</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ELASTIC</Jenis>
+    <BatchNum>DE-22080049</BatchNum>
+    <BBID>99000183</BBID>
+    <Nama>ELASTIC YELLOW 1626 UK. 35 MM</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>EVA</Jenis>
+    <BatchNum>50/VIII</BatchNum>
+    <BBID>02000292</BBID>
+    <Nama>EVA 1 MM WHITE + STICKER</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>EVA</Jenis>
+    <BatchNum>00000037</BatchNum>
+    <BBID>02000284</BBID>
+    <Nama>EVA KW A 3 MM WHITE HD 30-35 L.125 CM</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>EVA</Jenis>
+    <BatchNum>BNB-2103-0001</BatchNum>
+    <BBID>02000230</BBID>
+    <Nama>EVA ONE PIECE MELLOW YELLOW 1245 C  (HD 35-40) 12X6 UK. 33.5 CM</Nama>
+    <Sat>PSG LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>EVA</Jenis>
+    <BatchNum>BNB-2103-0001</BatchNum>
+    <BBID>02000229</BBID>
+    <Nama>EVA ONE PIECE PURISH BLUE 5493C (HD 35-40) 12X6 UK. 33.5 CM</Nama>
+    <Sat>PSG LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>EVA</Jenis>
+    <BatchNum>BNB-2103-0001</BatchNum>
+    <BBID>02000225</BBID>
+    <Nama>EVA ONE PIECE PURIST BLUE 5493C (HD 35-40) 12X5 UK. 30 CM</Nama>
+    <Sat>PSG LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>EVA</Jenis>
+    <BatchNum>AGM/25/01/218</BatchNum>
+    <BBID>02000298</BBID>
+    <Nama>EVA SSA 1.5 MM BLACK HD 40 (TCP)</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>EVA</Jenis>
+    <BatchNum>AGM/25/01/218</BatchNum>
+    <BBID>02000297</BBID>
+    <Nama>EVA SSA 1.5 MM WHITE HD 40 (TCP)</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>EVA</Jenis>
+    <BatchNum>SJKH23010003</BatchNum>
+    <BBID>02000282</BBID>
+    <Nama>EVA SSA 12 MM WHITE HD 35-40</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>EVA</Jenis>
+    <BatchNum>448</BatchNum>
+    <BBID>02000283</BBID>
+    <Nama>EVA SSA 2.0 MM WHITE HD 60-65</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>EVA</Jenis>
+    <BatchNum>BPBR-2308-0519</BatchNum>
+    <BBID>02000283</BBID>
+    <Nama>EVA SSA 2.0 MM WHITE HD 60-65</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>EVA</Jenis>
+    <BatchNum>AGM/25/03/013</BatchNum>
+    <BBID>02000190</BBID>
+    <Nama>EVA SSA 3.0 MM BLACK 30-35 L. 44"</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>EVA</Jenis>
+    <BatchNum>00006</BatchNum>
+    <BBID>02000094</BBID>
+    <Nama>EVA SSA 3.0 MM BLACK 30-35 L. 56"</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>EVA</Jenis>
+    <BatchNum>AGM/25/03/015</BatchNum>
+    <BBID>02000100</BBID>
+    <Nama>EVA SSA 3.0 MM WHITE 30-35 L. 56"</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>EVA</Jenis>
+    <BatchNum>AGM/25/03/012</BatchNum>
+    <BBID>02000100</BBID>
+    <Nama>EVA SSA 3.0 MM WHITE 30-35 L. 56"</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>EVA</Jenis>
+    <BatchNum>SJKR-2303-0030</BatchNum>
+    <BBID>02000109</BBID>
+    <Nama>EVA SSA 4.0 MM WHITE 30-35</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>HANG TAG</Jenis>
+    <BatchNum>004052</BatchNum>
+    <BBID>17000065</BBID>
+    <Nama>HANG TAG "DALLAS NEW BASKET" BLACK</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>HANG TAG</Jenis>
+    <BatchNum>24090086</BatchNum>
+    <BBID>17000065</BBID>
+    <Nama>HANG TAG "DALLAS NEW BASKET" BLACK</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>HANG TAG</Jenis>
+    <BatchNum>24080318</BatchNum>
+    <BBID>17000065</BBID>
+    <Nama>HANG TAG "DALLAS NEW BASKET" BLACK</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>HANG TAG</Jenis>
+    <BatchNum>24060200</BatchNum>
+    <BBID>17000065</BBID>
+    <Nama>HANG TAG "DALLAS NEW BASKET" BLACK</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>HANG TAG</Jenis>
+    <BatchNum>24090085</BatchNum>
+    <BBID>17000065</BBID>
+    <Nama>HANG TAG "DALLAS NEW BASKET" BLACK</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>HANG TAG</Jenis>
+    <BatchNum>05082023</BatchNum>
+    <BBID>17000070</BBID>
+    <Nama>HANG TAG "DISNEY"</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>HANG TAG</Jenis>
+    <BatchNum>7021</BatchNum>
+    <BBID>17000033</BBID>
+    <Nama>HANG TAG "WAKAI KIDS"</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>HANG TAG</Jenis>
+    <BatchNum>NXG/25/II/0410-0478</BatchNum>
+    <BBID>17000076</BBID>
+    <Nama>HANG TAG (PRICE TAG) TCP-INTL/PT/FSC/IN</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>HANG TAG</Jenis>
+    <BatchNum>TCP-041514</BatchNum>
+    <BBID>17000075</BBID>
+    <Nama>HANG TAG (PRICE TICKET) TCP-041514/FSC GYMBOREE</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>INK</Jenis>
+    <BatchNum>25010332</BatchNum>
+    <BBID>INK000001</BBID>
+    <Nama>INK CREAM GG 21406 G-BOS</Nama>
+    <Sat>BTL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>INK</Jenis>
+    <BatchNum>24110189</BatchNum>
+    <BBID>INK000003</BBID>
+    <Nama>INK GREY GG 21414 G-BOS</Nama>
+    <Sat>BTL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>INK</Jenis>
+    <BatchNum>24030090</BatchNum>
+    <BBID>INK000003</BBID>
+    <Nama>INK GREY GG 21414 G-BOS</Nama>
+    <Sat>BTL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>INK</Jenis>
+    <BatchNum>24080326</BatchNum>
+    <BBID>INK000003</BBID>
+    <Nama>INK GREY GG 21414 G-BOS</Nama>
+    <Sat>BTL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>INK</Jenis>
+    <BatchNum>24010153</BatchNum>
+    <BBID>INK000003</BBID>
+    <Nama>INK GREY GG 21414 G-BOS</Nama>
+    <Sat>BTL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>INK</Jenis>
+    <BatchNum>24040271</BatchNum>
+    <BBID>INK000003</BBID>
+    <Nama>INK GREY GG 21414 G-BOS</Nama>
+    <Sat>BTL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>INK</Jenis>
+    <BatchNum>24050522</BatchNum>
+    <BBID>INK000003</BBID>
+    <Nama>INK GREY GG 21414 G-BOS</Nama>
+    <Sat>BTL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>INK</Jenis>
+    <BatchNum>24070555</BatchNum>
+    <BBID>INK000003</BBID>
+    <Nama>INK GREY GG 21414 G-BOS</Nama>
+    <Sat>BTL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>INK</Jenis>
+    <BatchNum>24070428</BatchNum>
+    <BBID>INK000003</BBID>
+    <Nama>INK GREY GG 21414 G-BOS</Nama>
+    <Sat>BTL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>INK</Jenis>
+    <BatchNum>24070027</BatchNum>
+    <BBID>INK000003</BBID>
+    <Nama>INK GREY GG 21414 G-BOS</Nama>
+    <Sat>BTL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>INK</Jenis>
+    <BatchNum>24040305</BatchNum>
+    <BBID>INK000003</BBID>
+    <Nama>INK GREY GG 21414 G-BOS</Nama>
+    <Sat>BTL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>INK</Jenis>
+    <BatchNum>24060379</BatchNum>
+    <BBID>INK000003</BBID>
+    <Nama>INK GREY GG 21414 G-BOS</Nama>
+    <Sat>BTL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>INK</Jenis>
+    <BatchNum>24050310</BatchNum>
+    <BBID>INK000003</BBID>
+    <Nama>INK GREY GG 21414 G-BOS</Nama>
+    <Sat>BTL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>INK</Jenis>
+    <BatchNum>24090257</BatchNum>
+    <BBID>INK000003</BBID>
+    <Nama>INK GREY GG 21414 G-BOS</Nama>
+    <Sat>BTL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>INK</Jenis>
+    <BatchNum>24090010</BatchNum>
+    <BBID>INK000002</BBID>
+    <Nama>INK WHITE GG 21407 G-BOS</Nama>
+    <Sat>BTL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>INK</Jenis>
+    <BatchNum>24020467</BatchNum>
+    <BBID>INK000002</BBID>
+    <Nama>INK WHITE GG 21407 G-BOS</Nama>
+    <Sat>BTL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>INK</Jenis>
+    <BatchNum>24010153</BatchNum>
+    <BBID>INK000002</BBID>
+    <Nama>INK WHITE GG 21407 G-BOS</Nama>
+    <Sat>BTL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>INK</Jenis>
+    <BatchNum>24050523</BatchNum>
+    <BBID>INK000002</BBID>
+    <Nama>INK WHITE GG 21407 G-BOS</Nama>
+    <Sat>BTL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>INK</Jenis>
+    <BatchNum>24100429</BatchNum>
+    <BBID>INK000002</BBID>
+    <Nama>INK WHITE GG 21407 G-BOS</Nama>
+    <Sat>BTL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>INK</Jenis>
+    <BatchNum>23120345</BatchNum>
+    <BBID>INK000002</BBID>
+    <Nama>INK WHITE GG 21407 G-BOS</Nama>
+    <Sat>BTL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>INK</Jenis>
+    <BatchNum>24030090</BatchNum>
+    <BBID>INK000002</BBID>
+    <Nama>INK WHITE GG 21407 G-BOS</Nama>
+    <Sat>BTL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>INK</Jenis>
+    <BatchNum>24070555</BatchNum>
+    <BBID>INK000002</BBID>
+    <Nama>INK WHITE GG 21407 G-BOS</Nama>
+    <Sat>BTL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>INK</Jenis>
+    <BatchNum>24070428</BatchNum>
+    <BBID>INK000002</BBID>
+    <Nama>INK WHITE GG 21407 G-BOS</Nama>
+    <Sat>BTL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>INK</Jenis>
+    <BatchNum>24070027</BatchNum>
+    <BBID>INK000002</BBID>
+    <Nama>INK WHITE GG 21407 G-BOS</Nama>
+    <Sat>BTL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>INK</Jenis>
+    <BatchNum>24040305</BatchNum>
+    <BBID>INK000002</BBID>
+    <Nama>INK WHITE GG 21407 G-BOS</Nama>
+    <Sat>BTL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>INK</Jenis>
+    <BatchNum>24070327</BatchNum>
+    <BBID>INK000002</BBID>
+    <Nama>INK WHITE GG 21407 G-BOS</Nama>
+    <Sat>BTL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>INK</Jenis>
+    <BatchNum>24030399</BatchNum>
+    <BBID>INK000002</BBID>
+    <Nama>INK WHITE GG 21407 G-BOS</Nama>
+    <Sat>BTL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>INK</Jenis>
+    <BatchNum>24090257</BatchNum>
+    <BBID>INK000002</BBID>
+    <Nama>INK WHITE GG 21407 G-BOS</Nama>
+    <Sat>BTL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>INK</Jenis>
+    <BatchNum>24120019</BatchNum>
+    <BBID>INK000002</BBID>
+    <Nama>INK WHITE GG 21407 G-BOS</Nama>
+    <Sat>BTL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>INK</Jenis>
+    <BatchNum>24060379</BatchNum>
+    <BBID>INK000002</BBID>
+    <Nama>INK WHITE GG 21407 G-BOS</Nama>
+    <Sat>BTL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>INK</Jenis>
+    <BatchNum>25010332</BatchNum>
+    <BBID>INK000002</BBID>
+    <Nama>INK WHITE GG 21407 G-BOS</Nama>
+    <Sat>BTL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>INK</Jenis>
+    <BatchNum>24050522</BatchNum>
+    <BBID>INK000002</BBID>
+    <Nama>INK WHITE GG 21407 G-BOS</Nama>
+    <Sat>BTL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ISOLASI</Jenis>
+    <BatchNum>KIJ/435/25</BatchNum>
+    <BBID>22000004</BBID>
+    <Nama>ISOLASI BROWN 2"</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ISOLASI</Jenis>
+    <BatchNum>323</BatchNum>
+    <BBID>22000028</BBID>
+    <Nama>ISOLASI DOUBLE TAPE UK. 12 MM</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ISOLASI</Jenis>
+    <BatchNum>840</BatchNum>
+    <BBID>22000022</BBID>
+    <Nama>ISOLASI DOUBLE TAPE UK. 48 MM</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ISOLASI</Jenis>
+    <BatchNum>KIJ/718/24</BatchNum>
+    <BBID>22000029</BBID>
+    <Nama>ISOLASI DOUBLE TAPE UK. 6 MM</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ISOLASI</Jenis>
+    <BatchNum>KIJ/1082/24</BatchNum>
+    <BBID>22000029</BBID>
+    <Nama>ISOLASI DOUBLE TAPE UK. 6 MM</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ISOLASI</Jenis>
+    <BatchNum>KIJ/1731/24</BatchNum>
+    <BBID>22000010</BBID>
+    <Nama>ISOLASI KERTAS MASKING TAPE UK. 12 MM</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ISOLASI</Jenis>
+    <BatchNum>KIJ/718/24</BatchNum>
+    <BBID>22000010</BBID>
+    <Nama>ISOLASI KERTAS MASKING TAPE UK. 12 MM</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ISOLASI</Jenis>
+    <BatchNum>KIJ/365/25</BatchNum>
+    <BBID>22000014</BBID>
+    <Nama>ISOLASI MASKING UK. 48 MM</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ISOLASI</Jenis>
+    <BatchNum>KIJ/1896/24</BatchNum>
+    <BBID>22000014</BBID>
+    <Nama>ISOLASI MASKING UK. 48 MM</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ISOLASI</Jenis>
+    <BatchNum>KIJ/1378/24</BatchNum>
+    <BBID>22000014</BBID>
+    <Nama>ISOLASI MASKING UK. 48 MM</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ISOLASI</Jenis>
+    <BatchNum>BNB-2103-0001</BatchNum>
+    <BBID>22000026</BBID>
+    <Nama>ISOLASI TRANSPARANT 1"</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ISOLASI</Jenis>
+    <BatchNum>KIJ/1896/24</BatchNum>
+    <BBID>22000018</BBID>
+    <Nama>ISOLASI TRANSPARANT 48 MM</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ISOLASI</Jenis>
+    <BatchNum>KIJ/1732/24</BatchNum>
+    <BBID>22000018</BBID>
+    <Nama>ISOLASI TRANSPARANT 48 MM</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ISOLASI</Jenis>
+    <BatchNum>KIJ/1499/24</BatchNum>
+    <BBID>22000018</BBID>
+    <Nama>ISOLASI TRANSPARANT 48 MM</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ISOLASI</Jenis>
+    <BatchNum>KIJ/151/25</BatchNum>
+    <BBID>22000018</BBID>
+    <Nama>ISOLASI TRANSPARANT 48 MM</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ISOLASI</Jenis>
+    <BatchNum>KIJ/420/25</BatchNum>
+    <BBID>22000018</BBID>
+    <Nama>ISOLASI TRANSPARANT 48 MM</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ISOLASI</Jenis>
+    <BatchNum>KIJ/365/25</BatchNum>
+    <BBID>22000018</BBID>
+    <Nama>ISOLASI TRANSPARANT 48 MM</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ISOLASI</Jenis>
+    <BatchNum>KIJ/793/24</BatchNum>
+    <BBID>22000018</BBID>
+    <Nama>ISOLASI TRANSPARANT 48 MM</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>JASA</Jenis>
+    <BatchNum>423/XII</BatchNum>
+    <BBID>JS000080</BBID>
+    <Nama>JASA BUSA 10 MM SH 18 WHITE 44" +STICKER</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KAIN</Jenis>
+    <BatchNum>14/II-A</BatchNum>
+    <BBID>03001344</BBID>
+    <Nama>KAIN 80G MERABON WHITE L. 140 CM</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KAIN</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>03001719</BBID>
+    <Nama>KAIN CANVAS 6 N WHITE</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KAIN</Jenis>
+    <BatchNum>CONT. 1</BatchNum>
+    <BBID>03001398</BBID>
+    <Nama>KAIN CANVAS 8 OZ CANTALOUPE 163C (KH 2020/09/10) #2</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KAIN</Jenis>
+    <BatchNum>SL/BH/30112021/637</BatchNum>
+    <BBID>03001493</BBID>
+    <Nama>KAIN CANVAS NM 13 (MARSOTO) BLACK</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KAIN</Jenis>
+    <BatchNum>PSL/BH/2212025/310</BatchNum>
+    <BBID>03001493</BBID>
+    <Nama>KAIN CANVAS NM 13 (MARSOTO) BLACK</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KAIN</Jenis>
+    <BatchNum>SL/BH/1212023/744</BatchNum>
+    <BBID>03001572</BBID>
+    <Nama>KAIN CANVAS NM 13 (MARSOTO) RED</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KAIN</Jenis>
+    <BatchNum>SL/BH/352024/776</BatchNum>
+    <BBID>03001572</BBID>
+    <Nama>KAIN CANVAS NM 13 (MARSOTO) RED</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KAIN</Jenis>
+    <BatchNum>SL/BH/2722024/773</BatchNum>
+    <BBID>03001572</BBID>
+    <Nama>KAIN CANVAS NM 13 (MARSOTO) RED</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KAIN</Jenis>
+    <BatchNum>333/III</BatchNum>
+    <BBID>03001740</BBID>
+    <Nama>KAIN COTTON TWILL (TCP) PINK + EVA 3 MM HD 35-38 WHITE</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KAIN</Jenis>
+    <BatchNum>240125</BatchNum>
+    <BBID>03000245</BBID>
+    <Nama>KAIN KATUN 100 GR BLACK</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KAIN</Jenis>
+    <BatchNum>240125</BatchNum>
+    <BBID>03001015</BBID>
+    <Nama>KAIN KATUN 100 GR WHITE</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KAIN</Jenis>
+    <BatchNum>PSL/BH/2212025/310</BatchNum>
+    <BBID>03001509</BBID>
+    <Nama>KAIN LAPIS POLY TC BLACK (POLY 150/TC20)</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KAIN</Jenis>
+    <BatchNum>PSL/BH/2692023/292</BatchNum>
+    <BBID>03001509</BBID>
+    <Nama>KAIN LAPIS POLY TC BLACK (POLY 150/TC20)</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KAIN</Jenis>
+    <BatchNum>PSL/BH/2212025/310</BatchNum>
+    <BBID>03001567</BBID>
+    <Nama>KAIN LAPIS POLY TC RED (POLY 150/TC20)</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KAIN</Jenis>
+    <BatchNum>SJKR-2502-0020</BatchNum>
+    <BBID>03001494</BBID>
+    <Nama>KAIN LAPIS POLY TC WHITE (POLY 150/TC20)</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KAIN</Jenis>
+    <BatchNum>CG.753</BatchNum>
+    <BBID>03001494</BBID>
+    <Nama>KAIN LAPIS POLY TC WHITE (POLY 150/TC20)</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KAIN</Jenis>
+    <BatchNum>CONT.11</BatchNum>
+    <BBID>03001067</BBID>
+    <Nama>KAIN LYCRA 260 GR WHITE L. 140 CM</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KAIN</Jenis>
+    <BatchNum>0000060</BatchNum>
+    <BBID>03001402</BBID>
+    <Nama>KAIN LYCRA 260 GR WHITE L. 140 CM + SPENCO WHITE</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KAIN</Jenis>
+    <BatchNum>SJKR-2303-0030</BatchNum>
+    <BBID>03000958</BBID>
+    <Nama>KAIN M.MESH 95 GR BLACK #1 UK. 110 CM + BUSA WF-501 3 MM GREY+ TRICOT</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KAIN</Jenis>
+    <BatchNum>21122024</BatchNum>
+    <BBID>03000448</BBID>
+    <Nama>KAIN MALIMO 0.8 MM WHITE</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KAIN</Jenis>
+    <BatchNum>BNB-2103-0001</BatchNum>
+    <BBID>03001059</BBID>
+    <Nama>KAIN MESH K208 BLACK L. 140 CM</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KAIN</Jenis>
+    <BatchNum>448/VII</BatchNum>
+    <BBID>03001689</BBID>
+    <Nama>KAIN MESH WHITE + KAIN JERSEY WHITE + EVA 1.0 MM WHITE + KAIN MESH RED</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KAIN</Jenis>
+    <BatchNum>BNB-2103-0001</BatchNum>
+    <BBID>03001030</BBID>
+    <Nama>KAIN MONO NYLON MESH CLEAR L. 140 CM</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KAIN</Jenis>
+    <BatchNum>BPBR-2306-0709</BatchNum>
+    <BBID>03000540</BBID>
+    <Nama>KAIN NON WOVEN 0.5 MM WHITE</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KAIN</Jenis>
+    <BatchNum>SJKH-2310-0004</BatchNum>
+    <BBID>03001646</BBID>
+    <Nama>KAIN NON WOVEN 0.6 MM WHITE</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KAIN</Jenis>
+    <BatchNum>04-25-DO-205157</BatchNum>
+    <BBID>03000547</BBID>
+    <Nama>KAIN NON WOVEN 0.8 MM WHITE</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KAIN</Jenis>
+    <BatchNum>CONT.4</BatchNum>
+    <BBID>03001654</BBID>
+    <Nama>KAIN NON WOVEN 1.5 MM WHITE-II 54"</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KAIN</Jenis>
+    <BatchNum>20112024</BatchNum>
+    <BBID>03001654</BBID>
+    <Nama>KAIN NON WOVEN 1.5 MM WHITE-II 54"</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KAIN</Jenis>
+    <BatchNum>CONT.1</BatchNum>
+    <BBID>03001727</BBID>
+    <Nama>KAIN NON WOVEN FABRIC 120 GR BLACK</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KAIN</Jenis>
+    <BatchNum>445/II</BatchNum>
+    <BBID>03001062</BBID>
+    <Nama>KAIN NYLON 210-D BLACK + STICKER</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KAIN</Jenis>
+    <BatchNum>HANDCARRY</BatchNum>
+    <BBID>03001741</BBID>
+    <Nama>KAIN PINK COTTON TWILL + WHITE 18P CLOTH</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KAIN</Jenis>
+    <BatchNum>CONT.1HANDCARRY</BatchNum>
+    <BBID>03001722</BBID>
+    <Nama>KAIN PINK VELVET + FOAM PINK</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KAIN</Jenis>
+    <BatchNum>SJKR-2404-0019</BatchNum>
+    <BBID>03001530</BBID>
+    <Nama>KAIN POLYESTER WHITE L. 56"</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KAIN</Jenis>
+    <BatchNum>03412</BatchNum>
+    <BBID>03000768</BBID>
+    <Nama>KAIN SPENCO 90 GR WHITE L. 56"</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KAIN</Jenis>
+    <BatchNum>24010167</BatchNum>
+    <BBID>03000781</BBID>
+    <Nama>KAIN SPUNBOND BLACK 100 GR</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KAIN</Jenis>
+    <BatchNum>2450541</BatchNum>
+    <BBID>03000949</BBID>
+    <Nama>KAIN SPUNBOND WHITE 100 GR</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KAIN</Jenis>
+    <BatchNum>014161</BatchNum>
+    <BBID>03001516</BBID>
+    <Nama>KAIN TC BLACK 44" SARUNG</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KAIN</Jenis>
+    <BatchNum>23012025</BatchNum>
+    <BBID>03001516</BBID>
+    <Nama>KAIN TC BLACK 44" SARUNG</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KAIN</Jenis>
+    <BatchNum>CONT.1</BatchNum>
+    <BBID>03001723</BBID>
+    <Nama>KAIN TC CLOTH WHITE</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KAIN</Jenis>
+    <BatchNum>008/XII-TCY/2024</BatchNum>
+    <BBID>03001711</BBID>
+    <Nama>KAIN TRICOT WHITE (A)</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KAIN</Jenis>
+    <BatchNum>SJKR-2503-0012</BatchNum>
+    <BBID>03001711</BBID>
+    <Nama>KAIN TRICOT WHITE (A)</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KARET</Jenis>
+    <BatchNum>0001547</BatchNum>
+    <BBID>CK000001</BBID>
+    <Nama>KARET COUMPOUND SETENGAH MATANG BLACK</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KARET</Jenis>
+    <BatchNum>0000004</BatchNum>
+    <BBID>CK000005</BBID>
+    <Nama>KARET COUMPOUND SETENGAH MATANG NATURAL</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KARET</Jenis>
+    <BatchNum>0001528</BatchNum>
+    <BBID>CK000005</BBID>
+    <Nama>KARET COUMPOUND SETENGAH MATANG NATURAL</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KARET</Jenis>
+    <BatchNum>0001530</BatchNum>
+    <BBID>CK000005</BBID>
+    <Nama>KARET COUMPOUND SETENGAH MATANG NATURAL</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KARET</Jenis>
+    <BatchNum>0001549</BatchNum>
+    <BBID>CK000005</BBID>
+    <Nama>KARET COUMPOUND SETENGAH MATANG NATURAL</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KARET</Jenis>
+    <BatchNum>0001539</BatchNum>
+    <BBID>CK000005</BBID>
+    <Nama>KARET COUMPOUND SETENGAH MATANG NATURAL</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KARTON</Jenis>
+    <BatchNum>001724</BatchNum>
+    <BBID>26000019</BBID>
+    <Nama>KARTON DUPLEX WHITE UK. 79X109 CM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KARTON</Jenis>
+    <BatchNum>18082023</BatchNum>
+    <BBID>26000020</BBID>
+    <Nama>KARTON SOCK CRAFT "WAKAI KIDS" SIZE 26-30</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KARTON</Jenis>
+    <BatchNum>7293</BatchNum>
+    <BBID>26000024</BBID>
+    <Nama>KARTON SOCK CRAFT "WAKAI" SIZE 40-41</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KARTON</Jenis>
+    <BatchNum>7377</BatchNum>
+    <BBID>26000025</BBID>
+    <Nama>KARTON SOCK CRAFT "WAKAI" SIZE 42-43</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KERASAN</Jenis>
+    <BatchNum>CONT.1</BatchNum>
+    <BBID>84000078</BBID>
+    <Nama>KERASAN 0.4 MM WHITE BOX</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KERASAN</Jenis>
+    <BatchNum>120322</BatchNum>
+    <BBID>84000077</BBID>
+    <Nama>KERASAN CHEMISHEET 1.0 MM WHITE + LAPIS POLY TC BLACK</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KERASAN</Jenis>
+    <BatchNum>120322</BatchNum>
+    <BBID>84000076</BBID>
+    <Nama>KERASAN CHEMISHEET 1.0 MM WHITE + LAPIS POLY TC WHITE</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KERASAN</Jenis>
+    <BatchNum>158261</BatchNum>
+    <BBID>84000003</BBID>
+    <Nama>KERASAN CHEMISHEET 1.0 MM WHITE UK. 36"</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KERASAN</Jenis>
+    <BatchNum>SJKH-2308-0001</BatchNum>
+    <BBID>84000039</BBID>
+    <Nama>KERASAN CV-WT04FC 0.4 MM WHITE</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KERASAN</Jenis>
+    <BatchNum>CONT. 14</BatchNum>
+    <BBID>84000040</BBID>
+    <Nama>KERASAN CV-WT06FC 0.6 MM WHITE UK. 92X150</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KERASAN</Jenis>
+    <BatchNum>CONT. 19</BatchNum>
+    <BBID>84000040</BBID>
+    <Nama>KERASAN CV-WT06FC 0.6 MM WHITE UK. 92X150</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KERASAN</Jenis>
+    <BatchNum>QF2021127</BatchNum>
+    <BBID>84000074</BBID>
+    <Nama>KERASAN CV-WT08FC 0.8 MM WHITE UK. 92X150</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KERASAN</Jenis>
+    <BatchNum>BNB-2103-0001</BatchNum>
+    <BBID>84000051</BBID>
+    <Nama>KERASAN TR COUNTER (DL3456#) WHITE SIZE 14-16</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KERTAS</Jenis>
+    <BatchNum>03/09/22/VII/11</BatchNum>
+    <BBID>13000002</BBID>
+    <Nama>KERTAS DOORSLAG BROWN (MURAH)</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KERTAS</Jenis>
+    <BatchNum>77/02/21/IV/33/DLS</BatchNum>
+    <BBID>13000002</BBID>
+    <Nama>KERTAS DOORSLAG BROWN (MURAH)</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KERTAS</Jenis>
+    <BatchNum>12/12/24/II/55</BatchNum>
+    <BBID>13000041</BBID>
+    <Nama>KERTAS DOORSLAG WHITE UK. 22X55 CM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KERTAS</Jenis>
+    <BatchNum>77/02/21/IV/33/DLS</BatchNum>
+    <BBID>13000041</BBID>
+    <Nama>KERTAS DOORSLAG WHITE UK. 22X55 CM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KERTAS</Jenis>
+    <BatchNum>01/03/25/IV/35/DLS</BatchNum>
+    <BBID>13000041</BBID>
+    <Nama>KERTAS DOORSLAG WHITE UK. 22X55 CM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KERTAS</Jenis>
+    <BatchNum>06/09/24/IV/09</BatchNum>
+    <BBID>13000042</BBID>
+    <Nama>KERTAS DOORSLAG WHITE UK. 22X60 CM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KERTAS</Jenis>
+    <BatchNum>77/02/21/IV/33/DLS</BatchNum>
+    <BBID>13000004</BBID>
+    <Nama>KERTAS DOORSLAG WHITE UK. 22X69 CM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KERTAS</Jenis>
+    <BatchNum>03/05/25/IV/36</BatchNum>
+    <BBID>13000004</BBID>
+    <Nama>KERTAS DOORSLAG WHITE UK. 22X69 CM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KERTAS</Jenis>
+    <BatchNum>12/02/25/III/70</BatchNum>
+    <BBID>13000055</BBID>
+    <Nama>KERTAS SUMPEL DOORSLAG WHITE UK. 25X46 CM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KERTAS</Jenis>
+    <BatchNum>L25020145</BatchNum>
+    <BBID>13000050</BBID>
+    <Nama>KERTAS TISSUE "ORTUSEIGHT" UK. 32.5X80 CM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KERTAS</Jenis>
+    <BatchNum>L25020146</BatchNum>
+    <BBID>13000050</BBID>
+    <Nama>KERTAS TISSUE "ORTUSEIGHT" UK. 32.5X80 CM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KERTAS</Jenis>
+    <BatchNum>001773</BatchNum>
+    <BBID>13000057</BBID>
+    <Nama>KERTAS TISSUE 17 GRAM UK. 22X15 CM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KERTAS</Jenis>
+    <BatchNum>001763</BatchNum>
+    <BBID>13000057</BBID>
+    <Nama>KERTAS TISSUE 17 GRAM UK. 22X15 CM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KERTAS</Jenis>
+    <BatchNum>07032025</BatchNum>
+    <BBID>13000057</BBID>
+    <Nama>KERTAS TISSUE 17 GRAM UK. 22X15 CM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KERTAS</Jenis>
+    <BatchNum>13022025</BatchNum>
+    <BBID>13000058</BBID>
+    <Nama>KERTAS TISSUE 17 GRAM UK. 22X63 CM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KERTAS</Jenis>
+    <BatchNum>17032025</BatchNum>
+    <BBID>13000058</BBID>
+    <Nama>KERTAS TISSUE 17 GRAM UK. 22X63 CM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KERTAS</Jenis>
+    <BatchNum>001724</BatchNum>
+    <BBID>13000059</BBID>
+    <Nama>KERTAS TISSUE 17 GRAM UK. 29X69 CM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KERTAS</Jenis>
+    <BatchNum>07032025</BatchNum>
+    <BBID>13000059</BBID>
+    <Nama>KERTAS TISSUE 17 GRAM UK. 29X69 CM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KERTAS</Jenis>
+    <BatchNum>001773</BatchNum>
+    <BBID>13000059</BBID>
+    <Nama>KERTAS TISSUE 17 GRAM UK. 29X69 CM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KERTAS</Jenis>
+    <BatchNum>001763</BatchNum>
+    <BBID>13000059</BBID>
+    <Nama>KERTAS TISSUE 17 GRAM UK. 29X69 CM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KERTAS</Jenis>
+    <BatchNum>001752</BatchNum>
+    <BBID>13000060</BBID>
+    <Nama>KERTAS TISSUE 17 GRAM UK. 38.5X63 CM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KERTAS</Jenis>
+    <BatchNum>OSP-2407-01902</BatchNum>
+    <BBID>13000048</BBID>
+    <Nama>KERTAS TISSUE 30 GR WHITE UK. 60X22 CM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KERTAS</Jenis>
+    <BatchNum>OSP-2407-01901</BatchNum>
+    <BBID>13000048</BBID>
+    <Nama>KERTAS TISSUE 30 GR WHITE UK. 60X22 CM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KERTAS</Jenis>
+    <BatchNum>OSP-2407-01900</BatchNum>
+    <BBID>13000049</BBID>
+    <Nama>KERTAS TISSUE 30 GR WHITE UK. 68X20 CM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KERTAS</Jenis>
+    <BatchNum>OSP-2407-01899</BatchNum>
+    <BBID>13000049</BBID>
+    <Nama>KERTAS TISSUE 30 GR WHITE UK. 68X20 CM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KERTAS</Jenis>
+    <BatchNum>OSP-2407-01901</BatchNum>
+    <BBID>13000046</BBID>
+    <Nama>KERTAS TISSUE 30 GR WHITE UK.58X18.5 CM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KERTAS</Jenis>
+    <BatchNum>OSP-2407-01902</BatchNum>
+    <BBID>13000046</BBID>
+    <Nama>KERTAS TISSUE 30 GR WHITE UK.58X18.5 CM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KERTAS</Jenis>
+    <BatchNum>OSP-2407-01900</BatchNum>
+    <BBID>13000045</BBID>
+    <Nama>KERTAS TISSUE 30 GR WHITE UK.60X17 CM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KERTAS</Jenis>
+    <BatchNum>OSP-2407-01899</BatchNum>
+    <BBID>13000045</BBID>
+    <Nama>KERTAS TISSUE 30 GR WHITE UK.60X17 CM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KERTAS</Jenis>
+    <BatchNum>OSP-2407-01902</BatchNum>
+    <BBID>13000047</BBID>
+    <Nama>KERTAS TISSUE 30 GR WHITE UK.64X24 CM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KERTAS</Jenis>
+    <BatchNum>OSP-2407-01901</BatchNum>
+    <BBID>13000047</BBID>
+    <Nama>KERTAS TISSUE 30 GR WHITE UK.64X24 CM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KERTAS</Jenis>
+    <BatchNum>OSP-2407-01900</BatchNum>
+    <BBID>13000044</BBID>
+    <Nama>KERTAS TISSUE 30 GR WHITE UK.66X15,5</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KERTAS</Jenis>
+    <BatchNum>OSP-2407-01899</BatchNum>
+    <BBID>13000044</BBID>
+    <Nama>KERTAS TISSUE 30 GR WHITE UK.66X15,5</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KERTAS</Jenis>
+    <BatchNum>BNB-2103-0001</BatchNum>
+    <BBID>13000029</BBID>
+    <Nama>KERTAS TISSUE UK. 10X22 CM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KERTAS</Jenis>
+    <BatchNum>001773</BatchNum>
+    <BBID>13000027</BBID>
+    <Nama>KERTAS TISSUE UK. 22X15 CM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KERTAS</Jenis>
+    <BatchNum>22/07/24/I/29</BatchNum>
+    <BBID>13000028</BBID>
+    <Nama>KERTAS TISSUE UK. 30X50 CM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>KERTAS</Jenis>
+    <BatchNum>22/07/24/I/29</BatchNum>
+    <BBID>13000038</BBID>
+    <Nama>KERTAS TISSUE UK. 30X70 CM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LABEL</Jenis>
+    <BatchNum>012550</BatchNum>
+    <BBID>10000286</BBID>
+    <Nama>LABEL BARCODE OUTER BOX</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LABEL</Jenis>
+    <BatchNum>20814151617</BatchNum>
+    <BBID>10000289</BBID>
+    <Nama>LABEL NFC</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LABEL</Jenis>
+    <BatchNum>BNB-2103-0001</BatchNum>
+    <BBID>10000209</BBID>
+    <Nama>LABEL TAFETA "CARE LABEL" AQUA SHOES</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LABEL</Jenis>
+    <BatchNum>BNB-2103-0001</BatchNum>
+    <BBID>10000210</BBID>
+    <Nama>LABEL TAFETA "CARE LABEL" ARPENAZ</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>CONT. 19</BatchNum>
+    <BBID>34000175</BBID>
+    <Nama>LAIN-LAIN AVONTAPE AQILA 10 MM WHITE</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>SJKR-2212-0002</BatchNum>
+    <BBID>34000286</BBID>
+    <Nama>LAIN-LAIN AVONTAPE AQILA 15 MM WHITE</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>CONT. 19</BatchNum>
+    <BBID>34000292</BBID>
+    <Nama>LAIN-LAIN AVONTAPE AQILA 3.0 MM WHITE</Nama>
+    <Sat>ROLL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>SJKH-2501-0003</BatchNum>
+    <BBID>34000123</BBID>
+    <Nama>LAIN-LAIN AVONTAPE REINFORCE TAPE WITH GLUE 3.0 MM WHITE</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>SKJH-2501-0004</BatchNum>
+    <BBID>34000123</BBID>
+    <Nama>LAIN-LAIN AVONTAPE REINFORCE TAPE WITH GLUE 3.0 MM WHITE</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>CONT.1</BatchNum>
+    <BBID>34000123</BBID>
+    <Nama>LAIN-LAIN AVONTAPE REINFORCE TAPE WITH GLUE 3.0 MM WHITE</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>0047</BatchNum>
+    <BBID>34000256</BBID>
+    <Nama>LAIN-LAIN BLACK CARBON N 330</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>SJP/0003/0325/MEI</BatchNum>
+    <BBID>34000010</BBID>
+    <Nama>LAIN-LAIN BONIX WHITE UK. 1500X500X50 MM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>SJP/0026/0225/MEI</BatchNum>
+    <BBID>34000010</BBID>
+    <Nama>LAIN-LAIN BONIX WHITE UK. 1500X500X50 MM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>0021</BatchNum>
+    <BBID>34000241</BBID>
+    <Nama>LAIN-LAIN CACO3 MES 800</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>CONT.1</BatchNum>
+    <BBID>34000187</BBID>
+    <Nama>LAIN-LAIN EMBOSS ALUMINIUM FOIL GOLD (TCP)</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>CONT.1</BatchNum>
+    <BBID>34000304</BBID>
+    <Nama>LAIN-LAIN EMBOSS ALUMINIUM FOIL ROSE GOLD (TCP)</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>CONT.1</BatchNum>
+    <BBID>34000188</BBID>
+    <Nama>LAIN-LAIN EMBOSS ALUMINIUM FOIL SILVER (TCP)</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>HAN/V24/00018</BatchNum>
+    <BBID>34000252</BBID>
+    <Nama>LAIN-LAIN EVER POWER</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>BD01S22455239</BatchNum>
+    <BBID>34000252</BBID>
+    <Nama>LAIN-LAIN EVER POWER</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>1/07/2024</BatchNum>
+    <BBID>34000252</BBID>
+    <Nama>LAIN-LAIN EVER POWER</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>34000336</BBID>
+    <Nama>LAIN-LAIN HANGER 041479 SIZE 1</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>34000332</BBID>
+    <Nama>LAIN-LAIN HANGER 041479 SIZE 10</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>34000333</BBID>
+    <Nama>LAIN-LAIN HANGER 041479 SIZE 11</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>34000334</BBID>
+    <Nama>LAIN-LAIN HANGER 041479 SIZE 12</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>34000335</BBID>
+    <Nama>LAIN-LAIN HANGER 041479 SIZE 13</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>34000337</BBID>
+    <Nama>LAIN-LAIN HANGER 041479 SIZE 2</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>34000338</BBID>
+    <Nama>LAIN-LAIN HANGER 041479 SIZE 3</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>34000303</BBID>
+    <Nama>LAIN-LAIN HANGER 041479 SIZE 5</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>34000328</BBID>
+    <Nama>LAIN-LAIN HANGER 041479 SIZE 6</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>34000329</BBID>
+    <Nama>LAIN-LAIN HANGER 041479 SIZE 7</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>34000330</BBID>
+    <Nama>LAIN-LAIN HANGER 041479 SIZE 8</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>34000331</BBID>
+    <Nama>LAIN-LAIN HANGER 041479 SIZE 9</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>34000318</BBID>
+    <Nama>LAIN-LAIN HANGER 163572 SIZE 10</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>34000319</BBID>
+    <Nama>LAIN-LAIN HANGER 163572 SIZE 11</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>34000236</BBID>
+    <Nama>LAIN-LAIN HANGER 163572 SIZE 4</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>34000313</BBID>
+    <Nama>LAIN-LAIN HANGER 163572 SIZE 5</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>34000314</BBID>
+    <Nama>LAIN-LAIN HANGER 163572 SIZE 6</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>34000315</BBID>
+    <Nama>LAIN-LAIN HANGER 163572 SIZE 7</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>34000316</BBID>
+    <Nama>LAIN-LAIN HANGER 163572 SIZE 8</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>34000317</BBID>
+    <Nama>LAIN-LAIN HANGER 163572 SIZE 9</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>34000322</BBID>
+    <Nama>LAIN-LAIN HANGER 163574 SIZE 1</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>34000227</BBID>
+    <Nama>LAIN-LAIN HANGER 163574 SIZE 11</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>34000320</BBID>
+    <Nama>LAIN-LAIN HANGER 163574 SIZE 12</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>34000321</BBID>
+    <Nama>LAIN-LAIN HANGER 163574 SIZE 13</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>34000323</BBID>
+    <Nama>LAIN-LAIN HANGER 163574 SIZE 2</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>34000324</BBID>
+    <Nama>LAIN-LAIN HANGER 163574 SIZE 3</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>34000325</BBID>
+    <Nama>LAIN-LAIN HANGER 163574 SIZE 4</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>34000326</BBID>
+    <Nama>LAIN-LAIN HANGER 163574 SIZE 5</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>34000327</BBID>
+    <Nama>LAIN-LAIN HANGER 163574 SIZE 6</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>34000311</BBID>
+    <Nama>LAIN-LAIN HANGER 163584 SIZE 10</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>34000312</BBID>
+    <Nama>LAIN-LAIN HANGER 163584 SIZE 11</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>34000235</BBID>
+    <Nama>LAIN-LAIN HANGER 163584 SIZE 4</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>34000306</BBID>
+    <Nama>LAIN-LAIN HANGER 163584 SIZE 5</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>34000307</BBID>
+    <Nama>LAIN-LAIN HANGER 163584 SIZE 6</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>34000308</BBID>
+    <Nama>LAIN-LAIN HANGER 163584 SIZE 7</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>34000310</BBID>
+    <Nama>LAIN-LAIN HANGER 163584 SIZE 9</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>BDO1CS1655798</BatchNum>
+    <BBID>34000288</BBID>
+    <Nama>LAIN-LAIN LIR-50</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>18/07/2024</BatchNum>
+    <BBID>34000078</BBID>
+    <Nama>LAIN-LAIN MIKA RED UK. 65X90 CM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>29 AGUSTUS 2024</BatchNum>
+    <BBID>34000078</BBID>
+    <Nama>LAIN-LAIN MIKA RED UK. 65X90 CM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>SJKR-2302-0012</BatchNum>
+    <BBID>34000078</BBID>
+    <Nama>LAIN-LAIN MIKA RED UK. 65X90 CM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>SJKR23080013</BatchNum>
+    <BBID>34000078</BBID>
+    <Nama>LAIN-LAIN MIKA RED UK. 65X90 CM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>3432</BatchNum>
+    <BBID>34000041</BBID>
+    <Nama>LAIN-LAIN PARAFIN WAX EX RRC</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>PJ/23/10/00006</BatchNum>
+    <BBID>34000282</BBID>
+    <Nama>LAIN-LAIN PARTISI OUTER UK. 235X320 MM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>PJ/23/10/00006</BatchNum>
+    <BBID>34000281</BBID>
+    <Nama>LAIN-LAIN PARTISI OUTER UK. 235X540 MM</Nama>
+    <Sat>LBR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>BNB-2103-0001</BatchNum>
+    <BBID>34000178</BBID>
+    <Nama>LAIN-LAIN PLASTIC LOOP PIN</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>SD25021400426</BatchNum>
+    <BBID>34000182</BBID>
+    <Nama>LAIN-LAIN POLYBAG *21 (33 + 4) CM</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>2120</BatchNum>
+    <BBID>34000069</BBID>
+    <Nama>LAIN-LAIN SILICA GEL 2 GR</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>SJKR-2502-0011</BatchNum>
+    <BBID>34000069</BBID>
+    <Nama>LAIN-LAIN SILICA GEL 2 GR</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>1352</BatchNum>
+    <BBID>34000069</BBID>
+    <Nama>LAIN-LAIN SILICA GEL 2 GR</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>2987</BatchNum>
+    <BBID>34000069</BBID>
+    <Nama>LAIN-LAIN SILICA GEL 2 GR</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>06082024</BatchNum>
+    <BBID>34000295</BBID>
+    <Nama>LAIN-LAIN SILICON SPRAY</Nama>
+    <Sat>BTL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>01.2023</BatchNum>
+    <BBID>34000285</BBID>
+    <Nama>LAIN-LAIN SOFT CLOTH WHEEL (RF-100)</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>CONT.19</BatchNum>
+    <BBID>34000104</BBID>
+    <Nama>LAIN-LAIN TPU FOR LABEL L. 2.5 CM</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>CONT.6</BatchNum>
+    <BBID>34000152</BBID>
+    <Nama>LAIN-LAIN TPU FOR LABEL L. 3 CM</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>CONT. 4</BatchNum>
+    <BBID>34000152</BBID>
+    <Nama>LAIN-LAIN TPU FOR LABEL L. 3 CM</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>CONT. 9</BatchNum>
+    <BBID>34000152</BBID>
+    <Nama>LAIN-LAIN TPU FOR LABEL L. 3 CM</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>CONT 15</BatchNum>
+    <BBID>34000152</BBID>
+    <Nama>LAIN-LAIN TPU FOR LABEL L. 3 CM</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>SJKR-2403-0012</BatchNum>
+    <BBID>34000152</BBID>
+    <Nama>LAIN-LAIN TPU FOR LABEL L. 3 CM</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>CONTAINER 12</BatchNum>
+    <BBID>34000152</BBID>
+    <Nama>LAIN-LAIN TPU FOR LABEL L. 3 CM</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>0569</BatchNum>
+    <BBID>34000293</BBID>
+    <Nama>LAIN-LAIN VARNISH FOXING COL. GLOW</Nama>
+    <Sat>LTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>06/08/24</BatchNum>
+    <BBID>34000293</BBID>
+    <Nama>LAIN-LAIN VARNISH FOXING COL. GLOW</Nama>
+    <Sat>LTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LAIN-LAIN</Jenis>
+    <BatchNum>CONT.1HANDCARRY</BatchNum>
+    <BBID>34000300</BBID>
+    <Nama>LAIN-LAIN WHITE COTTON ROPE WHITE</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LEATHER</Jenis>
+    <BatchNum>SJKH-2503-0012</BatchNum>
+    <BBID>LE000009</BBID>
+    <Nama>LEATHER ACTION TUMBLED MAKOU HW 20-460 1.3-1.5 MM NAVY</Nama>
+    <Sat>SQF</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LEATHER</Jenis>
+    <BatchNum>SJKH-2501-0001</BatchNum>
+    <BBID>LE000009</BBID>
+    <Nama>LEATHER ACTION TUMBLED MAKOU HW 20-460 1.3-1.5 MM NAVY</Nama>
+    <Sat>SQF</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LEATHER</Jenis>
+    <BatchNum>SJKH-2503-0012</BatchNum>
+    <BBID>LE000010</BBID>
+    <Nama>LEATHER ACTION TUMBLED MAKOU HW 20-460 1.3-1.5 MM OFF WHITE</Nama>
+    <Sat>SQF</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LEATHER</Jenis>
+    <BatchNum>BNB-2103-0001</BatchNum>
+    <BBID>LE000003</BBID>
+    <Nama>LEATHER CUBIC TEXTURED SUEDE 1.4-1.6 MM BLACK</Nama>
+    <Sat>FT</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LEATHER</Jenis>
+    <BatchNum>22072023</BatchNum>
+    <BBID>LE000001</BBID>
+    <Nama>LEATHER NUBUCK 1.3 - 1.5 MM TAUPE</Nama>
+    <Sat>FT</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LEM</Jenis>
+    <BatchNum>GI165407</BatchNum>
+    <BBID>21000082</BBID>
+    <Nama>LEM 258 H1</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LEM</Jenis>
+    <BatchNum>GI165407</BatchNum>
+    <BBID>21000006</BBID>
+    <Nama>LEM 330 A-2</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LEM</Jenis>
+    <BatchNum>GI165407</BatchNum>
+    <BBID>21000119</BBID>
+    <Nama>LEM 501 JH</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LEM</Jenis>
+    <BatchNum>20112024</BatchNum>
+    <BBID>21000060</BBID>
+    <Nama>LEM A-928</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LEM</Jenis>
+    <BatchNum>CONT. 18</BatchNum>
+    <BBID>21000060</BBID>
+    <Nama>LEM A-928</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LEM</Jenis>
+    <BatchNum>CONT.6</BatchNum>
+    <BBID>21000060</BBID>
+    <Nama>LEM A-928</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LEM</Jenis>
+    <BatchNum>GI165407</BatchNum>
+    <BBID>21000024</BBID>
+    <Nama>LEM CA 325 A</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LEM</Jenis>
+    <BatchNum>GI165407</BatchNum>
+    <BBID>21000108</BBID>
+    <Nama>LEM DESMODUR 366S</Nama>
+    <Sat>BTL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LEM</Jenis>
+    <BatchNum>GI165407</BatchNum>
+    <BBID>21000027</BBID>
+    <Nama>LEM HARDENER RC 348</Nama>
+    <Sat>BTL</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LEM</Jenis>
+    <BatchNum>GI165407</BatchNum>
+    <BBID>21000101</BBID>
+    <Nama>LEM LATEX 102</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LEM</Jenis>
+    <BatchNum>GI165410</BatchNum>
+    <BBID>21000101</BBID>
+    <Nama>LEM LATEX 102</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LEM</Jenis>
+    <BatchNum>24.11.046 (201124)</BatchNum>
+    <BBID>21000029</BBID>
+    <Nama>LEM LATEX PEKAT A (BAGUS)</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LEM</Jenis>
+    <BatchNum>25.03.047</BatchNum>
+    <BBID>21000029</BBID>
+    <Nama>LEM LATEX PEKAT A (BAGUS)</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LEM</Jenis>
+    <BatchNum>SJ/HCI/000303/III/2025</BatchNum>
+    <BBID>21000126</BBID>
+    <Nama>LEM LEM SPRAY 108 NT</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LEM</Jenis>
+    <BatchNum>GI165407</BatchNum>
+    <BBID>21000036</BBID>
+    <Nama>LEM MIGHTY BOND PU 95 N</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LEM</Jenis>
+    <BatchNum>GI163957 (251124)</BatchNum>
+    <BBID>21000036</BBID>
+    <Nama>LEM MIGHTY BOND PU 95 N</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>LEM</Jenis>
+    <BatchNum>GI165407</BatchNum>
+    <BBID>21000103</BBID>
+    <Nama>LEM PRIMER PVC/PU 311 PH3</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>MATA AYAM</Jenis>
+    <BatchNum>25/SJ/AKF/II/153</BatchNum>
+    <BBID>72000060</BBID>
+    <Nama>MATA AYAM BESI (TANPA WASHER) SILVER UK. 12 MM</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>MATA AYAM</Jenis>
+    <BatchNum>064995</BatchNum>
+    <BBID>72000065</BBID>
+    <Nama>MATA AYAM PLONG KETUK POUNCHING 5 MM 0.8 MM DALLAS UK. 5.0MM X 16MM</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>MIKA</Jenis>
+    <BatchNum>PT-G207/XI/24</BatchNum>
+    <BBID>56000063</BBID>
+    <Nama>MIKA 0.7 MM TRANSPARANT</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>MIKA</Jenis>
+    <BatchNum>14112023</BatchNum>
+    <BBID>56000055</BBID>
+    <Nama>MIKA TRANSPARANT 0.30 A/3H</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.4</BatchNum>
+    <BBID>OTS000125</BBID>
+    <Nama>OUTSOLE TCP 0915 TG TPR 1.2. NATURAL SIZE 10</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.4</BatchNum>
+    <BBID>OTS000119</BBID>
+    <Nama>OUTSOLE TCP 0915 TG TPR 1.2. NATURAL SIZE 4</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.4</BatchNum>
+    <BBID>OTS000120</BBID>
+    <Nama>OUTSOLE TCP 0915 TG TPR 1.2. NATURAL SIZE 5</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.4</BatchNum>
+    <BBID>OTS000121</BBID>
+    <Nama>OUTSOLE TCP 0915 TG TPR 1.2. NATURAL SIZE 6</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.4</BatchNum>
+    <BBID>OTS000122</BBID>
+    <Nama>OUTSOLE TCP 0915 TG TPR 1.2. NATURAL SIZE 7</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.4</BatchNum>
+    <BBID>OTS000123</BBID>
+    <Nama>OUTSOLE TCP 0915 TG TPR 1.2. NATURAL SIZE 8</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.4</BatchNum>
+    <BBID>OTS000124</BBID>
+    <Nama>OUTSOLE TCP 0915 TG TPR 1.2. NATURAL SIZE 9</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.3</BatchNum>
+    <BBID>OTS000048</BBID>
+    <Nama>OUTSOLE TCP 0915 TPR NATURAL SIZE 10</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.3</BatchNum>
+    <BBID>OTS000049</BBID>
+    <Nama>OUTSOLE TCP 0915 TPR NATURAL SIZE 11</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.4</BatchNum>
+    <BBID>OTS000049</BBID>
+    <Nama>OUTSOLE TCP 0915 TPR NATURAL SIZE 11</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.3</BatchNum>
+    <BBID>OTS000050</BBID>
+    <Nama>OUTSOLE TCP 0915 TPR NATURAL SIZE 12</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.4</BatchNum>
+    <BBID>OTS000050</BBID>
+    <Nama>OUTSOLE TCP 0915 TPR NATURAL SIZE 12</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.3</BatchNum>
+    <BBID>OTS000051</BBID>
+    <Nama>OUTSOLE TCP 0915 TPR NATURAL SIZE 13</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.4</BatchNum>
+    <BBID>OTS000051</BBID>
+    <Nama>OUTSOLE TCP 0915 TPR NATURAL SIZE 13</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.3</BatchNum>
+    <BBID>OTS000042</BBID>
+    <Nama>OUTSOLE TCP 0915 TPR NATURAL SIZE 4</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.3</BatchNum>
+    <BBID>OTS000044</BBID>
+    <Nama>OUTSOLE TCP 0915 TPR NATURAL SIZE 6</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.3</BatchNum>
+    <BBID>OTS000045</BBID>
+    <Nama>OUTSOLE TCP 0915 TPR NATURAL SIZE 7</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.3</BatchNum>
+    <BBID>OTS000047</BBID>
+    <Nama>OUTSOLE TCP 0915 TPR NATURAL SIZE 9</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.4</BatchNum>
+    <BBID>OTS000052</BBID>
+    <Nama>OUTSOLE TCP 0915 TPR NATURAL SIZE L1</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.3</BatchNum>
+    <BBID>OTS000052</BBID>
+    <Nama>OUTSOLE TCP 0915 TPR NATURAL SIZE L1</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.4</BatchNum>
+    <BBID>OTS000053</BBID>
+    <Nama>OUTSOLE TCP 0915 TPR NATURAL SIZE L2</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.3</BatchNum>
+    <BBID>OTS000054</BBID>
+    <Nama>OUTSOLE TCP 0915 TPR NATURAL SIZE L3</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.4</BatchNum>
+    <BBID>OTS000054</BBID>
+    <Nama>OUTSOLE TCP 0915 TPR NATURAL SIZE L3</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.4</BatchNum>
+    <BBID>OTS000055</BBID>
+    <Nama>OUTSOLE TCP 0915 TPR NATURAL SIZE L4</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.3</BatchNum>
+    <BBID>OTS000055</BBID>
+    <Nama>OUTSOLE TCP 0915 TPR NATURAL SIZE L4</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.3</BatchNum>
+    <BBID>OTS000056</BBID>
+    <Nama>OUTSOLE TCP 0915 TPR NATURAL SIZE L5</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.4</BatchNum>
+    <BBID>OTS000056</BBID>
+    <Nama>OUTSOLE TCP 0915 TPR NATURAL SIZE L5</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.4</BatchNum>
+    <BBID>OTS000057</BBID>
+    <Nama>OUTSOLE TCP 0915 TPR NATURAL SIZE L6</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.3</BatchNum>
+    <BBID>OTS000057</BBID>
+    <Nama>OUTSOLE TCP 0915 TPR NATURAL SIZE L6</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>OTS000100</BBID>
+    <Nama>OUTSOLE TCP0828 (51% RECYCLED MATERIAL) WITH GYMBOREE LOGO NATURAL TPR + NATURAL SIDEWAL + NATURAL STITCHING SIZE 10</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>OTS000101</BBID>
+    <Nama>OUTSOLE TCP0828 (51% RECYCLED MATERIAL) WITH GYMBOREE LOGO NATURAL TPR + NATURAL SIDEWAL + NATURAL STITCHING SIZE 11</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>OTS000102</BBID>
+    <Nama>OUTSOLE TCP0828 (51% RECYCLED MATERIAL) WITH GYMBOREE LOGO NATURAL TPR + NATURAL SIDEWAL + NATURAL STITCHING SIZE 12</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>OTS000103</BBID>
+    <Nama>OUTSOLE TCP0828 (51% RECYCLED MATERIAL) WITH GYMBOREE LOGO NATURAL TPR + NATURAL SIDEWAL + NATURAL STITCHING SIZE 13</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>OTS000095</BBID>
+    <Nama>OUTSOLE TCP0828 (51% RECYCLED MATERIAL) WITH GYMBOREE LOGO NATURAL TPR + NATURAL SIDEWAL + NATURAL STITCHING SIZE 5</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>OTS000096</BBID>
+    <Nama>OUTSOLE TCP0828 (51% RECYCLED MATERIAL) WITH GYMBOREE LOGO NATURAL TPR + NATURAL SIDEWAL + NATURAL STITCHING SIZE 6</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>OTS000097</BBID>
+    <Nama>OUTSOLE TCP0828 (51% RECYCLED MATERIAL) WITH GYMBOREE LOGO NATURAL TPR + NATURAL SIDEWAL + NATURAL STITCHING SIZE 7</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>OTS000098</BBID>
+    <Nama>OUTSOLE TCP0828 (51% RECYCLED MATERIAL) WITH GYMBOREE LOGO NATURAL TPR + NATURAL SIDEWAL + NATURAL STITCHING SIZE 8</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>OTS000099</BBID>
+    <Nama>OUTSOLE TCP0828 (51% RECYCLED MATERIAL) WITH GYMBOREE LOGO NATURAL TPR + NATURAL SIDEWAL + NATURAL STITCHING SIZE 9</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>OTS000104</BBID>
+    <Nama>OUTSOLE TCP0828 (51% RECYCLED MATERIAL) WITH GYMBOREE LOGO NATURAL TPR + NATURAL SIDEWAL + NATURAL STITCHING SIZE L1</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>OTS000105</BBID>
+    <Nama>OUTSOLE TCP0828 (51% RECYCLED MATERIAL) WITH GYMBOREE LOGO NATURAL TPR + NATURAL SIDEWAL + NATURAL STITCHING SIZE L2</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>OTS000106</BBID>
+    <Nama>OUTSOLE TCP0828 (51% RECYCLED MATERIAL) WITH GYMBOREE LOGO NATURAL TPR + NATURAL SIDEWAL + NATURAL STITCHING SIZE L3</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>OTS000113</BBID>
+    <Nama>OUTSOLE TCP0828 (51% RECYCLED MATERIAL) WITH GYMBOREE LOGO TRANSPARENT COLOR OF GREY TPR+ NATURAL SIDEWALL+ NATURAL STITCHING SIZE 11</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>OTS000114</BBID>
+    <Nama>OUTSOLE TCP0828 (51% RECYCLED MATERIAL) WITH GYMBOREE LOGO TRANSPARENT COLOR OF GREY TPR+ NATURAL SIDEWALL+ NATURAL STITCHING SIZE 12</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>OTS000116</BBID>
+    <Nama>OUTSOLE TCP0828 (51% RECYCLED MATERIAL) WITH GYMBOREE LOGO TRANSPARENT COLOR OF GREY TPR+ NATURAL SIDEWALL+ NATURAL STITCHING SIZE L1</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>OTS000117</BBID>
+    <Nama>OUTSOLE TCP0828 (51% RECYCLED MATERIAL) WITH GYMBOREE LOGO TRANSPARENT COLOR OF GREY TPR+ NATURAL SIDEWALL+ NATURAL STITCHING SIZE L2</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>OTS000088</BBID>
+    <Nama>OUTSOLE TCP0828 (51% RECYCLED MATERIAL) WITH GYMBOREE LOGO TRANSPARENT COLOR OF GREY TPR+NAVY SIDEWALL+WHITE STITCHING SIZE 10</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>OTS000089</BBID>
+    <Nama>OUTSOLE TCP0828 (51% RECYCLED MATERIAL) WITH GYMBOREE LOGO TRANSPARENT COLOR OF GREY TPR+NAVY SIDEWALL+WHITE STITCHING SIZE 11</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>OTS000090</BBID>
+    <Nama>OUTSOLE TCP0828 (51% RECYCLED MATERIAL) WITH GYMBOREE LOGO TRANSPARENT COLOR OF GREY TPR+NAVY SIDEWALL+WHITE STITCHING SIZE 12</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>OTS000091</BBID>
+    <Nama>OUTSOLE TCP0828 (51% RECYCLED MATERIAL) WITH GYMBOREE LOGO TRANSPARENT COLOR OF GREY TPR+NAVY SIDEWALL+WHITE STITCHING SIZE 13</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>OTS000083</BBID>
+    <Nama>OUTSOLE TCP0828 (51% RECYCLED MATERIAL) WITH GYMBOREE LOGO TRANSPARENT COLOR OF GREY TPR+NAVY SIDEWALL+WHITE STITCHING SIZE 5</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>OTS000084</BBID>
+    <Nama>OUTSOLE TCP0828 (51% RECYCLED MATERIAL) WITH GYMBOREE LOGO TRANSPARENT COLOR OF GREY TPR+NAVY SIDEWALL+WHITE STITCHING SIZE 6</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>OTS000085</BBID>
+    <Nama>OUTSOLE TCP0828 (51% RECYCLED MATERIAL) WITH GYMBOREE LOGO TRANSPARENT COLOR OF GREY TPR+NAVY SIDEWALL+WHITE STITCHING SIZE 7</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>OTS000086</BBID>
+    <Nama>OUTSOLE TCP0828 (51% RECYCLED MATERIAL) WITH GYMBOREE LOGO TRANSPARENT COLOR OF GREY TPR+NAVY SIDEWALL+WHITE STITCHING SIZE 8</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>OTS000087</BBID>
+    <Nama>OUTSOLE TCP0828 (51% RECYCLED MATERIAL) WITH GYMBOREE LOGO TRANSPARENT COLOR OF GREY TPR+NAVY SIDEWALL+WHITE STITCHING SIZE 9</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>OTS000092</BBID>
+    <Nama>OUTSOLE TCP0828 (51% RECYCLED MATERIAL) WITH GYMBOREE LOGO TRANSPARENT COLOR OF GREY TPR+NAVY SIDEWALL+WHITE STITCHING SIZE L1</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>OTS000093</BBID>
+    <Nama>OUTSOLE TCP0828 (51% RECYCLED MATERIAL) WITH GYMBOREE LOGO TRANSPARENT COLOR OF GREY TPR+NAVY SIDEWALL+WHITE STITCHING SIZE L2</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>OTS000094</BBID>
+    <Nama>OUTSOLE TCP0828 (51% RECYCLED MATERIAL) WITH GYMBOREE LOGO TRANSPARENT COLOR OF GREY TPR+NAVY SIDEWALL+WHITE STITCHING SIZE L3</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>OTS000075</BBID>
+    <Nama>OUTSOLE TCP0828 TPR OUTSOLE DARK TAN TPR+DARK TAN SIDEWALL+DARK TAN SIDEWALL STITCHING AS NEW SAMPLE SIZE 10</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>OTS000076</BBID>
+    <Nama>OUTSOLE TCP0828 TPR OUTSOLE DARK TAN TPR+DARK TAN SIDEWALL+DARK TAN SIDEWALL STITCHING AS NEW SAMPLE SIZE 11</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>OTS000077</BBID>
+    <Nama>OUTSOLE TCP0828 TPR OUTSOLE DARK TAN TPR+DARK TAN SIDEWALL+DARK TAN SIDEWALL STITCHING AS NEW SAMPLE SIZE 12</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>OTS000078</BBID>
+    <Nama>OUTSOLE TCP0828 TPR OUTSOLE DARK TAN TPR+DARK TAN SIDEWALL+DARK TAN SIDEWALL STITCHING AS NEW SAMPLE SIZE 13</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>OTS000070</BBID>
+    <Nama>OUTSOLE TCP0828 TPR OUTSOLE DARK TAN TPR+DARK TAN SIDEWALL+DARK TAN SIDEWALL STITCHING AS NEW SAMPLE SIZE 5</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>OTS000072</BBID>
+    <Nama>OUTSOLE TCP0828 TPR OUTSOLE DARK TAN TPR+DARK TAN SIDEWALL+DARK TAN SIDEWALL STITCHING AS NEW SAMPLE SIZE 7</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>OTS000074</BBID>
+    <Nama>OUTSOLE TCP0828 TPR OUTSOLE DARK TAN TPR+DARK TAN SIDEWALL+DARK TAN SIDEWALL STITCHING AS NEW SAMPLE SIZE 9</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>OTS000080</BBID>
+    <Nama>OUTSOLE TCP0828 TPR OUTSOLE DARK TAN TPR+DARK TAN SIDEWALL+DARK TAN SIDEWALL STITCHING AS NEW SAMPLE SIZE L2</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>OTS000081</BBID>
+    <Nama>OUTSOLE TCP0828 TPR OUTSOLE DARK TAN TPR+DARK TAN SIDEWALL+DARK TAN SIDEWALL STITCHING AS NEW SAMPLE SIZE L3</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>OTS000063</BBID>
+    <Nama>OUTSOLE TCP0841 NATURAL TPR OUTSOLE 51% RECYCLED MATERIAL) WITH GYMBOREE LOGO SIZE 10</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>OTS000065</BBID>
+    <Nama>OUTSOLE TCP0841 NATURAL TPR OUTSOLE 51% RECYCLED MATERIAL) WITH GYMBOREE LOGO SIZE 12</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>OTS000058</BBID>
+    <Nama>OUTSOLE TCP0841 NATURAL TPR OUTSOLE 51% RECYCLED MATERIAL) WITH GYMBOREE LOGO SIZE 5</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>OTS000059</BBID>
+    <Nama>OUTSOLE TCP0841 NATURAL TPR OUTSOLE 51% RECYCLED MATERIAL) WITH GYMBOREE LOGO SIZE 6</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>OTS000060</BBID>
+    <Nama>OUTSOLE TCP0841 NATURAL TPR OUTSOLE 51% RECYCLED MATERIAL) WITH GYMBOREE LOGO SIZE 7</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>OTS000061</BBID>
+    <Nama>OUTSOLE TCP0841 NATURAL TPR OUTSOLE 51% RECYCLED MATERIAL) WITH GYMBOREE LOGO SIZE 8</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>OTS000067</BBID>
+    <Nama>OUTSOLE TCP0841 NATURAL TPR OUTSOLE 51% RECYCLED MATERIAL) WITH GYMBOREE LOGO SIZE L1</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>OTS000068</BBID>
+    <Nama>OUTSOLE TCP0841 NATURAL TPR OUTSOLE 51% RECYCLED MATERIAL) WITH GYMBOREE LOGO SIZE L2</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>OTS000069</BBID>
+    <Nama>OUTSOLE TCP0841 NATURAL TPR OUTSOLE 51% RECYCLED MATERIAL) WITH GYMBOREE LOGO SIZE L3</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>OTS000033</BBID>
+    <Nama>OUTSOLE TPR TCP-0839 BLACK SIZE 11</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>OTS000034</BBID>
+    <Nama>OUTSOLE TPR TCP-0839 BLACK SIZE 12</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>OTS000035</BBID>
+    <Nama>OUTSOLE TPR TCP-0839 BLACK SIZE 13</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>OTS000036</BBID>
+    <Nama>OUTSOLE TPR TCP-0839 BLACK SIZE L1</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>OTS000037</BBID>
+    <Nama>OUTSOLE TPR TCP-0839 BLACK SIZE L2</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>OTS000038</BBID>
+    <Nama>OUTSOLE TPR TCP-0839 BLACK SIZE L3</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>OTS000039</BBID>
+    <Nama>OUTSOLE TPR TCP-0839 BLACK SIZE L4</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>OUTSOLE</Jenis>
+    <BatchNum>CONT.2</BatchNum>
+    <BBID>OTS000041</BBID>
+    <Nama>OUTSOLE TPR TCP-0839 BLACK SIZE L6</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>PAINT ROUND EYELET</Jenis>
+    <BatchNum>CONT.1</BatchNum>
+    <BBID>PR3000003</BBID>
+    <Nama>PAINT ROUND EYELET 8*5MM (FROM TOP LINE TO TOE)+ WASHER SILVER FUCHIA</Nama>
+    <Sat>SET</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>PAINT ROUND EYELET</Jenis>
+    <BatchNum>CONT.1</BatchNum>
+    <BBID>PR3000005</BBID>
+    <Nama>PAINT ROUND EYELET 8*5MM (FROM TOP LINE TO TOE)+ WASHER SILVER LIGHT BLUE</Nama>
+    <Sat>SET</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>PAINT ROUND EYELET</Jenis>
+    <BatchNum>CONT.1</BatchNum>
+    <BBID>PR3000002</BBID>
+    <Nama>PAINT ROUND EYELET 8*5MM (FROM TOP LINE TO TOE)+ WASHER SILVER LIGHT PINK</Nama>
+    <Sat>SET</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>PAINT ROUND EYELET</Jenis>
+    <BatchNum>CONT.1</BatchNum>
+    <BBID>PR3000004</BBID>
+    <Nama>PAINT ROUND EYELET 8*5MM (FROM TOP LINE TO TOE)+ WASHER SILVER LIGHT PURPLE</Nama>
+    <Sat>SET</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>PAINT ROUND EYELET</Jenis>
+    <BatchNum>CONT.1</BatchNum>
+    <BBID>PR3000001</BBID>
+    <Nama>PAINT ROUND EYELET 8*5MM (FROM TOP LINE TO TOE)+ WASHER SILVER LIGHT YELLOW</Nama>
+    <Sat>SET</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>PIGMEN</Jenis>
+    <BatchNum>000209</BatchNum>
+    <BBID>PIGMEN000001</BBID>
+    <Nama>PIGMEN BLACK GLUE 801</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>PISAU</Jenis>
+    <BatchNum>046</BatchNum>
+    <BBID>PS001774</BBID>
+    <Nama>PISAU BACK COUNTER 2.5 MM THUNDER BEAR R 245003 SIZE 36-43</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>PISAU</Jenis>
+    <BatchNum>046</BatchNum>
+    <BBID>PS001780</BBID>
+    <Nama>PISAU BAMPER 2.5 MM THUNDER BEAR R 245003 SIZE 36-38,39-41,42-43</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>PISAU</Jenis>
+    <BatchNum>046</BatchNum>
+    <BBID>PS001781</BBID>
+    <Nama>PISAU ELASTIC 2.5 MM THUNDER BEAR R 245003 SIZE 36-38,39-41,42-43</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>PISAU</Jenis>
+    <BatchNum>046</BatchNum>
+    <BBID>PS001776</BBID>
+    <Nama>PISAU FOAM COLLAR 2.5 MM THUNDER BEAR R 245003 SIZE 36-37,38-39,40-41,42-43</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>PISAU</Jenis>
+    <BatchNum>046</BatchNum>
+    <BBID>PS001779</BBID>
+    <Nama>PISAU INSOLE 2.5 MM THUNDER BEAR R 245003 SIZE 36 - 38</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>PISAU</Jenis>
+    <BatchNum>046</BatchNum>
+    <BBID>PS001777</BBID>
+    <Nama>PISAU KERASAN BELAKANG 2.5 MM THUNDER BEAR R 245003 SIZE 36-37,38-39,40-41,42-43</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>PISAU</Jenis>
+    <BatchNum>0001</BatchNum>
+    <BBID>PS001783</BBID>
+    <Nama>PISAU LIDAH  3.0 MM DALLAS NB-9566 LC/R225041</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>PISAU</Jenis>
+    <BatchNum>046</BatchNum>
+    <BBID>PS001778</BBID>
+    <Nama>PISAU LINING COLLAR 2.5 MM THUNDER BEAR R 245003 SIZE 36-43</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>PISAU</Jenis>
+    <BatchNum>0001</BatchNum>
+    <BBID>PS001785</BBID>
+    <Nama>PISAU POTONG DTF DALLAS NEW BASKET NB-9566 HC</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>PISAU</Jenis>
+    <BatchNum>001</BatchNum>
+    <BBID>PS001786</BBID>
+    <Nama>PISAU POTONG LOGO HURUF VTG - BRODO R 235037 / R 235036</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>PISAU</Jenis>
+    <BatchNum>046</BatchNum>
+    <BBID>PS001775</BBID>
+    <Nama>PISAU QUARTER IN / OUT 2.5 MM THUNDER BEAR R 245003 SIZE 36-43</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>PISAU</Jenis>
+    <BatchNum>0001</BatchNum>
+    <BBID>PS001782</BBID>
+    <Nama>PISAU QUARTER IN / OUT 3.0 MM DALLAS NB-9566 LC/R225041 UK.3MM X 36MM</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>PISAU</Jenis>
+    <BatchNum>046</BatchNum>
+    <BBID>PS001773</BBID>
+    <Nama>PISAU VAMP 2.5 MM THUNDER BEAR R 245003 SIZE 36-43</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>PITA</Jenis>
+    <BatchNum>BNB-2103-0001</BatchNum>
+    <BBID>04000225</BBID>
+    <Nama>PITA GROSS GRAIN 10 MM BLACK 030</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>PITA</Jenis>
+    <BatchNum>06157</BatchNum>
+    <BBID>04000225</BBID>
+    <Nama>PITA GROSS GRAIN 10 MM BLACK 030</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>PITA</Jenis>
+    <BatchNum>BNB-2103-0001</BatchNum>
+    <BBID>04000241</BBID>
+    <Nama>PITA GROSS GRAIN 10 MM RED 250</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>PITA</Jenis>
+    <BatchNum>BNB-2103-0001</BatchNum>
+    <BBID>04000238</BBID>
+    <Nama>PITA GROSS GRAIN 10 MM SILVER 012</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>PITA</Jenis>
+    <BatchNum>03632</BatchNum>
+    <BBID>04000285</BBID>
+    <Nama>PITA GROSS GRAIN 15 MM BLACK 030</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>PITA</Jenis>
+    <BatchNum>BNB-2103-0001</BatchNum>
+    <BBID>04000291</BBID>
+    <Nama>PITA GROSS GRAIN 15 MM BLUE TOPAZ 308</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>PITA</Jenis>
+    <BatchNum>BNB-2103-0001</BatchNum>
+    <BBID>04000290</BBID>
+    <Nama>PITA GROSS GRAIN 15 MM BURGUNDY 277</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>PITA</Jenis>
+    <BatchNum>1062</BatchNum>
+    <BBID>04000419</BBID>
+    <Nama>PITA GROSS GRAIN 16 MM AUTUMN ORANGE 761</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>PITA</Jenis>
+    <BatchNum>2537</BatchNum>
+    <BBID>04000423</BBID>
+    <Nama>PITA GROSS GRAIN 16 MM CHAMOIS 614</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>PITA</Jenis>
+    <BatchNum>1062</BatchNum>
+    <BBID>04000333</BBID>
+    <Nama>PITA GROSS GRAIN 16 MM CHARCOAL 077</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>PITA</Jenis>
+    <BatchNum>1062</BatchNum>
+    <BBID>04000414</BBID>
+    <Nama>PITA GROSS GRAIN 16 MM DANDELION 662</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>PITA</Jenis>
+    <BatchNum>1062</BatchNum>
+    <BBID>04000421</BBID>
+    <Nama>PITA GROSS GRAIN 16 MM ISLAND BLUE 328</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>PITA</Jenis>
+    <BatchNum>BNB-2103-0001</BatchNum>
+    <BBID>04000322</BBID>
+    <Nama>PITA GROSS GRAIN 16 MM NILE BLUE 331</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>PITA</Jenis>
+    <BatchNum>BNB-2103-0001</BatchNum>
+    <BBID>04000323</BBID>
+    <Nama>PITA GROSS GRAIN 16 MM OLD GOLD 690</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>PITA</Jenis>
+    <BatchNum>1062</BatchNum>
+    <BBID>04000413</BBID>
+    <Nama>PITA GROSS GRAIN 16 MM PASTEL GREEN 513</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>PITA</Jenis>
+    <BatchNum>BNB-2103-0001</BatchNum>
+    <BBID>04000320</BBID>
+    <Nama>PITA GROSS GRAIN 16 MM PEACH 720</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>PITA</Jenis>
+    <BatchNum>1062</BatchNum>
+    <BBID>04000422</BBID>
+    <Nama>PITA GROSS GRAIN 16 MM ROYAL 350</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>PITA</Jenis>
+    <BatchNum>1062</BatchNum>
+    <BBID>04000417</BBID>
+    <Nama>PITA GROSS GRAIN 16 MM SMOKE BLUE 363</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>PITA</Jenis>
+    <BatchNum>1062</BatchNum>
+    <BBID>04000420</BBID>
+    <Nama>PITA GROSS GRAIN 16 MM SPRUCE 593</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>PITA</Jenis>
+    <BatchNum>SQ2/PUS-130921-0008</BatchNum>
+    <BBID>04000362</BBID>
+    <Nama>PITA GROSS GRAIN 300 96.15 MM (Y 565) MYSTIC (S-1332)</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>PITA</Jenis>
+    <BatchNum>SQ2/PUS-130921-0008</BatchNum>
+    <BBID>04000363</BBID>
+    <Nama>PITA GROSS GRAIN 300 96.15 MM (Y 565) OLIVE (813)</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>PITA</Jenis>
+    <BatchNum>SQ2/PUS-130921-0008</BatchNum>
+    <BBID>04000361</BBID>
+    <Nama>PITA GROSS GRAIN 300 96.15 MM (Y 565) WHITE H- 200</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>POLYBAG PLASTIK</Jenis>
+    <BatchNum>BNB-2103-0001</BatchNum>
+    <BBID>30000010</BBID>
+    <Nama>POLYBAG PLASTIK PE CLIAR UK. 30X48 CM</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>PU</Jenis>
+    <BatchNum>CONT.1</BatchNum>
+    <BBID>23000311</BBID>
+    <Nama>PU - 0.8 MM MIRROR PU BLACK</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>PU</Jenis>
+    <BatchNum>HANDCARRY</BatchNum>
+    <BBID>23000315</BBID>
+    <Nama>PU - 0.8 MM MIRROR PU PINK</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>PU</Jenis>
+    <BatchNum>155/II</BatchNum>
+    <BBID>23000332</BBID>
+    <Nama>PU - 0.8 MM MIRROR PU PINK + POT SERONG 15 MM</Nama>
+    <Sat>POT/MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>PU</Jenis>
+    <BatchNum>HANDCARRY</BatchNum>
+    <BBID>23000233</BBID>
+    <Nama>PU -0.6 MM PU PINK ROSE</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>PU</Jenis>
+    <BatchNum>CONT.1</BatchNum>
+    <BBID>23000233</BBID>
+    <Nama>PU -0.6 MM PU PINK ROSE</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>PU</Jenis>
+    <BatchNum>039554</BatchNum>
+    <BBID>23000334</BBID>
+    <Nama>PU CRACKED CLOTH 0.8 MM SILVER +SAKUMI+ POT SERONG 30 DERAJAT 13 MM</Nama>
+    <Sat>POT/MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>PU</Jenis>
+    <BatchNum>039662</BatchNum>
+    <BBID>23000333</BBID>
+    <Nama>PU CRACKED CLOTH 0.8 MM SILVER +SAKUMI+ POT SERONG 30 DERAJAT 15 MM</Nama>
+    <Sat>POT/MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>PU</Jenis>
+    <BatchNum>20642</BatchNum>
+    <BBID>23000323</BBID>
+    <Nama>PU MERISIEN 0.65 MM CREAM</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>PU</Jenis>
+    <BatchNum>20818</BatchNum>
+    <BBID>23000323</BBID>
+    <Nama>PU MERISIEN 0.65 MM CREAM</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>PU</Jenis>
+    <BatchNum>CONT.14</BatchNum>
+    <BBID>23000260</BBID>
+    <Nama>PU NUBUCK 1.3 - 1.5 MM TAUPE</Nama>
+    <Sat>YARD</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>PU</Jenis>
+    <BatchNum>249/III</BatchNum>
+    <BBID>23000291</BBID>
+    <Nama>PU PAINT PU 0.8 MM NAVY + POT SERONG 30 DERAJAT 14MM</Nama>
+    <Sat>POT/MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>PVC</Jenis>
+    <BatchNum>RAP</BatchNum>
+    <BBID>01000369</BBID>
+    <Nama>PVC D2SAXXXET EMBOSS 564 1.1 MM WHITE UK. 137X100 CM</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>PVC</Jenis>
+    <BatchNum>11442</BatchNum>
+    <BBID>01000403</BBID>
+    <Nama>PVC KBHAXXX EMBOSS-564 0.7 MM BLACK (TANPA BACKING)</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>RING</Jenis>
+    <BatchNum>23/SJ/AKF/VII/165</BatchNum>
+    <BBID>38000085</BBID>
+    <Nama>RING OVAL SILVER UK. 16X6 MM</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>RING</Jenis>
+    <BatchNum>23/SJ/AKF/VII/065</BatchNum>
+    <BBID>38000071</BBID>
+    <Nama>RING OVAL TANCAP GREY #21 UK. 19 MM</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>SOLE</Jenis>
+    <BatchNum>001073</BatchNum>
+    <BBID>15002099</BBID>
+    <Nama>SOLE RUBBER NB-001 BLACK SIZE 37</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>SOLE</Jenis>
+    <BatchNum>001120</BatchNum>
+    <BBID>15002099</BBID>
+    <Nama>SOLE RUBBER NB-001 BLACK SIZE 37</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>SOLE</Jenis>
+    <BatchNum>001038</BatchNum>
+    <BBID>15002099</BBID>
+    <Nama>SOLE RUBBER NB-001 BLACK SIZE 37</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>SOLE</Jenis>
+    <BatchNum>001118</BatchNum>
+    <BBID>15002099</BBID>
+    <Nama>SOLE RUBBER NB-001 BLACK SIZE 37</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>SOLE</Jenis>
+    <BatchNum>001038</BatchNum>
+    <BBID>15002053</BBID>
+    <Nama>SOLE RUBBER NB-001 BLACK SIZE 38</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>SOLE</Jenis>
+    <BatchNum>001120</BatchNum>
+    <BBID>15002053</BBID>
+    <Nama>SOLE RUBBER NB-001 BLACK SIZE 38</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>SOLE</Jenis>
+    <BatchNum>001118</BatchNum>
+    <BBID>15002053</BBID>
+    <Nama>SOLE RUBBER NB-001 BLACK SIZE 38</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>SOLE</Jenis>
+    <BatchNum>001073</BatchNum>
+    <BBID>15002053</BBID>
+    <Nama>SOLE RUBBER NB-001 BLACK SIZE 38</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>SOLE</Jenis>
+    <BatchNum>001073</BatchNum>
+    <BBID>15002054</BBID>
+    <Nama>SOLE RUBBER NB-001 BLACK SIZE 39</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>SOLE</Jenis>
+    <BatchNum>001120</BatchNum>
+    <BBID>15002054</BBID>
+    <Nama>SOLE RUBBER NB-001 BLACK SIZE 39</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>SOLE</Jenis>
+    <BatchNum>001118</BatchNum>
+    <BBID>15002054</BBID>
+    <Nama>SOLE RUBBER NB-001 BLACK SIZE 39</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>SOLE</Jenis>
+    <BatchNum>001038</BatchNum>
+    <BBID>15002054</BBID>
+    <Nama>SOLE RUBBER NB-001 BLACK SIZE 39</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>SOLE</Jenis>
+    <BatchNum>001120</BatchNum>
+    <BBID>15002055</BBID>
+    <Nama>SOLE RUBBER NB-001 BLACK SIZE 40</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>SOLE</Jenis>
+    <BatchNum>001073</BatchNum>
+    <BBID>15002055</BBID>
+    <Nama>SOLE RUBBER NB-001 BLACK SIZE 40</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>SOLE</Jenis>
+    <BatchNum>001118</BatchNum>
+    <BBID>15002055</BBID>
+    <Nama>SOLE RUBBER NB-001 BLACK SIZE 40</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>SOLE</Jenis>
+    <BatchNum>0001533</BatchNum>
+    <BBID>15001947</BBID>
+    <Nama>SOLE RUBBER NB-001 BROWN SIZE 31</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>SOLE</Jenis>
+    <BatchNum>0001533</BatchNum>
+    <BBID>15001948</BBID>
+    <Nama>SOLE RUBBER NB-001 BROWN SIZE 32</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>SOLE</Jenis>
+    <BatchNum>0001533</BatchNum>
+    <BBID>15001949</BBID>
+    <Nama>SOLE RUBBER NB-001 BROWN SIZE 33</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>SOLE</Jenis>
+    <BatchNum>0001524</BatchNum>
+    <BBID>15001950</BBID>
+    <Nama>SOLE RUBBER NB-001 BROWN SIZE 34</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>SOLE</Jenis>
+    <BatchNum>0001524</BatchNum>
+    <BBID>15001951</BBID>
+    <Nama>SOLE RUBBER NB-001 BROWN SIZE 35</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>SOLE</Jenis>
+    <BatchNum>0001524</BatchNum>
+    <BBID>15001952</BBID>
+    <Nama>SOLE RUBBER NB-001 BROWN SIZE 36</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>SOLE</Jenis>
+    <BatchNum>0001533</BatchNum>
+    <BBID>15001952</BBID>
+    <Nama>SOLE RUBBER NB-001 BROWN SIZE 36</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>SOLE</Jenis>
+    <BatchNum>000638</BatchNum>
+    <BBID>15001937</BBID>
+    <Nama>SOLE RUBBER NB-001 BROWN SIZE 37</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>SOLE</Jenis>
+    <BatchNum>0001529</BatchNum>
+    <BBID>15001937</BBID>
+    <Nama>SOLE RUBBER NB-001 BROWN SIZE 37</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>SOLE</Jenis>
+    <BatchNum>0001529</BatchNum>
+    <BBID>15001938</BBID>
+    <Nama>SOLE RUBBER NB-001 BROWN SIZE 38</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>SOLE</Jenis>
+    <BatchNum>0001487</BatchNum>
+    <BBID>15001938</BBID>
+    <Nama>SOLE RUBBER NB-001 BROWN SIZE 38</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>SOLE</Jenis>
+    <BatchNum>0001509</BatchNum>
+    <BBID>15001939</BBID>
+    <Nama>SOLE RUBBER NB-001 BROWN SIZE 39</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>SOLE</Jenis>
+    <BatchNum>0001529</BatchNum>
+    <BBID>15001939</BBID>
+    <Nama>SOLE RUBBER NB-001 BROWN SIZE 39</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>SOLE</Jenis>
+    <BatchNum>0001507</BatchNum>
+    <BBID>15001940</BBID>
+    <Nama>SOLE RUBBER NB-001 BROWN SIZE 40</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>SOLE</Jenis>
+    <BatchNum>0001509</BatchNum>
+    <BBID>15001940</BBID>
+    <Nama>SOLE RUBBER NB-001 BROWN SIZE 40</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>SOLE</Jenis>
+    <BatchNum>0001529</BatchNum>
+    <BBID>15001941</BBID>
+    <Nama>SOLE RUBBER NB-001 BROWN SIZE 41</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>SOLE</Jenis>
+    <BatchNum>0001529</BatchNum>
+    <BBID>15001942</BBID>
+    <Nama>SOLE RUBBER NB-001 BROWN SIZE 42</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>SOLE</Jenis>
+    <BatchNum>0001501</BatchNum>
+    <BBID>15001942</BBID>
+    <Nama>SOLE RUBBER NB-001 BROWN SIZE 42</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>SOLE</Jenis>
+    <BatchNum>001072</BatchNum>
+    <BBID>15001943</BBID>
+    <Nama>SOLE RUBBER NB-001 BROWN SIZE 43</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>SOLE</Jenis>
+    <BatchNum>BNB-2103-0001</BatchNum>
+    <BBID>15001574</BBID>
+    <Nama>SOLE RUBBER SPM4151 RPH BLACK (65+/-3) SIZE 11H</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>SOLE</Jenis>
+    <BatchNum>BNB-2103-0001</BatchNum>
+    <BBID>15001395</BBID>
+    <Nama>SOLE RUBBER SPM4151 RPH-4E BLACK (65+/-3) SIZE 11H</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>SOLE</Jenis>
+    <BatchNum>BNB-2103-0001</BatchNum>
+    <BBID>15001397</BBID>
+    <Nama>SOLE RUBBER SPM4151 RPH-4E BLACK (65+/-3) SIZE 13</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>SOLE</Jenis>
+    <BatchNum>0001278</BatchNum>
+    <BBID>15002111</BBID>
+    <Nama>SOLE RUBBER TEBAL (KBI OS-2306) NB-001 BROWN SIZE 37</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>SOLE</Jenis>
+    <BatchNum>0001286</BatchNum>
+    <BBID>15002111</BBID>
+    <Nama>SOLE RUBBER TEBAL (KBI OS-2306) NB-001 BROWN SIZE 37</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>SOLE</Jenis>
+    <BatchNum>0001268</BatchNum>
+    <BBID>15002112</BBID>
+    <Nama>SOLE RUBBER TEBAL (KBI OS-2306) NB-001 BROWN SIZE 38</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>SOLE</Jenis>
+    <BatchNum>0001286</BatchNum>
+    <BBID>15002113</BBID>
+    <Nama>SOLE RUBBER TEBAL (KBI OS-2306) NB-001 BROWN SIZE 39</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>SOLE</Jenis>
+    <BatchNum>0001304</BatchNum>
+    <BBID>15002114</BBID>
+    <Nama>SOLE RUBBER TEBAL (KBI OS-2306) NB-001 BROWN SIZE 40</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>SOLE</Jenis>
+    <BatchNum>0001278</BatchNum>
+    <BBID>15002114</BBID>
+    <Nama>SOLE RUBBER TEBAL (KBI OS-2306) NB-001 BROWN SIZE 40</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>SOLE</Jenis>
+    <BatchNum>cont.3</BatchNum>
+    <BBID>15002016</BBID>
+    <Nama>SOLE TPR TCP KL 14304 KX 16-54 WITH STICHING LINE BLACK SIZE 10</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>SOLE</Jenis>
+    <BatchNum>CONT.4</BatchNum>
+    <BBID>15002016</BBID>
+    <Nama>SOLE TPR TCP KL 14304 KX 16-54 WITH STICHING LINE BLACK SIZE 10</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>SOLE</Jenis>
+    <BatchNum>CONT.4</BatchNum>
+    <BBID>15002017</BBID>
+    <Nama>SOLE TPR TCP KL 14304 KX 16-54 WITH STICHING LINE BLACK SIZE 11</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>SOLE</Jenis>
+    <BatchNum>cont.3</BatchNum>
+    <BBID>15002017</BBID>
+    <Nama>SOLE TPR TCP KL 14304 KX 16-54 WITH STICHING LINE BLACK SIZE 11</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>SOLE</Jenis>
+    <BatchNum>CONT.4</BatchNum>
+    <BBID>15002010</BBID>
+    <Nama>SOLE TPR TCP KL 14304 KX 16-54 WITH STICHING LINE BLACK SIZE 4</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>SOLE</Jenis>
+    <BatchNum>CONT.4</BatchNum>
+    <BBID>15002011</BBID>
+    <Nama>SOLE TPR TCP KL 14304 KX 16-54 WITH STICHING LINE BLACK SIZE 5</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>SOLE</Jenis>
+    <BatchNum>cont.3</BatchNum>
+    <BBID>15002012</BBID>
+    <Nama>SOLE TPR TCP KL 14304 KX 16-54 WITH STICHING LINE BLACK SIZE 6</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>SOLE</Jenis>
+    <BatchNum>CONT.4</BatchNum>
+    <BBID>15002012</BBID>
+    <Nama>SOLE TPR TCP KL 14304 KX 16-54 WITH STICHING LINE BLACK SIZE 6</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>SOLE</Jenis>
+    <BatchNum>CONT.4</BatchNum>
+    <BBID>15002013</BBID>
+    <Nama>SOLE TPR TCP KL 14304 KX 16-54 WITH STICHING LINE BLACK SIZE 7</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>SOLE</Jenis>
+    <BatchNum>CONT.4</BatchNum>
+    <BBID>15002014</BBID>
+    <Nama>SOLE TPR TCP KL 14304 KX 16-54 WITH STICHING LINE BLACK SIZE 8</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>SOLE</Jenis>
+    <BatchNum>cont.3</BatchNum>
+    <BBID>15002015</BBID>
+    <Nama>SOLE TPR TCP KL 14304 KX 16-54 WITH STICHING LINE BLACK SIZE 9</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>SOLE</Jenis>
+    <BatchNum>CONT.4</BatchNum>
+    <BBID>15002015</BBID>
+    <Nama>SOLE TPR TCP KL 14304 KX 16-54 WITH STICHING LINE BLACK SIZE 9</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>STICKER</Jenis>
+    <BatchNum>202501241</BatchNum>
+    <BBID>16000749</BBID>
+    <Nama>STICKER BARCODE OUTER BOX BATA 5 X 5 CM</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>STICKER</Jenis>
+    <BatchNum>26022025</BatchNum>
+    <BBID>16000743</BBID>
+    <Nama>STICKER CARTON LABEL TCP</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>STICKER</Jenis>
+    <BatchNum>012758</BatchNum>
+    <BBID>16000081</BBID>
+    <Nama>STICKER HANG TAG</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>STICKER</Jenis>
+    <BatchNum>01082023</BatchNum>
+    <BBID>16000365</BBID>
+    <Nama>STICKER INNER</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>STICKER</Jenis>
+    <BatchNum>012324</BatchNum>
+    <BBID>16000750</BBID>
+    <Nama>STICKER LABEL "SNI" ORTUSEIGHT</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>STICKER</Jenis>
+    <BatchNum>NXG/25/II/0410-0478</BatchNum>
+    <BBID>16000751</BBID>
+    <Nama>STICKER POLYBAG TCP-EP/STKR/IN</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>STICKER</Jenis>
+    <BatchNum>30 JULI 2024</BatchNum>
+    <BBID>16000747</BBID>
+    <Nama>STICKER POLYBAG UK. 3X3 CM</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>STICKER</Jenis>
+    <BatchNum>29 JULI 2024</BatchNum>
+    <BBID>16000747</BBID>
+    <Nama>STICKER POLYBAG UK. 3X3 CM</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>STICKER</Jenis>
+    <BatchNum>22042024</BatchNum>
+    <BBID>16000744</BBID>
+    <Nama>STICKER QC</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>STICKER</Jenis>
+    <BatchNum>29 Agustus 2024</BatchNum>
+    <BBID>16000744</BBID>
+    <Nama>STICKER QC</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>STICKER</Jenis>
+    <BatchNum>02042024</BatchNum>
+    <BBID>16000744</BBID>
+    <Nama>STICKER QC</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>STICKER</Jenis>
+    <BatchNum>06/02/2025</BatchNum>
+    <BBID>16000755</BBID>
+    <Nama>STICKER QC PASS GREEN/WHITE UK.1 CM</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>STICKER</Jenis>
+    <BatchNum>012708</BatchNum>
+    <BBID>16000696</BBID>
+    <Nama>STICKER TCP "APP FAL1" WHITE/BLACK</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>STICKER</Jenis>
+    <BatchNum>H0794</BatchNum>
+    <BBID>16000738</BBID>
+    <Nama>STICKER TCP "MON FAL1" WHITE/BLACK</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>STRING PIN</Jenis>
+    <BatchNum>9186</BatchNum>
+    <BBID>48000007</BBID>
+    <Nama>STRING PIN WHITE 3"</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>STRING PIN</Jenis>
+    <BatchNum>8947</BatchNum>
+    <BBID>48000007</BBID>
+    <Nama>STRING PIN WHITE 3"</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>STRING PIN</Jenis>
+    <BatchNum>9034</BatchNum>
+    <BBID>48000008</BBID>
+    <Nama>STRING PIN WHITE 5"</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>STUD</Jenis>
+    <BatchNum>CONT.1</BatchNum>
+    <BBID>101000002</BBID>
+    <Nama>STUD MUSHROOM NAIL 10 MM GOLD</Nama>
+    <Sat>SET</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>STUD</Jenis>
+    <BatchNum>CONT.1</BatchNum>
+    <BBID>101000004</BBID>
+    <Nama>STUD MUSHROOM NAIL 10 MM ROSE GOLD</Nama>
+    <Sat>SET</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>STUD</Jenis>
+    <BatchNum>CONT.1</BatchNum>
+    <BBID>101000003</BBID>
+    <Nama>STUD MUSHROOM NAIL 10 MM SILVER</Nama>
+    <Sat>SET</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>TALI SEPATU</Jenis>
+    <BatchNum>RCS0006/03/25</BatchNum>
+    <BBID>59000294</BBID>
+    <Nama>TALI SEPATU 11 MM WHITE (OR) [Y 412] UK. 100 CM</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>TALI SEPATU</Jenis>
+    <BatchNum>RCS0005/05/24</BatchNum>
+    <BBID>59000294</BBID>
+    <Nama>TALI SEPATU 11 MM WHITE (OR) [Y 412] UK. 100 CM</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>TALI SEPATU</Jenis>
+    <BatchNum>RCS0015/03/25</BatchNum>
+    <BBID>59000294</BBID>
+    <Nama>TALI SEPATU 11 MM WHITE (OR) [Y 412] UK. 100 CM</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>TALI SEPATU</Jenis>
+    <BatchNum>RCS0018/09/24</BatchNum>
+    <BBID>59000294</BBID>
+    <Nama>TALI SEPATU 11 MM WHITE (OR) [Y 412] UK. 100 CM</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>TALI SEPATU</Jenis>
+    <BatchNum>SQ1/PUS-071124-0014</BatchNum>
+    <BBID>59000294</BBID>
+    <Nama>TALI SEPATU 11 MM WHITE (OR) [Y 412] UK. 100 CM</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>TALI SEPATU</Jenis>
+    <BatchNum>RCS0004/05/24</BatchNum>
+    <BBID>59000296</BBID>
+    <Nama>TALI SEPATU 11 MM WHITE (OR) [Y 412] UK. 110 CM</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>TALI SEPATU</Jenis>
+    <BatchNum>RCS0059/08/24</BatchNum>
+    <BBID>59000296</BBID>
+    <Nama>TALI SEPATU 11 MM WHITE (OR) [Y 412] UK. 110 CM</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>TALI SEPATU</Jenis>
+    <BatchNum>RCS0018/09/24</BatchNum>
+    <BBID>59000296</BBID>
+    <Nama>TALI SEPATU 11 MM WHITE (OR) [Y 412] UK. 110 CM</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>TALI SEPATU</Jenis>
+    <BatchNum>RCS0029/06/24</BatchNum>
+    <BBID>59000296</BBID>
+    <Nama>TALI SEPATU 11 MM WHITE (OR) [Y 412] UK. 110 CM</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>TALI SEPATU</Jenis>
+    <BatchNum>RCS0006/03/25</BatchNum>
+    <BBID>59000296</BBID>
+    <Nama>TALI SEPATU 11 MM WHITE (OR) [Y 412] UK. 110 CM</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>TALI SEPATU</Jenis>
+    <BatchNum>RCS0056/11/22</BatchNum>
+    <BBID>59000295</BBID>
+    <Nama>TALI SEPATU 11 MM WHITE (OR) [Y 412] UK. 120 CM</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>TALI SEPATU</Jenis>
+    <BatchNum>RCS0006/03/25</BatchNum>
+    <BBID>59000295</BBID>
+    <Nama>TALI SEPATU 11 MM WHITE (OR) [Y 412] UK. 120 CM</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>TALI SEPATU</Jenis>
+    <BatchNum>RCS0015/03/25</BatchNum>
+    <BBID>59000295</BBID>
+    <Nama>TALI SEPATU 11 MM WHITE (OR) [Y 412] UK. 120 CM</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>TALI SEPATU</Jenis>
+    <BatchNum>RCS0006/03/25</BatchNum>
+    <BBID>59000298</BBID>
+    <Nama>TALI SEPATU 11 MM WHITE (OR) [Y 412] UK. 135 CM</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>TALI SEPATU</Jenis>
+    <BatchNum>RCS0051/02/24</BatchNum>
+    <BBID>59000298</BBID>
+    <Nama>TALI SEPATU 11 MM WHITE (OR) [Y 412] UK. 135 CM</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>TALI SEPATU</Jenis>
+    <BatchNum>RCS0003/10/23</BatchNum>
+    <BBID>59000298</BBID>
+    <Nama>TALI SEPATU 11 MM WHITE (OR) [Y 412] UK. 135 CM</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>TALI SEPATU</Jenis>
+    <BatchNum>RCS0028/10/24</BatchNum>
+    <BBID>59000298</BBID>
+    <Nama>TALI SEPATU 11 MM WHITE (OR) [Y 412] UK. 135 CM</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>TALI SEPATU</Jenis>
+    <BatchNum>RCS0021/09/024</BatchNum>
+    <BBID>59000298</BBID>
+    <Nama>TALI SEPATU 11 MM WHITE (OR) [Y 412] UK. 135 CM</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>TALI SEPATU</Jenis>
+    <BatchNum>RCS0019/09/24</BatchNum>
+    <BBID>59000298</BBID>
+    <Nama>TALI SEPATU 11 MM WHITE (OR) [Y 412] UK. 135 CM</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>TALI SEPATU</Jenis>
+    <BatchNum>RCS/0025/03/25</BatchNum>
+    <BBID>59000298</BBID>
+    <Nama>TALI SEPATU 11 MM WHITE (OR) [Y 412] UK. 135 CM</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>TALI SEPATU</Jenis>
+    <BatchNum>SQ1/PUS-250724-0001</BatchNum>
+    <BBID>59000353</BBID>
+    <Nama>TALI SEPATU 11 MM WHITE (OR) [Y 412] UK. 140 CM</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>TALI SEPATU</Jenis>
+    <BatchNum>RCS0061/07/24</BatchNum>
+    <BBID>59000353</BBID>
+    <Nama>TALI SEPATU 11 MM WHITE (OR) [Y 412] UK. 140 CM</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>TALI SEPATU</Jenis>
+    <BatchNum>RCS0117/03/24</BatchNum>
+    <BBID>59000353</BBID>
+    <Nama>TALI SEPATU 11 MM WHITE (OR) [Y 412] UK. 140 CM</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>TALI SEPATU</Jenis>
+    <BatchNum>RCS0058/10/24</BatchNum>
+    <BBID>59000322</BBID>
+    <Nama>TALI SEPATU 11 MM WHITE (OR) [Y 412] UK. 90 CM</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>TALI SEPATU</Jenis>
+    <BatchNum>RCS0006/03/25</BatchNum>
+    <BBID>59000322</BBID>
+    <Nama>TALI SEPATU 11 MM WHITE (OR) [Y 412] UK. 90 CM</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>TALI SEPATU</Jenis>
+    <BatchNum>RCS0015/03/25</BatchNum>
+    <BBID>59000322</BBID>
+    <Nama>TALI SEPATU 11 MM WHITE (OR) [Y 412] UK. 90 CM</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>TALI SEPATU</Jenis>
+    <BatchNum>RCS/0025/03/25</BatchNum>
+    <BBID>59000355</BBID>
+    <Nama>TALI SEPATU DL 9 MM WHITE (OR)(Y280) UK 105 CM</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>TALI SEPATU</Jenis>
+    <BatchNum>02-Jul-2024</BatchNum>
+    <BBID>59000359</BBID>
+    <Nama>TALI SEPATU FLAT (Y 274) 8 MM BROKEN WHITE (A-291) UK. 110 CM</Nama>
+    <Sat>PSG </Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>TALI SEPATU</Jenis>
+    <BatchNum>02-Jul-2024</BatchNum>
+    <BBID>59000360</BBID>
+    <Nama>TALI SEPATU FLAT (Y 274) 8 MM BROKEN WHITE (A-291) UK. 120 CM</Nama>
+    <Sat>PSG </Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>TALI SEPATU</Jenis>
+    <BatchNum>02-Jul-2024</BatchNum>
+    <BBID>59000361</BBID>
+    <Nama>TALI SEPATU FLAT (Y 274) 8 MM BROKEN WHITE (A-291) UK. 140 CM</Nama>
+    <Sat>PSG </Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>TALI SEPATU</Jenis>
+    <BatchNum>02-Jul-2024</BatchNum>
+    <BBID>59000362</BBID>
+    <Nama>TALI SEPATU FLAT (Y 274) 8 MM BROKEN WHITE (A-291) UK. 150 CM</Nama>
+    <Sat>PSG </Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>TALI SEPATU</Jenis>
+    <BatchNum>SQ1/PUS-120523-0006</BatchNum>
+    <BBID>59000356</BBID>
+    <Nama>TALI SEPATU FLAT DOUBLE POLY MINI 8 MM BLACK (OR) [Y 345] UK. 100 CM</Nama>
+    <Sat>PSG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>TC</Jenis>
+    <BatchNum>CONT.1</BatchNum>
+    <BBID>TC000006</BBID>
+    <Nama>TC FABRIC WHITE + HOTMELT (FOR TOE BOX)</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>THINNER</Jenis>
+    <BatchNum>399/IX/24 (300924)</BatchNum>
+    <BBID>35000001</BBID>
+    <Nama>THINNER AA</Nama>
+    <Sat>LTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>THINNER</Jenis>
+    <BatchNum>0000114</BatchNum>
+    <BBID>35000009</BBID>
+    <Nama>THINNER M.E.K</Nama>
+    <Sat>KG</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>THINNER</Jenis>
+    <BatchNum>D000312</BatchNum>
+    <BBID>35000003</BBID>
+    <Nama>THINNER M-3</Nama>
+    <Sat>LTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>THINNER</Jenis>
+    <BatchNum>SS-24060047</BatchNum>
+    <BBID>35000005</BBID>
+    <Nama>THINNER M-504 SOLVENT</Nama>
+    <Sat>LTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>WASHER</Jenis>
+    <BatchNum>23/SJ/AKF/IX/054</BatchNum>
+    <BBID>WS000002</BBID>
+    <Nama>WASHER ALMINI SILVER 10 MM</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>WASHER</Jenis>
+    <BatchNum>24/SJ/SKF/III/113</BatchNum>
+    <BBID>WS000001</BBID>
+    <Nama>WASHER BESI SILVER 8 MM</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>WASHER</Jenis>
+    <BatchNum>23/SJ/AKF/XI/111</BatchNum>
+    <BBID>WS000001</BBID>
+    <Nama>WASHER BESI SILVER 8 MM</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>WASHER</Jenis>
+    <BatchNum>25/SJ/AKF/I/094</BatchNum>
+    <BBID>WS000004</BBID>
+    <Nama>WASHER KUNINGAN NICKLE 10 MM</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>WASHER</Jenis>
+    <BatchNum>25/SJ/AKF/II/020</BatchNum>
+    <BBID>WS000005</BBID>
+    <Nama>WASHER MATA AYAM 011024 SILVER UK. 10X4.5X5.5 MM</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>WOVEN LABEL</Jenis>
+    <BatchNum>SJ.2405.0020</BatchNum>
+    <BBID>11000123</BBID>
+    <Nama>WOVEN LABEL "BOLT PANDA" LATTER BLACK/FAME WHITE ( LOGO HEEL ) UK. 23X30 MM</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>WOVEN LABEL</Jenis>
+    <BatchNum>SJ.2502.0059</BatchNum>
+    <BBID>11000117</BBID>
+    <Nama>WOVEN LABEL "NEW BASKET" (E2NEWR) BLACK/ WHITE</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>WOVEN LABEL</Jenis>
+    <BatchNum>SJ2.2503.0003</BatchNum>
+    <BBID>11000117</BBID>
+    <Nama>WOVEN LABEL "NEW BASKET" (E2NEWR) BLACK/ WHITE</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>WOVEN LABEL</Jenis>
+    <BatchNum>SJ.2502.0938</BatchNum>
+    <BBID>11000117</BBID>
+    <Nama>WOVEN LABEL "NEW BASKET" (E2NEWR) BLACK/ WHITE</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>WOVEN LABEL</Jenis>
+    <BatchNum>SJ.2308.0066</BatchNum>
+    <BBID>11000122</BBID>
+    <Nama>WOVEN LABEL "NEW BASKET" (E2NEWR) WHITE/BLACK</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>WOVEN LABEL</Jenis>
+    <BatchNum>SJ.2307.0007</BatchNum>
+    <BBID>11000120</BBID>
+    <Nama>WOVEN LABEL "WAKAI KIDS" WHITE/YELLOW</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>WOVEN LABEL</Jenis>
+    <BatchNum>SJ.2302.0171</BatchNum>
+    <BBID>11000106</BBID>
+    <Nama>WOVEN LABEL C2 WAKAI "MATAHARI" YELLOW /RED/BLACK</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>WOVEN LABEL</Jenis>
+    <BatchNum>SJ.2310.0636</BatchNum>
+    <BBID>11000107</BBID>
+    <Nama>WOVEN LABEL D4WAKA2 WAKAI RED /WHITE</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>WOVEN LABEL</Jenis>
+    <BatchNum>SJ.2307.0007</BatchNum>
+    <BBID>11000105</BBID>
+    <Nama>WOVEN LABEL D4WAKA3 WAKAI YELLOW /WHITE</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>WOVEN LABEL</Jenis>
+    <BatchNum>SJ.2411.0595</BatchNum>
+    <BBID>11000124</BBID>
+    <Nama>WOVEN LABEL DALLAS E2DALL3 WHITE/BLACK 17X28 CM</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ZIPPER</Jenis>
+    <BatchNum>CONT.4</BatchNum>
+    <BBID>27000092</BBID>
+    <Nama>ZIPPER PLASTIK (HOT RESISTANT) NO. 3 BLACK</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ZIPPER</Jenis>
+    <BatchNum>CONT. 7</BatchNum>
+    <BBID>27000084</BBID>
+    <Nama>ZIPPER PLASTIK (HOT RESISTANT) NO. 5 BLACK</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ZIPPER</Jenis>
+    <BatchNum>CONT.7</BatchNum>
+    <BBID>27000084</BBID>
+    <Nama>ZIPPER PLASTIK (HOT RESISTANT) NO. 5 BLACK</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ZIPPER</Jenis>
+    <BatchNum>CONT. 2</BatchNum>
+    <BBID>27000084</BBID>
+    <Nama>ZIPPER PLASTIK (HOT RESISTANT) NO. 5 BLACK</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ZIPPER</Jenis>
+    <BatchNum>CONT.5</BatchNum>
+    <BBID>27000084</BBID>
+    <Nama>ZIPPER PLASTIK (HOT RESISTANT) NO. 5 BLACK</Nama>
+    <Sat>MTR</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ZIPPER</Jenis>
+    <BatchNum>CONT.1</BatchNum>
+    <BBID>27000088</BBID>
+    <Nama>ZIPPER PLASTIK YKK NO. 5 BLACK (TCP) UK. 4"</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ZIPPER</Jenis>
+    <BatchNum>CONT.1</BatchNum>
+    <BBID>27000089</BBID>
+    <Nama>ZIPPER PLASTIK YKK NO. 5 BLACK (TCP) UK. 4.5 "</Nama>
+    <Sat>BJ</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ZIPPER</Jenis>
+    <BatchNum>CONT.4</BatchNum>
+    <BBID>27000093</BBID>
+    <Nama>ZIPPER PULLER PLASTIK (HOT RESISTANT) NO. 3 BLACK</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ZIPPER</Jenis>
+    <BatchNum>CONT.9</BatchNum>
+    <BBID>27000085</BBID>
+    <Nama>ZIPPER PULLER PLASTIK (HOT RESISTANT) NO. 5 BLACK</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ZIPPER</Jenis>
+    <BatchNum>2024-04082</BatchNum>
+    <BBID>27000085</BBID>
+    <Nama>ZIPPER PULLER PLASTIK (HOT RESISTANT) NO. 5 BLACK</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+  <BahanBtNumBahan>
+    <Jenis>ZIPPER</Jenis>
+    <BatchNum>CONT. 7</BatchNum>
+    <BBID>27000085</BBID>
+    <Nama>ZIPPER PULLER PLASTIK (HOT RESISTANT) NO. 5 BLACK</Nama>
+    <Sat>PCS</Sat>
+  </BahanBtNumBahan>
+</NewDataSet>

@@ -1,0 +1,2658 @@
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.exe
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.pdb
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.vbprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FAdjBB_d.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRAdjBB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FBPB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FBPB_d.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRBPBHarga.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRBPB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRBPSpM.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FDPPBB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FDPPBB_d.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRDPPBB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FOpBB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FOpBB_d.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XROpBB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FByrHut.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FByrHut_d.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FJMHut.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FMetodeByr.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FFtBB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FFtBB_d.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRFtBB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XXFPOBB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FPOBB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FPOBB_a.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FPOBB_d.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FScPO.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRPOBB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRScPO.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRScPOK.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRScPOCust.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FPRSpM.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FPRSpM_d.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRPRSpM.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRPRSpM2.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FPRTool.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FPRTool_d.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRPRTool.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FQCBahan.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FQCBahan_d.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRQCBahan.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FRekalBB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FReqT.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FReqT_d.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRReqT.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FRtrBB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FRtrBB_d.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRRtrPembBB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FRtrPenjBB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FRtrPenjBB_d.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRRtrPenjBB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FRtrTagihanBB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FRtrTagihanBB_d.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FRPB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FRPB_d.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRRPB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRRPSpM.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FSJKBB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FSJKBB_d.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRSJKBB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FSJMBB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FSJMBB_d.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRSJMBB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FSOBB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FSOBB_d.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRSOBB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FTagihanBB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FTagihanBB_d.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FTAG.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FTAG_d.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRTAG.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FKetLate.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FTrmBB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FTrmBB_d.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRTrmBB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FTransBB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FTransBB_d.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRTransBB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FWaste.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FWaste_d.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FAdjBJ.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FAdjBJ_d.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRAdjBJ.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FRekalBJ.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRFtSJ.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FPOBJJO.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FPOBJJO_r.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRPOBJJO2.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FSampReq_ap.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FTrmSR.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FTrmSR_d.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRTrmSR.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FListPO.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FListSampR.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FListSpec.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FDetCCTek.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FLapKetLate.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FLapPOBJJO.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FLapSchProd.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FRekCCTek.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FRekSampReq.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FRekSpM.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FKatalogBB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRKatalogBB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRKatalogBBDtl.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.SRQRCode.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRLapBB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FOutsSO.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XROutsSO.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRRekBOMv2.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRRekBOMv3.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRSubRBOM.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FModel_tr.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FBOM.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FBOM_app.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FBOM_d.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FBOM_sa.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FOutsBOM.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FJadwalProd.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FSisaBOM.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRBOM.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRSPK.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRSPKR.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FBSTB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FBSTB_d.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRBSTB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FConvert.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FConvertDP_a.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FConvertPD_a.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FConvert_d.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FDOBJ.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FDOBJ_a.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FDOBJ_d.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRDOBJ.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FDPPBJ.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FDPPBJ_d.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRDPPBJ.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRDPPBJAllCopy.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRDPPBJAll.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FOpBJ.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FOpBJ_d.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XROpBJNS.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XROpBJ.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FByrPiut.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FByrPiutSlg.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FByrPiut_d.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FCash.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FJMPiut.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FGiro.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FGiro_d.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FFtBebas.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FFtBebas_d.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRFtBebas.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FFtBJ.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FFtBJ_a.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FFtBJ_d.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRFtBJ2.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRFtBJ.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XXFPOBJJO.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FPOBJJO_a.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FPOBJJO_d.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRPOBJJO.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FPOBJLk.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XXFPOBJLk.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FPOBJLk_d.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRAssOrder.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRPOBJLkR.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRPOBJLk.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRPOBJLkExt.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRPOBJLkInt.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FPromo.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FPromo_a.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FPromo_d.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FRtrBJ.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FRtrBJNF_a.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FRtrBJWF_a.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FRtrBJ_d.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRReturBJ.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FSampReq.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FSampReq_d.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRSampReq.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FTrmBJ.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FTrmBJ_a.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FTrmBJ_d.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRTrmBJ.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FTrArt.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FTrArt_d.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRTrArt.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FLogin.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FPilihBulan.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FPilihPeriode.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FPilihSales.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FPilihTgl.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FPilihUkuran.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FSearch.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FSplashScreen.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FUbahPass.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FUtama.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRBCJualBJ2.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRBCJualBJ.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRBCMutBB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRBCMutBJ.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRBCPakaiBB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRBCTrmBB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRBCTrmBJ.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRBCWaste.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRBCSubKontrak.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FArusBB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FArusBJ.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FBOMvsBPB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FBOMvsLPB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FBOMvsLPBvsBPB2.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FBOMvsLPBvsBPB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FNewCust.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FRekDetBPB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FRekDetTrmBB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FRekDetTrmBBHarga.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FRekPakaiBB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FRekPPnPenj.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FRekPPnPO.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FRekReturBB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FRekTransBJ.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FRekTrmBB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FRekTrmBJ.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FRekTrmCust.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FRtrQtyArt.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FTopJualArt.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FTraceFt.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FArusHutSupp.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FRekDetHutSupp.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FUmurHut.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FKrtHutSupp.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRKrtHutSupp.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FKrtStokBB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FKrtStokBJ.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRKrtStokBB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRKrtStokBBNom.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRKrtStokBJ.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRLapBrg.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRLapCust.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRLapSupp.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FOmsetBln.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FOmsetLkp.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FOmsetPnd.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FOmsetQtyArt.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FOmsetSal.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FOmsetThn.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FOutsPO.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FOutsPOBJ.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FOutsPOBJJO.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XROutsPOHarga.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XROutsPO.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRRekBOMBtl.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FFilterPersBB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRPersBB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRPersBBNom.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRPersenBB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRSalBBBulan.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FArusPiutCust.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FRekByrPiutCust.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FRekDetPiutCust.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FSisaPiut.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FUmurPiut.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FKrtPiutCust.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRKrtPiutCust.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRRekPiutAcc.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FFilterRekBOM.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FViewBOM.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRRekBOM.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRRekBOMNew.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FFilterRekDPPBJ.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRRekDPPBJ.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRSTDPP.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FStokBJ.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FStokBJJO.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FStokHargaBJ.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FStokHargaBJAll.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FStokHargaBJJO.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRBukuPemb.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRBukuPenj.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRJualRetur.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRRekLPBHarga.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRRekSampReq.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRStokBJ.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FBahan.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FBBJns.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FBrgAss.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FBrgAss_d.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FBJJO.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FBJLk.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FBrgJns.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FBrgKat.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FBrgMerk.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FBrgSat.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FBrgWrn.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FUbahHarga.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FBank.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FBankAcc.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FCurr.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FCust.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FDivisi.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FDocCode.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FGudang.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FJnsCust.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FJnsPot.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FKomponen.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FKota.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FPeriode.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FProp.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FSales.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FStyle.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FSupp.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FTipeDoc.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FModel.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FModel_d.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FModel_sa.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FModel_uk.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRModel.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FSchKB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRReqProdHarga.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FSpec.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FSpec_d.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FSpec_sa.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRKolomSpec2.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRKolomSpec.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRSpec.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FKatTKL.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FLapWIP.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FLOH.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FHslProdJam.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FHslProdJam_d.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FHslProdTarget.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FHslProdTKL.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FHslProdTKL_d.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRDetTKL1.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRDetTKL3.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRKet.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRLapProd1.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRLapProd2.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRLapProd3.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FSchAcc.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FSchBott.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FSchFin.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FSchLeat.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FSchPemb.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FSchPPIC.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FSchProd.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FSchSint.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FSchTool.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FReqProd.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FReqProd_a.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FReqProd_d.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRReqProd.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.XRReqQty.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FKoneksi.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FPerusahaan.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FRestoreDB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FSetPeriode.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FTransBal.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FHakAkses.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FMenu.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FPosisi.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FUser.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FSaldoBB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FSaldoBJ.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FSaldoHutSupp.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FSaldoPiutCust.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FSinkronisasi.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.vbproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.Resources.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\bin\Debug\KBIS.exe
+C:\Users\ASUS\Desktop\KBIS\KBIS\bin\Debug\KBIS.pdb
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.FAdjBB.resources
+C:\Users\ASUS\Desktop\KBIS\KBIS\obj\Debug\KBIS.exe.licenses
+D:\Project\New Design Program\KBIS\KBIS\bin\Debug\KBIS.exe
+D:\Project\New Design Program\KBIS\KBIS\bin\Debug\KBIS.pdb
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FListPOSPKBlmLns.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FAdjBB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FAdjBB_d.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRAdjBB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FBPB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FBPB_d.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRBPBBtNum.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRBPBHarga.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRBPB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRBPSpM.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FDPPBB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FDPPBB_d.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRDPPBB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FOpBB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FOpBB_d.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XROpBB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FByrHut.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FByrHut_d.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FJMHut.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FMetodeByr.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FFtBB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FFtBB_d.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRFtBB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XXFPOBB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FPOBB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FPOBB_a.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FPOBB_d.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FScPO.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRPOBB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRScPO.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRScPOK.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRScPOCust.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FPRSpM.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FPRSpM_d.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRPRSpM.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRPRSpM2.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FPRTool.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FPRTool_d.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRPRTool.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FQCBahan.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FQCBahan_d.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRQCBahan.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FRekalBB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FReqT.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FReqT_d.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRReqT.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FRtrBB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FRtrBB_d.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRRtrPembBB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRRtrPembBBH.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FRtrPenjBB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FRtrPenjBB_d.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRRtrPenjBB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRRtrPenjBBH.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FRtrTagihanBB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FRtrTagihanBB_d.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FRPB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FRPB_d.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRRPB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRRPSpM.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FSJKBB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FSJKBB_d.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRSJKBB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FSJMBB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FSJMBB_d.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRSJMBB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FSOBB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FSOBB_d.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRSOBB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRSOBBH.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FTagihanBB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FTagihanBB_d.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FTAG.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FTAG_d.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRTAG.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FKetLate.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FTrmBB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FTrmBB_d.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRTrmBB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRTrmBBH.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FTransBB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FTransBB_d.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRTransBB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FWaste.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FWaste_d.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FAdjBJ.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FAdjBJ_d.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRAdjBJ.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FRekalBJ.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FOpBJv1.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRFtSJ.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FPOBJJOv2.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FPOBJJO.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FPOBJJO_r.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRPOBJJO2.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FRtrPenjBebas.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FRtrPenjBebas_d.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRRtPenjBebas.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FSampReq_ap.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FSchSamp.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FSchSampHis.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRSchSampAss.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRSchSampCust.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRSchSampJht.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FTrmSR.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FTrmSR_d.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRTrmSR.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FListBBBlmTahu.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FListPO.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FListSampR.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FListSpec.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FOpenForm.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FBOMvsLPBvsBPB4.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FBOMvsLPBvsBPB5.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FDetCCTek.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FLapKetLate.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FLapPOBJJO.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FLapSchProd.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FPilihBahan.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FOutsSPK.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FRekCCTek.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FStokvsDoc.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRKrtStokBBBtNum.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XROutsPOBJ.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XROutsPOBJJO.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XROutsPOImpJun.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XROutsPOImpMei.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XROutsPOImp.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XROutsPOImpLama.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XROutsPOImpv1.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRSalBBBulanDtl.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FRekSampReq.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FRekSpM.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FKatalogBB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRKatalogBB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRKatalogBBDtl.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.SRQRCode.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRLapBB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FOutsSO.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XROutsSO.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRRekBOMv2.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRRekBOMv3.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRSubRBOM.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRCLSR.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FBOMstsPO.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRRekPOBJJO.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FJam.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FProsesProd.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FBOMTam.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FBOMTam_a.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRBOMTam.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRRekBBBOM.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRSPKTamLc.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRSPKRNoMandarin.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRSPKTamPt.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRSPKTamNoMandarin.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRSPKLc.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FBSTB_a.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FFilterHslProd.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FHProdJ.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FHslProd.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FHslProd_dis.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FHslProd_i.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FLapHPJDet2.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FLapHPJDet.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FLapHPJ.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FSchProd.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FSchProd_a.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FSchProd_d.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRLapHPJ.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRLHslProd.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRSRUk.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRSRHPJDet.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRLHPJDet.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FMemo.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FMemo_a.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FMemo_d.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRMemo.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.xxFMemo.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FModel_cp.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FModel_tr.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FBOM.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FBOM_app.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FBOM_d.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FBOM_sa.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FOutsBOM.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FJadwalProd.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FSisaBOM.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRBOM.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRSPK.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRSPKPt.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FBSTB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FBSTB_d.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRBSTB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FConvert.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FConvertDP_a.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FConvertPD_a.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FConvert_d.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FDOBJ.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FDOBJ_a.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FDOBJ_d.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRDOBJ.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FDPPBJ.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FDPPBJ_d.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRDPPBJ.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRDPPBJAllCopy.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRDPPBJAll.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FOpBJ.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FOpBJ_d.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XROpBJNS.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XROpBJ.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FByrPiut.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FByrPiutSlg.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FByrPiut_d.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FCash.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FJMPiut.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FGiro.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FGiro_d.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FFtBebas.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FFtBebas_d.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRFtBebas.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FFtBJ.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FFtBJ_a.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FFtBJ_d.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRFtBJ2.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRFtBJ.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FPOBJJO_a.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FPOBJJO_d.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRPOBJJO.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FPOBJLk.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XXFPOBJLk.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FPOBJLk_d.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRAssOrder.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRPOBJLkR.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRPOBJLk.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRPOBJLkExt.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRPOBJLkInt.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FPromo.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FPromo_a.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FPromo_d.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FRtrBJ.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FRtrBJNF_a.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FRtrBJWF_a.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FRtrBJ_d.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRReturBJ.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FSampReq.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FSampReq_d.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRSampReq.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FTrmBJ.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FTrmBJ_a.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FTrmBJ_d.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRTrmBJ.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FTrArt.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FTrArt_d.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRTrArt.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FLogin.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FPilihBulan.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FPilihPeriode.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FPilihSales.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FPilihTgl.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FPilihUkuran.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FSearch.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FSplashScreen.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FUbahPass.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FUtama.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRBCJualBJ2.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRBCJualBJ.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRBCMutBB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRBCMutBJ.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRBCPakaiBB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRBCTrmBB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRBCTrmBJ.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRBCWaste.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRBCSubKontrak.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FArusBB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FArusBJ.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FBOMvsBPB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FBOMvsLPB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FBOMvsLPBvsBPB2.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FBOMvsLPBvsBPB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FNewCust.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FRekDetBPB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FRekDetTrmBB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FRekDetTrmBBHarga.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FRekPakaiBB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FRekPPnPenj.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FRekPPnPO.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FRekReturBB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FRekTransBJ.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FRekTrmBB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FRekTrmBJ.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FRekTrmCust.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FRtrQtyArt.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FTopJualArt.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FTraceFt.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FArusHutSupp.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FRekDetHutSupp.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FUmurHut.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FKrtHutSupp.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRKrtHutSupp.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FKrtStokBB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FKrtStokBJ.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRKrtStokBB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRKrtStokBBNom.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRKrtStokBJ.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRLapBrg.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRLapCust.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRLapSupp.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FOmsetBln.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FOmsetLkp.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FOmsetPnd.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FOmsetQtyArt.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FOmsetSal.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FOmsetThn.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FOutsPO.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FOutsPOBJ.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FOutsPOBJJO.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XROutsPOHarga.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XROutsPO.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRRekBOMBtl.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FFilterPersBB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRPersBB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRPersBBNom.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRPersenBB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRSalBBBulan.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FArusPiutCust.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FRekByrPiutCust.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FRekDetPiutCust.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FSisaPiut.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FUmurPiut.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FKrtPiutCust.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRKrtPiutCust.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRRekPiutAcc.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FFilterRekBOM.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FViewBOM.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRRekBOM.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRRekBOMNew.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FFilterRekDPPBJ.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRRekDPPBJ.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRSTDPP.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FStokBJ.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FStokBJJO.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FStokHargaBJ.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FStokHargaBJAll.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FStokHargaBJJO.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRBukuPemb.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRBukuPenj.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRJualRetur.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRRekLPBHarga.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRRekSampReq.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRStokBJ.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FBahan.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FBBJns.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FBrgAss.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FBrgAss_d.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FBJJO.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FBJLk.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FBrgJns.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FBrgKat.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FBrgMerk.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FBrgSat.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FBrgWrn.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FUbahHarga.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FBank.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FBankAcc.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FCurr.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FCust.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FDivisi.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FDocCode.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FGudang.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FJnsCust.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FJnsPot.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FKomponen.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FKota.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FPeriode.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FProp.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FSales.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FStyle.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FSupp.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FTipeDoc.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FModel.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FModel_d.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FModel_sa.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FModel_uk.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRModel.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FSchKB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FProsKrj.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FProsKrj_a.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FProsKrj_d.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FReqProdBOM_a.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRReqProdHarga.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FSpec.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FSpec_a.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XXFSpec.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FSpec_d.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FSpec_sa.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRKolomSpec2.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRKolomSpec.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRSpec.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.Resources.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FKatTKL.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FLapWIP.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FLOH.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FHslProdJam.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FHslProdJam_d.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FHslProdTarget.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FHslProdTKL.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FHslProdTKL_d.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRDetTKL1.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRDetTKL3.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRKet.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRLapProd1.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRLapProd2.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRLapProd3.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FSchAcc.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FSchBott.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FSchFin.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FSchLeat.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FSchPemb.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FSchPPIC.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FSchProd2.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FSchSint.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FSchTool.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FReqProd.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FReqProd_a.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FReqProd_d.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRReqProd.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRReqQty.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XXXRSpec.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FTargetProd.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FTargetProd_d.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FKoneksi.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FPerusahaan.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FRestoreDB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FSetPeriode.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FTransBal.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FHakAkses.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FMenu.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FPosisi.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FUser.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FSaldoBB.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FSaldoBJ.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FSaldoHutSupp.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FSaldoPiutCust.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FSinkronisasi.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.vbproj.GenerateResource.Cache
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.exe.licenses
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.exe
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.pdb
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.vbprojResolveAssemblyReference.cache
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FBOMTam_d.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.FBOM_uk.resources
+D:\Project\New Design Program\KBIS\KBIS\obj\Debug\KBIS.XRSPKTam.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.exe
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.pdb
+D:\Project\New Design Program\For Try\KBIS\KBIS\bin\Debug\KBIS.exe
+D:\Project\New Design Program\For Try\KBIS\KBIS\bin\Debug\KBIS.pdb
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.vbprojResolveAssemblyReference.cache
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FListPOSPKBlmLns.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FAdjBB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FAdjBB_d.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRAdjBB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FBPB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FBPB_d.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRBPBBtNum.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRBPBHarga.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRBPB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRBPSpM.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FDPPBB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FDPPBB_d.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRDPPBB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FOpBB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FOpBB_d.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XROpBB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FByrHut.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FByrHut_d.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FJMHut.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FMetodeByr.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FFtBB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FFtBB_d.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRFtBB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XXFPOBB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FPOBB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FPOBB_a.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FPOBB_d.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FScPO.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRPOBB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRScPO.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRScPOK.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRScPOCust.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FPRSpM.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FPRSpM_d.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRPRSpM.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRPRSpM2.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FPRTool.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FPRTool_d.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRPRTool.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FQCBahan.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FQCBahan_d.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRQCBahan.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FRekalBB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FReqT.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FReqT_d.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRReqT.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FRtrBB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FRtrBB_d.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRRtrPembBB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRRtrPembBBH.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FRtrPenjBB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FRtrPenjBB_d.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRRtrPenjBB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRRtrPenjBBH.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FRtrTagihanBB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FRtrTagihanBB_d.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FRPB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FRPB_d.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRRPB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRRPSpM.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FSJKBB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FSJKBB_d.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRSJKBB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FSJMBB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FSJMBB_d.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRSJMBB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FSOBB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FSOBB_d.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRSOBB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRSOBBH.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FTagihanBB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FTagihanBB_d.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FTAG.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FTAG_d.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRTAG.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FKetLate.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FTrmBB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FTrmBB_d.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRTrmBB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRTrmBBH.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FTransBB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FTransBB_d.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRTransBB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FWaste.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FWaste_d.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FAdjBJ.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FAdjBJ_d.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRAdjBJ.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FRekalBJ.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FOpBJv1.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRFtSJ.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FPOBJJOv2.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FPOBJJO.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FPOBJJO_r.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRPOBJJO2.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FRtrPenjBebas.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FRtrPenjBebas_d.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRRtPenjBebas.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FSampReq_ap.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FSchSamp.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FSchSampHis.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRSchSampAss.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRSchSampCust.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRSchSampJht.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FTrmSR.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FTrmSR_d.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRTrmSR.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FListBBBlmTahu.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FListPO.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FListSampR.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FListSpec.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FOpenForm.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FBOMvsLPBvsBPB4.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FBOMvsLPBvsBPB5.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FDetCCTek.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FLapKetLate.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FLapPOBJJO.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FLapSchProd.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FPilihBahan.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FOutsSPK.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FRekCCTek.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FStokvsDoc.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRKrtStokBBBtNum.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XROutsPOBJ.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XROutsPOBJJO.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XROutsPOImpJun.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XROutsPOImpMei.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XROutsPOImp.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XROutsPOImpLama.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XROutsPOImpv1.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRSalBBBulanDtl.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FRekSampReq.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FRekSpM.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FKatalogBB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRKatalogBB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRKatalogBBDtl.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.SRQRCode.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRLapBB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FOutsSO.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XROutsSO.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRRekBOMv2.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRRekBOMv3.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRSubRBOM.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRCLSR.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FBOMstsPO.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRRekPOBJJO.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FJam.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FProsesProd.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FBOMTam.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FBOMTam_a.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FBOMTam_d.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FBOM_uk.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRBOMTam.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRRekBBBOM.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRSPKTam.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRSPKTamLc.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRSPKRNoMandarin.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRSPKTamPt.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRSPKTamNoMandarin.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRSPKLc.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FBSTB_a.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FFilterHslProd.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FHProdJ.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FHslProd.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FHslProd_dis.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FHslProd_i.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FLapHPJDet2.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FLapHPJDet.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FLapHPJ.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FSchProd.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FSchProd_a.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FSchProd_d.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRLapHPJ.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRLHslProd.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRSRUk.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRSRHPJDet.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRLHPJDet.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FMemo.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FMemo_a.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FMemo_d.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRMemo.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.xxFMemo.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FModel_cp.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FModel_tr.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FBOM.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FBOM_app.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FBOM_d.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FBOM_sa.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FOutsBOM.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FJadwalProd.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FSisaBOM.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRBOM.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRSPK.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRSPKPt.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FBSTB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FBSTB_d.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRBSTB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FConvert.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FConvertDP_a.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FConvertPD_a.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FConvert_d.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FDOBJ.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FDOBJ_a.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FDOBJ_d.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRDOBJ.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FDPPBJ.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FDPPBJ_d.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRDPPBJ.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRDPPBJAllCopy.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRDPPBJAll.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FOpBJ.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FOpBJ_d.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XROpBJNS.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XROpBJ.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FByrPiut.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FByrPiutSlg.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FByrPiut_d.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FCash.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FJMPiut.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FGiro.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FGiro_d.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FFtBebas.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FFtBebas_d.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRFtBebas.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FFtBJ.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FFtBJ_a.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FFtBJ_d.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRFtBJ2.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRFtBJ.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FPOBJJO_a.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FPOBJJO_d.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRPOBJJO.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FPOBJLk.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XXFPOBJLk.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FPOBJLk_d.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRAssOrder.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRPOBJLkR.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRPOBJLk.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRPOBJLkExt.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRPOBJLkInt.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FPromo.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FPromo_a.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FPromo_d.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FRtrBJ.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FRtrBJNF_a.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FRtrBJWF_a.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FRtrBJ_d.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRReturBJ.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FSampReq.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FSampReq_d.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRSampReq.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FTrmBJ.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FTrmBJ_a.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FTrmBJ_d.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRTrmBJ.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FTrArt.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FTrArt_d.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRTrArt.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FLogin.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FPilihBulan.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FPilihPeriode.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FPilihSales.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FPilihTgl.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FPilihUkuran.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FSearch.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FSplashScreen.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FUbahPass.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FUtama.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRBCJualBJ2.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRBCJualBJ.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRBCMutBB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRBCMutBJ.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRBCPakaiBB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRBCTrmBB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRBCTrmBJ.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRBCWaste.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRBCSubKontrak.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FArusBB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FArusBJ.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FBOMvsBPB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FBOMvsLPB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FBOMvsLPBvsBPB2.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FBOMvsLPBvsBPB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FNewCust.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FRekDetBPB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FRekDetTrmBB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FRekDetTrmBBHarga.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FRekPakaiBB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FRekPPnPenj.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FRekPPnPO.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FRekReturBB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FRekTransBJ.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FRekTrmBB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FRekTrmBJ.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FRekTrmCust.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FRtrQtyArt.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FTopJualArt.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FTraceFt.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FArusHutSupp.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FRekDetHutSupp.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FUmurHut.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FKrtHutSupp.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRKrtHutSupp.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FKrtStokBB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FKrtStokBJ.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRKrtStokBB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRKrtStokBBNom.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRKrtStokBJ.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRLapBrg.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRLapCust.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRLapSupp.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FOmsetBln.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FOmsetLkp.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FOmsetPnd.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FOmsetQtyArt.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FOmsetSal.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FOmsetThn.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FOutsPO.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FOutsPOBJ.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FOutsPOBJJO.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XROutsPOHarga.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XROutsPO.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRRekBOMBtl.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FFilterPersBB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRPersBB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRPersBBNom.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRPersenBB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRSalBBBulan.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FArusPiutCust.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FRekByrPiutCust.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FRekDetPiutCust.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FSisaPiut.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FUmurPiut.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FKrtPiutCust.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRKrtPiutCust.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRRekPiutAcc.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FFilterRekBOM.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FViewBOM.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRRekBOM.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRRekBOMNew.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FFilterRekDPPBJ.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRRekDPPBJ.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRSTDPP.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FStokBJ.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FStokBJJO.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FStokHargaBJ.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FStokHargaBJAll.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FStokHargaBJJO.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRBukuPemb.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRBukuPenj.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRJualRetur.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRRekLPBHarga.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRRekSampReq.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRStokBJ.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FBahan.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FBBJns.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FBrgAss.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FBrgAss_d.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FBJJO.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FBJLk.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FBrgJns.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FBrgKat.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FBrgMerk.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FBrgSat.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FBrgWrn.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FUbahHarga.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FBank.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FBankAcc.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FCurr.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FCust.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FDivisi.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FDocCode.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FGudang.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FJnsCust.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FJnsPot.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FKomponen.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FKota.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FPeriode.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FProp.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FSales.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FStyle.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FSupp.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FTipeDoc.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FModel.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FModel_d.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FModel_sa.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FModel_uk.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRModel.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FSchKB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FProsKrj.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FProsKrj_a.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FProsKrj_d.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FReqProdBOM_a.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRReqProdHarga.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FSpec.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FSpec_a.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XXFSpec.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FSpec_d.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FSpec_sa.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRKolomSpec2.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRKolomSpec.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRSpec.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.Resources.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FKatTKL.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FLapWIP.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FLOH.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FHslProdJam.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FHslProdJam_d.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FHslProdTarget.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FHslProdTKL.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FHslProdTKL_d.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRDetTKL1.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRDetTKL3.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRKet.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRLapProd1.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRLapProd2.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRLapProd3.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FSchAcc.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FSchBott.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FSchFin.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FSchLeat.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FSchPemb.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FSchPPIC.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FSchProd2.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FSchSint.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FSchTool.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FReqProd.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FReqProd_a.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FReqProd_d.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRReqProd.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XRReqQty.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.XXXRSpec.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FTargetProd.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FTargetProd_d.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FKoneksi.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FPerusahaan.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FRestoreDB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FSetPeriode.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FTransBal.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FHakAkses.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FMenu.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FPosisi.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FUser.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FSaldoBB.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FSaldoBJ.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FSaldoHutSupp.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FSaldoPiutCust.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FSinkronisasi.resources
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.vbproj.GenerateResource.Cache
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.exe.licenses
+D:\Project\New Design Program\For Try\KBIS\KBIS\obj\Debug\KBIS.FBOM_Div.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.exe
+D:\KBIS\KBIS\obj\Debug\KBIS.pdb
+D:\KBIS\KBIS\bin\Debug\KBIS.exe
+D:\KBIS\KBIS\bin\Debug\KBIS.pdb
+D:\KBIS\KBIS\obj\Debug\KBIS.vbprojResolveAssemblyReference.cache
+D:\KBIS\KBIS\obj\Debug\KBIS.FListPOSPKBlmLns.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FAdjBB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FAdjBB_d.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRAdjBB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FBPB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FBPB_d.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRBPBBtNum.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRBPBHarga.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRBPB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRBPSpM.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FDPPBB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FDPPBB_d.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRDPPBB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FOpBB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FOpBB_d.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XROpBB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FByrHut.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FByrHut_d.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FJMHut.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FMetodeByr.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FFtBB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FFtBB_d.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRFtBB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XXFPOBB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FPOBB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FPOBB_a.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FPOBB_d.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FScPO.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRPOBB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRScPO.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRScPOK.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRScPOCust.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FPRSpM.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FPRSpM_d.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRPRSpM.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRPRSpM2.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FPRTool.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FPRTool_d.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRPRTool.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FQCBahan.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FQCBahan_d.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRQCBahan.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FRekalBB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FReqT.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FReqT_d.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRReqT.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FRtrBB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FRtrBB_d.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRRtrPembBB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRRtrPembBBH.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FRtrPenjBB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FRtrPenjBB_d.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRRtrPenjBB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRRtrPenjBBH.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FRtrTagihanBB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FRtrTagihanBB_d.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FRPB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FRPB_d.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRRPB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRRPSpM.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FSJKBB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FSJKBB_d.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRSJKBB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FSJMBB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FSJMBB_d.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRSJMBB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FSOBB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FSOBB_d.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRSOBB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRSOBBH.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FTagihanBB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FTagihanBB_d.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FTAG.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FTAG_d.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRTAG.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FKetLate.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FTrmBB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FTrmBB_d.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRTrmBB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRTrmBBH.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FTransBB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FTransBB_d.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRTransBB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FWaste.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FWaste_d.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FAdjBJ.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FAdjBJ_d.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRAdjBJ.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FRekalBJ.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FOpBJv1.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRFtSJ.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FPOBJJOv2.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FPOBJJO.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FPOBJJO_r.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRPOBJJO2.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FRtrPenjBebas.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FRtrPenjBebas_d.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRRtPenjBebas.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FSampReq_ap.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FSchSamp.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FSchSampHis.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRSchSampAss.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRSchSampCust.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRSchSampJht.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FTrmSR.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FTrmSR_d.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRTrmSR.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FListBBBlmTahu.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FListPO.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FListSampR.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FListSpec.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FOpenForm.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FBOMvsLPBvsBPB4.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FBOMvsLPBvsBPB5.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FDetCCTek.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FLapKetLate.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FLapPOBJJO.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FLapSchProd.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FPilihBahan.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FOutsSPK.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FRekCCTek.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FStokvsDoc.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRKrtStokBBBtNum.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XROutsPOBJ.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XROutsPOBJJO.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XROutsPOImpJun.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XROutsPOImpMei.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XROutsPOImp.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XROutsPOImpLama.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XROutsPOImpv1.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRSalBBBulanDtl.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FRekSampReq.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FRekSpM.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FKatalogBB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRKatalogBB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRKatalogBBDtl.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.SRQRCode.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRLapBB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FOutsSO.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XROutsSO.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRRekBOMv2.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRRekBOMv3.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRSubRBOM.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRCLSR.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FBOMstsPO.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRRekPOBJJO.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FJam.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FProsesProd.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FBOMTam.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FBOMTam_a.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FBOMTam_d.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FBOM_Div.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FBOM_uk.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRBOMTam.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRRekBBBOM.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRSPKTam.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRSPKTamLc.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRSPKRNoMandarin.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRSPKTamPt.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRSPKTamNoMandarin.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRSPKLc.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FBSTB_a.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FFilterHslProd.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FHProdJ.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FHslProd.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FHslProd_dis.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FHslProd_i.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FLapHPJDet2.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FLapHPJDet.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FLapHPJ.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FSchProd.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FSchProd_a.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FSchProd_d.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRLapHPJ.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRLHslProd.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRSRUk.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRSRHPJDet.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRLHPJDet.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FMemo.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FMemo_a.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FMemo_d.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRMemo.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.xxFMemo.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FModel_cp.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FModel_tr.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FBOM.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FBOM_app.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FBOM_d.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FBOM_sa.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FOutsBOM.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FJadwalProd.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FSisaBOM.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRBOM.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRSPK.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRSPKPt.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FBSTB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FBSTB_d.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRBSTB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FConvert.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FConvertDP_a.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FConvertPD_a.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FConvert_d.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FDOBJ.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FDOBJ_a.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FDOBJ_d.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRDOBJ.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FDPPBJ.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FDPPBJ_d.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRDPPBJ.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRDPPBJAllCopy.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRDPPBJAll.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FOpBJ.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FOpBJ_d.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XROpBJNS.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XROpBJ.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FByrPiut.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FByrPiutSlg.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FByrPiut_d.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FCash.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FJMPiut.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FGiro.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FGiro_d.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FFtBebas.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FFtBebas_d.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRFtBebas.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FFtBJ.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FFtBJ_a.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FFtBJ_d.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRFtBJ2.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRFtBJ.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FPOBJJO_a.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FPOBJJO_d.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRPOBJJO.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FPOBJLk.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XXFPOBJLk.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FPOBJLk_d.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRAssOrder.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRPOBJLkR.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRPOBJLk.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRPOBJLkExt.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRPOBJLkInt.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FPromo.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FPromo_a.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FPromo_d.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FRtrBJ.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FRtrBJNF_a.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FRtrBJWF_a.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FRtrBJ_d.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRReturBJ.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FSampReq.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FSampReq_d.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRSampReq.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FTrmBJ.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FTrmBJ_a.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FTrmBJ_d.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRTrmBJ.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FTrArt.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FTrArt_d.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRTrArt.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FLogin.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FPilihBulan.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FPilihPeriode.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FPilihSales.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FPilihTgl.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FPilihUkuran.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FSearch.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FSplashScreen.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FUbahPass.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FUtama.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRBCJualBJ2.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRBCJualBJ.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRBCMutBB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRBCMutBJ.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRBCPakaiBB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRBCTrmBB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRBCTrmBJ.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRBCWaste.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRBCSubKontrak.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FArusBB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FArusBJ.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FBOMvsBPB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FBOMvsLPB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FBOMvsLPBvsBPB2.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FBOMvsLPBvsBPB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FNewCust.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FRekDetBPB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FRekDetTrmBB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FRekDetTrmBBHarga.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FRekPakaiBB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FRekPPnPenj.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FRekPPnPO.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FRekReturBB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FRekTransBJ.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FRekTrmBB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FRekTrmBJ.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FRekTrmCust.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FRtrQtyArt.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FTopJualArt.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FTraceFt.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FArusHutSupp.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FRekDetHutSupp.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FUmurHut.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FKrtHutSupp.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRKrtHutSupp.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FKrtStokBB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FKrtStokBJ.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRKrtStokBB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRKrtStokBBNom.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRKrtStokBJ.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRLapBrg.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRLapCust.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRLapSupp.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FOmsetBln.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FOmsetLkp.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FOmsetPnd.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FOmsetQtyArt.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FOmsetSal.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FOmsetThn.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FOutsPO.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FOutsPOBJ.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FOutsPOBJJO.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XROutsPOHarga.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XROutsPO.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRRekBOMBtl.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FFilterPersBB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRPersBB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRPersBBNom.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRPersenBB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRSalBBBulan.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FArusPiutCust.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FRekByrPiutCust.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FRekDetPiutCust.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FSisaPiut.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FUmurPiut.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FKrtPiutCust.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRKrtPiutCust.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRRekPiutAcc.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FFilterRekBOM.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FViewBOM.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRRekBOM.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRRekBOMNew.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FFilterRekDPPBJ.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRRekDPPBJ.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRSTDPP.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FStokBJ.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FStokBJJO.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FStokHargaBJ.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FStokHargaBJAll.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FStokHargaBJJO.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRBukuPemb.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRBukuPenj.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRJualRetur.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRRekLPBHarga.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRRekSampReq.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRStokBJ.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FBahan.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FBBJns.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FBrgAss.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FBrgAss_d.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FBJJO.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FBJLk.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FBrgJns.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FBrgKat.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FBrgMerk.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FBrgSat.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FBrgWrn.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FUbahHarga.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FBank.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FBankAcc.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FCurr.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FCust.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FDivisi.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FDocCode.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FGudang.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FJnsCust.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FJnsPot.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FKomponen.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FKota.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FPeriode.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FProp.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FSales.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FStyle.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FSupp.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FTipeDoc.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FModel.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FModel_d.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FModel_sa.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FModel_uk.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRModel.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FSchKB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FProsKrj.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FProsKrj_a.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FProsKrj_d.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FReqProdBOM_a.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRReqProdHarga.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FSpec.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FSpec_a.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XXFSpec.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FSpec_d.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FSpec_sa.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRKolomSpec2.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRKolomSpec.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRSpec.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.Resources.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FKatTKL.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FLapWIP.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FLOH.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FHslProdJam.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FHslProdJam_d.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FHslProdTarget.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FHslProdTKL.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FHslProdTKL_d.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRDetTKL1.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRDetTKL3.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRKet.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRLapProd1.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRLapProd2.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRLapProd3.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FSchAcc.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FSchBott.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FSchFin.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FSchLeat.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FSchPemb.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FSchPPIC.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FSchProd2.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FSchSint.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FSchTool.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FReqProd.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FReqProd_a.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FReqProd_d.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRReqProd.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XRReqQty.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.XXXRSpec.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FTargetProd.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FTargetProd_d.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FKoneksi.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FPerusahaan.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FRestoreDB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FSetPeriode.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FTransBal.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FHakAkses.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FMenu.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FPosisi.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FUser.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FSaldoBB.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FSaldoBJ.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FSaldoHutSupp.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FSaldoPiutCust.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.FSinkronisasi.resources
+D:\KBIS\KBIS\obj\Debug\KBIS.vbproj.GenerateResource.Cache
+D:\KBIS\KBIS\obj\Debug\KBIS.exe.licenses
+D:\App\KBIS\KBIS\obj\Debug\KBIS.exe
+D:\App\KBIS\KBIS\obj\Debug\KBIS.pdb
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.exe
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.pdb
+D:\App COBA\KBIS\KBIS\bin\Debug\KBIS.exe
+D:\App COBA\KBIS\KBIS\bin\Debug\KBIS.pdb
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.vbprojResolveAssemblyReference.cache
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FListPOSPKBlmLns.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FAdjBB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FAdjBB_d.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRAdjBB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBPB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBPB_d.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRBPBBtNum.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRBPBHarga.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRBPB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRBPSpM.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FDPPBB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FDPPBB_d.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRDPPBB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FOpBB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FOpBB_d.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XROpBB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FByrHut.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FByrHut_d.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FJMHut.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FMetodeByr.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FFtBB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FFtBB_d.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRFtBB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XXFPOBB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FPOBB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FPOBB_a.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FPOBB_d.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FScPO.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRPOBB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRScPO.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRScPOK.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRScPOCust.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FPRSpM.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FPRSpM_d.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRPRSpM.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRPRSpM2.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FPRTool.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FPRTool_d.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRPRTool.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FQCBahan.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FQCBahan_d.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRQCBahan.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRekalBB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FReqT.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FReqT_d.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRReqT.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRtrBB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRtrBB_d.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRRtrPembBB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRRtrPembBBH.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRtrPenjBB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRtrPenjBB_d.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRRtrPenjBB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRRtrPenjBBH.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRtrTagihanBB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRtrTagihanBB_d.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRPB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRPB_d.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRRPB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRRPSpM.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSJKBB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSJKBB_d.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRSJKBB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSJMBB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSJMBB_d.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRSJMBB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSOBB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSOBB_d.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRSOBB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRSOBBH.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FTagihanBB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FTagihanBB_d.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FTAG.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FTAG_d.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRTAG.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FKetLate.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FTrmBB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FTrmBB_d.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRTrmBB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRTrmBBH.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FTransBB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FTransBB_d.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRTransBB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FWaste.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FWaste_d.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FAdjBJ.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FAdjBJ_d.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRAdjBJ.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRekalBJ.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FOpBJv1.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRFtSJ.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FPOBJJOv2.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FPOBJJO.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FPOBJJO_r.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRPOBJJO2.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRtrPenjBebas.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRtrPenjBebas_d.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRRtPenjBebas.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSampReq_ap.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSchSamp.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSchSampHis.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRSchSampAss.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRSchSampCust.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRSchSampJht.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FTrmSR.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FTrmSR_d.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRTrmSR.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FListBBBlmTahu.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FListPO.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FListSampR.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FListSpec.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FOpenForm.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBOMvsLPBvsBPB4.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBOMvsLPBvsBPB5.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FDetCCTek.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FLapKetLate.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FLapPOBJJO.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FLapSchProd.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FPilihBahan.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FOutsSPK.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRekCCTek.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FStokvsDoc.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRKrtStokBBBtNum.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XROutsPOBJ.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XROutsPOBJJO.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XROutsPOImpJun.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XROutsPOImpMei.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XROutsPOImp.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XROutsPOImpLama.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XROutsPOImpv1.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRSalBBBulanDtl.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRekSampReq.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRekSpM.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FKatalogBB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRKatalogBB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRKatalogBBDtl.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.SRQRCode.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRLapBB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FOutsSO.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XROutsSO.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRRekBOMv2.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRRekBOMv3.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRSubRBOM.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRCLSR.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBOMstsPO.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRRekPOBJJO.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FJam.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FProsesProd.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBOMTam.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBOMTam_a.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBOMTam_d.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBOM_Div.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBOM_uk.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRBOMTam.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRRekBBBOM.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRSPKTam.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRSPKTamLc.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRSPKRNoMandarin.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRSPKTamPt.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRSPKTamNoMandarin.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRSPKLc.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBSTB_a.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FFilterHslProd.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FHProdJ.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FHslProd.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FHslProd_dis.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FHslProd_i.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FLapHPJDet2.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FLapHPJDet.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FLapHPJ.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSchProd.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSchProd_a.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSchProd_d.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRLapHPJ.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRLHslProd.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRSRUk.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRSRHPJDet.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRLHPJDet.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FMemo.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FMemo_a.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FMemo_d.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRMemo.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.xxFMemo.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FModel_cp.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FModel_tr.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBOM.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBOM_app.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBOM_d.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBOM_sa.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FOutsBOM.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FJadwalProd.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSisaBOM.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRBOM.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRSPK.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRSPKPt.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBSTB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBSTB_d.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRBSTB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FConvert.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FConvertDP_a.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FConvertPD_a.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FConvert_d.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FDOBJ.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FDOBJ_a.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FDOBJ_d.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRDOBJ.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FDPPBJ.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FDPPBJ_d.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRDPPBJ.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRDPPBJAllCopy.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRDPPBJAll.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FOpBJ.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FOpBJ_d.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XROpBJNS.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XROpBJ.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FByrPiut.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FByrPiutSlg.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FByrPiut_d.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FCash.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FJMPiut.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FGiro.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FGiro_d.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FFtBebas.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FFtBebas_d.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRFtBebas.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FFtBJ.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FFtBJ_a.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FFtBJ_d.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRFtBJ2.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRFtBJ.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FPOBJJO_a.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FPOBJJO_d.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRPOBJJO.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FPOBJLk.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XXFPOBJLk.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FPOBJLk_d.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRAssOrder.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRPOBJLkR.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRPOBJLk.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRPOBJLkExt.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRPOBJLkInt.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FPromo.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FPromo_a.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FPromo_d.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRtrBJ.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRtrBJNF_a.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRtrBJWF_a.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRtrBJ_d.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRReturBJ.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSampReq.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSampReq_d.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRSampReq.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FTrmBJ.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FTrmBJ_a.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FTrmBJ_d.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRTrmBJ.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FTrArt.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FTrArt_d.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRTrArt.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FLogin.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FPilihBulan.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FPilihPeriode.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FPilihSales.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FPilihTgl.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FPilihUkuran.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSearch.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSplashScreen.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FUbahPass.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FUtama.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRBCJualBJ2.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRBCJualBJ.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRBCMutBB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRBCMutBJ.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRBCPakaiBB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRBCTrmBB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRBCTrmBJ.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRBCWaste.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRBCSubKontrak.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FArusBB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FArusBJ.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBOMvsBPB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBOMvsLPB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBOMvsLPBvsBPB2.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBOMvsLPBvsBPB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FNewCust.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRekDetBPB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRekDetTrmBB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRekDetTrmBBHarga.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRekPakaiBB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRekPPnPenj.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRekPPnPO.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRekReturBB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRekTransBJ.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRekTrmBB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRekTrmBJ.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRekTrmCust.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRtrQtyArt.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FTopJualArt.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FTraceFt.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FArusHutSupp.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRekDetHutSupp.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FUmurHut.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FKrtHutSupp.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRKrtHutSupp.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FKrtStokBB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FKrtStokBJ.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRKrtStokBB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRKrtStokBBNom.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRKrtStokBJ.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRLapBrg.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRLapCust.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRLapSupp.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FOmsetBln.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FOmsetLkp.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FOmsetPnd.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FOmsetQtyArt.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FOmsetSal.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FOmsetThn.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FOutsPO.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FOutsPOBJ.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FOutsPOBJJO.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XROutsPOHarga.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XROutsPO.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRRekBOMBtl.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FFilterPersBB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRPersBB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRPersBBNom.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRPersenBB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRSalBBBulan.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FArusPiutCust.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRekByrPiutCust.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRekDetPiutCust.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSisaPiut.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FUmurPiut.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FKrtPiutCust.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRKrtPiutCust.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRRekPiutAcc.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FFilterRekBOM.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FViewBOM.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRRekBOM.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRRekBOMNew.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FFilterRekDPPBJ.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRRekDPPBJ.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRSTDPP.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FStokBJ.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FStokBJJO.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FStokHargaBJ.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FStokHargaBJAll.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FStokHargaBJJO.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRBukuPemb.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRBukuPenj.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRJualRetur.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRRekLPBHarga.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRRekSampReq.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRStokBJ.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBahan.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBBJns.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBrgAss.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBrgAss_d.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBJJO.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBJLk.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBrgJns.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBrgKat.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBrgMerk.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBrgSat.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBrgWrn.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FUbahHarga.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBank.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBankAcc.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FCurr.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FCust.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FDivisi.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FDocCode.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FGudang.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FJnsCust.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FJnsPot.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FKomponen.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FKota.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FPeriode.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FProp.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSales.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FStyle.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSupp.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FTipeDoc.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FModel.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FModel_d.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FModel_sa.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FModel_uk.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRModel.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSchKB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FProsKrj.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FProsKrj_a.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FProsKrj_d.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FReqProdBOM_a.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRReqProdHarga.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSpec.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSpec_a.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XXFSpec.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSpec_d.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSpec_sa.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRKolomSpec2.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRKolomSpec.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRSpec.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.Resources.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FKatTKL.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FLapWIP.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FLOH.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FHslProdJam.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FHslProdJam_d.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FHslProdTarget.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FHslProdTKL.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FHslProdTKL_d.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRDetTKL1.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRDetTKL3.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRKet.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRLapProd1.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRLapProd2.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRLapProd3.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSchAcc.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSchBott.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSchFin.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSchLeat.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSchPemb.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSchPPIC.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSchProd2.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSchSint.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSchTool.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FReqProd.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FReqProd_a.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FReqProd_d.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRReqProd.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRReqQty.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.XXXRSpec.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FTargetProd.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FTargetProd_d.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FKoneksi.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FPerusahaan.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRestoreDB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSetPeriode.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FTransBal.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FHakAkses.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FMenu.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FPosisi.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FUser.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSaldoBB.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSaldoBJ.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSaldoHutSupp.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSaldoPiutCust.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSinkronisasi.resources
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.vbproj.GenerateResource.Cache
+D:\App COBA\KBIS\KBIS\obj\Debug\KBIS.exe.licenses
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.exe
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.pdb
+D:\! YUDI\App COBA\KBIS\KBIS\bin\Debug\KBIS.exe
+D:\! YUDI\App COBA\KBIS\KBIS\bin\Debug\KBIS.pdb
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.vbprojResolveAssemblyReference.cache
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FListPOSPKBlmLns.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FAdjBB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FAdjBB_d.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRAdjBB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBPB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBPB_d.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRBPBBtNum.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRBPBHarga.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRBPB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRBPSpM.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FDPPBB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FDPPBB_d.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRDPPBB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FOpBB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FOpBB_d.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XROpBB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FByrHut.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FByrHut_d.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FJMHut.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FMetodeByr.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FFtBB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FFtBB_d.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRFtBB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XXFPOBB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FPOBB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FPOBB_a.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FPOBB_d.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FScPO.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRPOBB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRScPO.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRScPOK.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRScPOCust.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FPRSpM.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FPRSpM_d.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRPRSpM.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRPRSpM2.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FPRTool.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FPRTool_d.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRPRTool.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FQCBahan.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FQCBahan_d.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRQCBahan.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRekalBB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FReqT.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FReqT_d.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRReqT.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRtrBB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRtrBB_d.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRRtrPembBB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRRtrPembBBH.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRtrPenjBB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRtrPenjBB_d.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRRtrPenjBB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRRtrPenjBBH.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRtrTagihanBB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRtrTagihanBB_d.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRPB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRPB_d.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRRPB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRRPSpM.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSJKBB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSJKBB_d.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRSJKBB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSJMBB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSJMBB_d.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRSJMBB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSOBB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSOBB_d.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRSOBB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRSOBBH.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FTagihanBB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FTagihanBB_d.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FTAG.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FTAG_d.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRTAG.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FKetLate.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FTrmBB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FTrmBB_d.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRTrmBB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRTrmBBH.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FTransBB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FTransBB_d.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRTransBB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FWaste.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FWaste_d.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FAdjBJ.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FAdjBJ_d.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRAdjBJ.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRekalBJ.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FOpBJv1.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRFtSJ.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FPOBJJOv2.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FPOBJJO.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FPOBJJO_r.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRPOBJJO2.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRtrPenjBebas.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRtrPenjBebas_d.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRRtPenjBebas.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSampReq_ap.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSchSamp.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSchSampHis.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRSchSampAss.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRSchSampCust.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRSchSampJht.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FTrmSR.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FTrmSR_d.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRTrmSR.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FListBBBlmTahu.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FListPO.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FListSampR.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FListSpec.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FOpenForm.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBOMvsLPBvsBPB4.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBOMvsLPBvsBPB5.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FDetCCTek.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FLapKetLate.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FLapPOBJJO.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FLapSchProd.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FPilihBahan.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FOutsSPK.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRekCCTek.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FStokvsDoc.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRKrtStokBBBtNum.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XROutsPOBJ.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XROutsPOBJJO.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XROutsPOImpJun.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XROutsPOImpMei.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XROutsPOImp.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XROutsPOImpLama.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XROutsPOImpv1.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRSalBBBulanDtl.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRekSampReq.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRekSpM.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FKatalogBB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRKatalogBB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRKatalogBBDtl.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.SRQRCode.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRLapBB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FOutsSO.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XROutsSO.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRRekBOMv2.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRRekBOMv3.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRSubRBOM.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRCLSR.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBOMstsPO.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRRekPOBJJO.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FJam.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FProsesProd.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBOMTam.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBOMTam_a.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBOMTam_d.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBOM_Div.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBOM_uk.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRBOMTam.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRRekBBBOM.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRSPKTam.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRSPKTamLc.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRSPKRNoMandarin.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRSPKTamPt.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRSPKTamNoMandarin.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRSPKLc.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBSTB_a.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FFilterHslProd.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FHProdJ.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FHslProd.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FHslProd_dis.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FHslProd_i.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FLapHPJDet2.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FLapHPJDet.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FLapHPJ.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSchProd.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSchProd_a.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSchProd_d.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRLapHPJ.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRLHslProd.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRSRUk.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRSRHPJDet.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRLHPJDet.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FMemo.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FMemo_a.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FMemo_d.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRMemo.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.xxFMemo.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FModel_cp.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FModel_tr.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBOM.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBOM_app.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBOM_d.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBOM_sa.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FOutsBOM.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FJadwalProd.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSisaBOM.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRBOM.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRSPK.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRSPKPt.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBSTB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBSTB_d.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRBSTB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FConvert.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FConvertDP_a.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FConvertPD_a.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FConvert_d.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FDOBJ.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FDOBJ_a.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FDOBJ_d.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRDOBJ.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FDPPBJ.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FDPPBJ_d.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRDPPBJ.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRDPPBJAllCopy.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRDPPBJAll.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FOpBJ.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FOpBJ_d.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XROpBJNS.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XROpBJ.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FByrPiut.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FByrPiutSlg.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FByrPiut_d.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FCash.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FJMPiut.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FGiro.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FGiro_d.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FFtBebas.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FFtBebas_d.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRFtBebas.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FFtBJ.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FFtBJ_a.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FFtBJ_d.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRFtBJ2.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRFtBJ.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FPOBJJO_a.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FPOBJJO_d.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRPOBJJO.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FPOBJLk.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XXFPOBJLk.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FPOBJLk_d.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRAssOrder.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRPOBJLkR.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRPOBJLk.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRPOBJLkExt.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRPOBJLkInt.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FPromo.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FPromo_a.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FPromo_d.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRtrBJ.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRtrBJNF_a.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRtrBJWF_a.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRtrBJ_d.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRReturBJ.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSampReq.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSampReq_d.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRSampReq.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FTrmBJ.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FTrmBJ_a.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FTrmBJ_d.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRTrmBJ.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FTrArt.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FTrArt_d.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRTrArt.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FLogin.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FPilihBulan.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FPilihPeriode.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FPilihSales.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FPilihTgl.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FPilihUkuran.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSearch.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSplashScreen.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FUbahPass.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FUtama.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRBCJualBJ2.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRBCJualBJ.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRBCMutBB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRBCMutBJ.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRBCPakaiBB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRBCTrmBB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRBCTrmBJ.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRBCWaste.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRBCSubKontrak.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FArusBB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FArusBJ.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBOMvsBPB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBOMvsLPB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBOMvsLPBvsBPB2.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBOMvsLPBvsBPB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FNewCust.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRekDetBPB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRekDetTrmBB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRekDetTrmBBHarga.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRekPakaiBB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRekPPnPenj.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRekPPnPO.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRekReturBB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRekTransBJ.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRekTrmBB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRekTrmBJ.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRekTrmCust.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRtrQtyArt.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FTopJualArt.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FTraceFt.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FArusHutSupp.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRekDetHutSupp.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FUmurHut.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FKrtHutSupp.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRKrtHutSupp.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FKrtStokBB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FKrtStokBJ.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRKrtStokBB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRKrtStokBBNom.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRKrtStokBJ.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRLapBrg.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRLapCust.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRLapSupp.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FOmsetBln.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FOmsetLkp.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FOmsetPnd.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FOmsetQtyArt.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FOmsetSal.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FOmsetThn.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FOutsPO.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FOutsPOBJ.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FOutsPOBJJO.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XROutsPOHarga.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XROutsPO.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRRekBOMBtl.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FFilterPersBB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRPersBB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRPersBBNom.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRPersenBB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRSalBBBulan.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FArusPiutCust.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRekByrPiutCust.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRekDetPiutCust.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSisaPiut.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FUmurPiut.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FKrtPiutCust.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRKrtPiutCust.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRRekPiutAcc.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FFilterRekBOM.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FViewBOM.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRRekBOM.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRRekBOMNew.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FFilterRekDPPBJ.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRRekDPPBJ.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRSTDPP.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FStokBJ.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FStokBJJO.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FStokHargaBJ.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FStokHargaBJAll.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FStokHargaBJJO.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRBukuPemb.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRBukuPenj.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRJualRetur.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRRekLPBHarga.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRRekSampReq.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRStokBJ.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBahan.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBBJns.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBrgAss.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBrgAss_d.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBJJO.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBJLk.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBrgJns.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBrgKat.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBrgMerk.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBrgSat.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBrgWrn.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FUbahHarga.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBank.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FBankAcc.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FCurr.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FCust.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FDivisi.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FDocCode.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FGudang.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FJnsCust.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FJnsPot.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FKomponen.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FKota.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FPeriode.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FProp.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSales.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FStyle.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSupp.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FTipeDoc.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FModel.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FModel_d.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FModel_sa.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FModel_uk.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRModel.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSchKB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FProsKrj.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FProsKrj_a.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FProsKrj_d.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FReqProdBOM_a.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRReqProdHarga.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSpec.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSpec_a.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XXFSpec.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSpec_d.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSpec_sa.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRKolomSpec2.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRKolomSpec.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRSpec.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.Resources.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FKatTKL.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FLapWIP.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FLOH.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FHslProdJam.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FHslProdJam_d.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FHslProdTarget.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FHslProdTKL.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FHslProdTKL_d.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRDetTKL1.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRDetTKL3.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRKet.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRLapProd1.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRLapProd2.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRLapProd3.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSchAcc.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSchBott.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSchFin.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSchLeat.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSchPemb.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSchPPIC.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSchProd2.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSchSint.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSchTool.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FReqProd.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FReqProd_a.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FReqProd_d.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRReqProd.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XRReqQty.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.XXXRSpec.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FTargetProd.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FTargetProd_d.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FKoneksi.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FPerusahaan.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FRestoreDB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSetPeriode.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FTransBal.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FHakAkses.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FMenu.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FPosisi.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FUser.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSaldoBB.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSaldoBJ.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSaldoHutSupp.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSaldoPiutCust.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.FSinkronisasi.resources
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.vbproj.GenerateResource.Cache
+D:\! YUDI\App COBA\KBIS\KBIS\obj\Debug\KBIS.exe.licenses
+D:\! YUDI\App COBA\GBPS\KBIS\obj\Debug\KBIS.exe
+D:\! YUDI\App COBA\GBPS\KBIS\obj\Debug\KBIS.pdb
