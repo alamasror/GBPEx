@@ -22,7 +22,7 @@ Public Class FMetodeByr
             If Reader.HasRows Then
                 While Reader.Read
                     If IsDBNull(Reader.Item(0)) = True Then
-                        Manual = False
+                        Manual = True
                         CodeID = ""
                         MnlInsUpd = False
                     Else
@@ -46,7 +46,7 @@ Public Class FMetodeByr
         Me.BVBExit.Enabled = True
         Me.BVTMetode_s.Enabled = True
 
-        Me.TBKode.Properties.ReadOnly = True
+        Me.TBKode.Properties.ReadOnly = False
         Me.DTPTanggal.Properties.ReadOnly = True
         Me.DTPTglJT.Properties.ReadOnly = True
         Me.SLUSupp.Properties.ReadOnly = True
@@ -222,7 +222,7 @@ Public Class FMetodeByr
             Me.TBKode.Properties.ReadOnly = False
             Me.TBKode.EditValue = ""
         Else
-            Me.TBKode.Properties.ReadOnly = True
+            Me.TBKode.Properties.ReadOnly = False
             Me.TBKode.EditValue = "--"
         End If
 

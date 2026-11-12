@@ -47,6 +47,7 @@ Partial Public Class XRBukuPenj
         Me.LBTglPEB = New DevExpress.XtraReports.UI.XRLabel()
         Me.LBLC = New DevExpress.XtraReports.UI.XRLabel()
         Me.GroupFooter1 = New DevExpress.XtraReports.UI.GroupFooterBand()
+        Me.LBNilTukar = New DevExpress.XtraReports.UI.XRLabel()
         Me.LBGFTotRp = New DevExpress.XtraReports.UI.XRLabel()
         Me.XrLine8 = New DevExpress.XtraReports.UI.XRLine()
         Me.XrLine7 = New DevExpress.XtraReports.UI.XRLine()
@@ -93,12 +94,12 @@ Partial Public Class XRBukuPenj
         Me.PageFooter = New DevExpress.XtraReports.UI.PageFooterBand()
         Me.LBUser = New DevExpress.XtraReports.UI.XRLabel()
         Me.XrPageInfo2 = New DevExpress.XtraReports.UI.XRPageInfo()
-        Me.LBNilTukar = New DevExpress.XtraReports.UI.XRLabel()
+        Me.LbTgl2 = New DevExpress.XtraReports.UI.XRLabel()
         CType(Me, System.ComponentModel.ISupportInitialize).BeginInit()
         '
         'Detail
         '
-        Me.Detail.Controls.AddRange(New DevExpress.XtraReports.UI.XRControl() {Me.LBTotRp, Me.LBTot, Me.LBHarga, Me.LBSat, Me.LBQty, Me.LBBJ})
+        Me.Detail.Controls.AddRange(New DevExpress.XtraReports.UI.XRControl() {Me.LbTgl2, Me.LBTotRp, Me.LBTot, Me.LBHarga, Me.LBSat, Me.LBQty, Me.LBBJ})
         Me.Detail.Dpi = 254.0!
         Me.Detail.HeightF = 47.00004!
         Me.Detail.KeepTogether = True
@@ -411,6 +412,19 @@ Partial Public Class XRBukuPenj
         Me.GroupFooter1.Dpi = 254.0!
         Me.GroupFooter1.HeightF = 60.41677!
         Me.GroupFooter1.Name = "GroupFooter1"
+        '
+        'LBNilTukar
+        '
+        Me.LBNilTukar.Dpi = 254.0!
+        Me.LBNilTukar.Font = New System.Drawing.Font("Abadi MT Condensed Light", 10.0!, System.Drawing.FontStyle.Bold)
+        Me.LBNilTukar.LocationFloat = New DevExpress.Utils.PointFloat(1508.003!, 8.000077!)
+        Me.LBNilTukar.Name = "LBNilTukar"
+        Me.LBNilTukar.Padding = New DevExpress.XtraPrinting.PaddingInfo(5, 5, 0, 0, 254.0!)
+        Me.LBNilTukar.SizeF = New System.Drawing.SizeF(422.0861!, 47.0!)
+        Me.LBNilTukar.StylePriority.UseFont = False
+        Me.LBNilTukar.StylePriority.UseTextAlignment = False
+        Me.LBNilTukar.Text = "Nil Tukar Rp"
+        Me.LBNilTukar.TextAlignment = DevExpress.XtraPrinting.TextAlignment.TopLeft
         '
         'LBGFTotRp
         '
@@ -945,18 +959,18 @@ Partial Public Class XRBukuPenj
         Me.XrPageInfo2.SizeF = New System.Drawing.SizeF(378.3541!, 47.83661!)
         Me.XrPageInfo2.StylePriority.UseFont = False
         '
-        'LBNilTukar
+        'LbTgl2
         '
-        Me.LBNilTukar.Dpi = 254.0!
-        Me.LBNilTukar.Font = New System.Drawing.Font("Abadi MT Condensed Light", 10.0!, System.Drawing.FontStyle.Bold)
-        Me.LBNilTukar.LocationFloat = New DevExpress.Utils.PointFloat(1508.003!, 8.000077!)
-        Me.LBNilTukar.Name = "LBNilTukar"
-        Me.LBNilTukar.Padding = New DevExpress.XtraPrinting.PaddingInfo(5, 5, 0, 0, 254.0!)
-        Me.LBNilTukar.SizeF = New System.Drawing.SizeF(422.0861!, 47.0!)
-        Me.LBNilTukar.StylePriority.UseFont = False
-        Me.LBNilTukar.StylePriority.UseTextAlignment = False
-        Me.LBNilTukar.Text = "Nil Tukar Rp"
-        Me.LBNilTukar.TextAlignment = DevExpress.XtraPrinting.TextAlignment.TopLeft
+        Me.LbTgl2.Dpi = 254.0!
+        Me.LbTgl2.Font = New System.Drawing.Font("Abadi MT Condensed Light", 11.0!)
+        Me.LbTgl2.LocationFloat = New DevExpress.Utils.PointFloat(127.2168!, 0.0!)
+        Me.LbTgl2.Name = "LbTgl2"
+        Me.LbTgl2.Padding = New DevExpress.XtraPrinting.PaddingInfo(5, 5, 0, 0, 254.0!)
+        Me.LbTgl2.SizeF = New System.Drawing.SizeF(90.56311!, 47.0!)
+        Me.LbTgl2.StylePriority.UseFont = False
+        Me.LbTgl2.StylePriority.UseTextAlignment = False
+        Me.LbTgl2.Text = "Tgl"
+        Me.LbTgl2.TextAlignment = DevExpress.XtraPrinting.TextAlignment.TopLeft
         '
         'XRBukuPenj
         '
@@ -1050,4 +1064,5 @@ Partial Public Class XRBukuPenj
     Friend WithEvents XrLabel18 As DevExpress.XtraReports.UI.XRLabel
     Friend WithEvents XrLabel17 As DevExpress.XtraReports.UI.XRLabel
     Friend WithEvents LBNilTukar As DevExpress.XtraReports.UI.XRLabel
+    Friend WithEvents LbTgl2 As DevExpress.XtraReports.UI.XRLabel
 End Class

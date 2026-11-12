@@ -69,6 +69,7 @@ Public Class XRBukuPenj
         Me.LBCust.DataBindings.AddRange(New DevExpress.XtraReports.UI.XRBinding() {New DevExpress.XtraReports.UI.XRBinding("Text", Nothing, "BukuPenj.Cust")})
         Me.LBNPWP.DataBindings.AddRange(New DevExpress.XtraReports.UI.XRBinding() {New DevExpress.XtraReports.UI.XRBinding("Text", Nothing, "BukuPenj.NPWP")})
         Me.LBBJ.DataBindings.AddRange(New DevExpress.XtraReports.UI.XRBinding() {New DevExpress.XtraReports.UI.XRBinding("Text", Nothing, "BukuPenj.ArtName")})
+        Me.LbTgl2.DataBindings.AddRange(New DevExpress.XtraReports.UI.XRBinding() {New DevExpress.XtraReports.UI.XRBinding("Text", Nothing, "BukuPenj.Tanggal", "{0:dd}")})
 
         If Gol <> "Lain-Lain" Then
             Me.LBQty.DataBindings.AddRange(New DevExpress.XtraReports.UI.XRBinding() {New DevExpress.XtraReports.UI.XRBinding("Text", Nothing, "BukuPenj.Qty", "{0:n0}")})
