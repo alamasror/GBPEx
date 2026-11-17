@@ -21,6 +21,8 @@ Partial Public Class XRBukuPenj
     Private Sub InitializeComponent()
         Dim XrSummary1 As DevExpress.XtraReports.UI.XRSummary = New DevExpress.XtraReports.UI.XRSummary()
         Me.Detail = New DevExpress.XtraReports.UI.DetailBand()
+        Me.LBCust2 = New DevExpress.XtraReports.UI.XRLabel()
+        Me.LbTgl2 = New DevExpress.XtraReports.UI.XRLabel()
         Me.LBTotRp = New DevExpress.XtraReports.UI.XRLabel()
         Me.LBTot = New DevExpress.XtraReports.UI.XRLabel()
         Me.LBHarga = New DevExpress.XtraReports.UI.XRLabel()
@@ -94,18 +96,43 @@ Partial Public Class XRBukuPenj
         Me.PageFooter = New DevExpress.XtraReports.UI.PageFooterBand()
         Me.LBUser = New DevExpress.XtraReports.UI.XRLabel()
         Me.XrPageInfo2 = New DevExpress.XtraReports.UI.XRPageInfo()
-        Me.LbTgl2 = New DevExpress.XtraReports.UI.XRLabel()
         CType(Me, System.ComponentModel.ISupportInitialize).BeginInit()
         '
         'Detail
         '
-        Me.Detail.Controls.AddRange(New DevExpress.XtraReports.UI.XRControl() {Me.LbTgl2, Me.LBTotRp, Me.LBTot, Me.LBHarga, Me.LBSat, Me.LBQty, Me.LBBJ})
+        Me.Detail.Controls.AddRange(New DevExpress.XtraReports.UI.XRControl() {Me.LBCust2, Me.LbTgl2, Me.LBTotRp, Me.LBTot, Me.LBHarga, Me.LBSat, Me.LBQty, Me.LBBJ})
         Me.Detail.Dpi = 254.0!
         Me.Detail.HeightF = 47.00004!
         Me.Detail.KeepTogether = True
         Me.Detail.Name = "Detail"
         Me.Detail.Padding = New DevExpress.XtraPrinting.PaddingInfo(0, 0, 0, 0, 254.0!)
         Me.Detail.TextAlignment = DevExpress.XtraPrinting.TextAlignment.TopLeft
+        '
+        'LBCust2
+        '
+        Me.LBCust2.Dpi = 254.0!
+        Me.LBCust2.Font = New System.Drawing.Font("Abadi MT Condensed Light", 11.0!)
+        Me.LBCust2.LocationFloat = New DevExpress.Utils.PointFloat(467.606!, 0.0!)
+        Me.LBCust2.Name = "LBCust2"
+        Me.LBCust2.Padding = New DevExpress.XtraPrinting.PaddingInfo(5, 5, 0, 0, 254.0!)
+        Me.LBCust2.SizeF = New System.Drawing.SizeF(355.0423!, 47.0!)
+        Me.LBCust2.StylePriority.UseFont = False
+        Me.LBCust2.StylePriority.UseTextAlignment = False
+        Me.LBCust2.Text = "Nama Customer"
+        Me.LBCust2.TextAlignment = DevExpress.XtraPrinting.TextAlignment.TopLeft
+        '
+        'LbTgl2
+        '
+        Me.LbTgl2.Dpi = 254.0!
+        Me.LbTgl2.Font = New System.Drawing.Font("Abadi MT Condensed Light", 11.0!)
+        Me.LbTgl2.LocationFloat = New DevExpress.Utils.PointFloat(127.2168!, 0.0!)
+        Me.LbTgl2.Name = "LbTgl2"
+        Me.LbTgl2.Padding = New DevExpress.XtraPrinting.PaddingInfo(5, 5, 0, 0, 254.0!)
+        Me.LbTgl2.SizeF = New System.Drawing.SizeF(90.56311!, 47.0!)
+        Me.LbTgl2.StylePriority.UseFont = False
+        Me.LbTgl2.StylePriority.UseTextAlignment = False
+        Me.LbTgl2.Text = "Tgl"
+        Me.LbTgl2.TextAlignment = DevExpress.XtraPrinting.TextAlignment.TopLeft
         '
         'LBTotRp
         '
@@ -959,19 +986,6 @@ Partial Public Class XRBukuPenj
         Me.XrPageInfo2.SizeF = New System.Drawing.SizeF(378.3541!, 47.83661!)
         Me.XrPageInfo2.StylePriority.UseFont = False
         '
-        'LbTgl2
-        '
-        Me.LbTgl2.Dpi = 254.0!
-        Me.LbTgl2.Font = New System.Drawing.Font("Abadi MT Condensed Light", 11.0!)
-        Me.LbTgl2.LocationFloat = New DevExpress.Utils.PointFloat(127.2168!, 0.0!)
-        Me.LbTgl2.Name = "LbTgl2"
-        Me.LbTgl2.Padding = New DevExpress.XtraPrinting.PaddingInfo(5, 5, 0, 0, 254.0!)
-        Me.LbTgl2.SizeF = New System.Drawing.SizeF(90.56311!, 47.0!)
-        Me.LbTgl2.StylePriority.UseFont = False
-        Me.LbTgl2.StylePriority.UseTextAlignment = False
-        Me.LbTgl2.Text = "Tgl"
-        Me.LbTgl2.TextAlignment = DevExpress.XtraPrinting.TextAlignment.TopLeft
-        '
         'XRBukuPenj
         '
         Me.Bands.AddRange(New DevExpress.XtraReports.UI.Band() {Me.Detail, Me.TopMargin, Me.BottomMargin, Me.ReportHeader, Me.GroupHeader1, Me.GroupFooter1, Me.GroupHeader2, Me.GroupFooter2, Me.PageHeader, Me.ReportFooter, Me.PageFooter})
@@ -1065,4 +1079,5 @@ Partial Public Class XRBukuPenj
     Friend WithEvents XrLabel17 As DevExpress.XtraReports.UI.XRLabel
     Friend WithEvents LBNilTukar As DevExpress.XtraReports.UI.XRLabel
     Friend WithEvents LbTgl2 As DevExpress.XtraReports.UI.XRLabel
+    Friend WithEvents LBCust2 As DevExpress.XtraReports.UI.XRLabel
 End Class
